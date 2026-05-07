@@ -204,7 +204,9 @@ elif page == "❤️ Customer Health":
 
     display = filtered[['customer_id','plan','mrr','health_score','health_status']].sort_values('health_score')
     st.dataframe(
-        display.style.applymap(highlight_status, subset=['health_status']),
+        display.style.apply(
+            lambda col: col.map(highlight_status), subset=['health_status']
+        ),
         use_container_width=True,
         hide_index=True
     )
