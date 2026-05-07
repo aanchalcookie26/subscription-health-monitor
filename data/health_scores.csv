@@ -1,0 +1,2706 @@
+customer_id,plan,mrr,industry,tenure_score,usage_score,feature_score,support_score,health_score,health_status
+cust_1860,starter,299,Healthcare,2.083333333333333,0.0,5.0,0,7.1,Critical
+cust_419,growth,799,Healthcare,4.166666666666666,0.0,5.0,0,9.2,Critical
+cust_2291,starter,299,Other,4.166666666666666,1.5,5.0,0,10.7,Critical
+cust_2285,enterprise,4999,Other,6.25,0.0,5.0,0,11.3,Critical
+cust_1566,starter,299,SaaS,6.25,0.0,5.0,0,11.3,Critical
+cust_1467,pro,1999,Other,2.083333333333333,6.0,5.0,0,13.1,Critical
+cust_1538,enterprise,4999,Ecommerce,4.166666666666666,0.0,5.0,5,14.2,Critical
+cust_2626,starter,299,SaaS,4.166666666666666,6.0,5.0,0,15.2,Critical
+cust_2625,growth,799,SaaS,2.083333333333333,9.0,5.0,0,16.1,Critical
+cust_2076,starter,299,Finance,8.333333333333332,3.0,5.0,0,16.3,Critical
+cust_1484,growth,799,SaaS,4.166666666666666,7.5,5.0,0,16.7,Critical
+cust_2237,starter,299,Ecommerce,6.25,1.5,10.0,0,17.8,Critical
+cust_1440,enterprise,4999,Ecommerce,10.416666666666668,4.5,5.0,0,19.9,Critical
+cust_2984,enterprise,4999,Ecommerce,12.5,3.0,5.0,0,20.5,Critical
+cust_908,starter,299,SaaS,4.166666666666666,1.5,5.0,10,20.7,Critical
+cust_2788,pro,1999,Finance,4.166666666666666,1.5,10.0,5,20.7,Critical
+cust_2000,growth,799,SaaS,2.083333333333333,9.0,10.0,0,21.1,Critical
+cust_2135,starter,299,SaaS,6.25,0.0,5.0,10,21.3,Critical
+cust_2255,growth,799,Ecommerce,4.166666666666666,7.5,10.0,0,21.7,Critical
+cust_2768,pro,1999,Ecommerce,6.25,10.5,5.0,0,21.8,Critical
+cust_820,enterprise,4999,Finance,10.416666666666668,1.5,10.0,0,21.9,Critical
+cust_1700,enterprise,4999,Other,2.083333333333333,0.0,20.0,0,22.1,Critical
+cust_1951,starter,299,Other,2.083333333333333,15.0,5.0,0,22.1,Critical
+cust_2116,starter,299,SaaS,6.25,6.0,5.0,5,22.3,Critical
+cust_1052,starter,299,SaaS,2.083333333333333,1.5,15.0,5,23.6,Critical
+cust_2290,growth,799,SaaS,2.083333333333333,1.5,15.0,5,23.6,Critical
+cust_1454,pro,1999,Other,4.166666666666666,4.5,5.0,10,23.7,Critical
+cust_1813,starter,299,Finance,4.166666666666666,4.5,5.0,10,23.7,Critical
+cust_2355,pro,1999,Healthcare,10.416666666666668,9.0,5.0,0,24.4,Critical
+cust_726,starter,299,Ecommerce,10.416666666666668,4.5,5.0,5,24.9,Critical
+cust_2062,growth,799,Ecommerce,2.083333333333333,3.0,15.0,5,25.1,Critical
+cust_2167,starter,299,Ecommerce,10.416666666666668,0.0,15.0,0,25.4,Critical
+cust_1134,enterprise,4999,SaaS,2.083333333333333,13.5,10.0,0,25.6,Critical
+cust_1297,pro,1999,Other,14.583333333333334,6.0,5.0,0,25.6,Critical
+cust_2466,growth,799,Ecommerce,4.166666666666666,16.5,5.0,0,25.7,Critical
+cust_956,pro,1999,Other,8.333333333333332,7.5,10.0,0,25.8,Critical
+cust_2812,starter,299,Ecommerce,2.083333333333333,4.5,10.0,10,26.6,Critical
+cust_1477,growth,799,Finance,12.5,4.5,10.0,0,27.0,Critical
+cust_2471,pro,1999,Healthcare,14.583333333333334,7.5,5.0,0,27.1,Critical
+cust_2623,pro,1999,Other,2.083333333333333,15.0,5.0,5,27.1,Critical
+cust_2411,starter,299,Other,2.083333333333333,0.0,25.0,0,27.1,Critical
+cust_2803,starter,299,Finance,12.5,0.0,15.0,0,27.5,Critical
+cust_895,pro,1999,Ecommerce,2.083333333333333,10.5,5.0,10,27.6,Critical
+cust_1008,starter,299,Ecommerce,16.666666666666664,6.0,5.0,0,27.7,Critical
+cust_135,growth,799,SaaS,10.416666666666668,3.0,10.0,5,28.4,Critical
+cust_2029,growth,799,Other,12.5,6.0,10.0,0,28.5,Critical
+cust_380,enterprise,4999,Ecommerce,12.5,6.0,5.0,5,28.5,Critical
+cust_2982,enterprise,4999,Other,4.166666666666666,4.5,10.0,10,28.7,Critical
+cust_829,growth,799,SaaS,18.75,0.0,10.0,0,28.8,Critical
+cust_1108,starter,299,SaaS,20.833333333333336,3.0,5.0,0,28.8,Critical
+cust_1172,starter,299,Healthcare,6.25,7.5,15.0,0,28.8,Critical
+cust_2280,pro,1999,Finance,16.666666666666664,7.5,5.0,0,29.2,Critical
+cust_855,pro,1999,Ecommerce,6.25,18.0,5.0,0,29.3,Critical
+cust_452,enterprise,4999,Finance,8.333333333333332,6.0,15.0,0,29.3,Critical
+cust_1385,starter,299,SaaS,10.416666666666668,9.0,10.0,0,29.4,Critical
+cust_2110,pro,1999,SaaS,22.916666666666664,1.5,5.0,0,29.4,Critical
+cust_1300,pro,1999,Ecommerce,22.916666666666664,1.5,5.0,0,29.4,Critical
+cust_1288,starter,299,Healthcare,10.416666666666668,9.0,10.0,0,29.4,Critical
+cust_430,pro,1999,Finance,12.5,12.0,5.0,0,29.5,Critical
+cust_2955,starter,299,Healthcare,2.083333333333333,22.5,5.0,0,29.6,Critical
+cust_2609,starter,299,Healthcare,2.083333333333333,7.5,5.0,15,29.6,Critical
+cust_1535,growth,799,Finance,4.166666666666666,10.5,15.0,0,29.7,Critical
+cust_518,pro,1999,Healthcare,25.0,0.0,5.0,0,30.0,Critical
+cust_1957,starter,299,Healthcare,12.5,7.5,5.0,5,30.0,Critical
+cust_2171,starter,299,SaaS,4.166666666666666,21.0,5.0,0,30.2,Critical
+cust_2938,growth,799,Healthcare,10.416666666666668,0.0,20.0,0,30.4,Critical
+cust_237,pro,1999,Healthcare,4.166666666666666,1.5,25.0,0,30.7,Critical
+cust_1053,growth,799,Healthcare,4.166666666666666,12.0,10.0,5,31.2,Critical
+cust_2946,enterprise,4999,Other,16.666666666666664,4.5,5.0,5,31.2,Critical
+cust_1041,starter,299,Healthcare,6.25,0.0,25.0,0,31.3,Critical
+cust_2809,starter,299,SaaS,6.25,0.0,25.0,0,31.3,Critical
+cust_2382,starter,299,Other,8.333333333333332,3.0,15.0,5,31.3,Critical
+cust_2402,pro,1999,SaaS,10.416666666666668,6.0,15.0,0,31.4,Critical
+cust_2384,growth,799,Healthcare,25.0,1.5,5.0,0,31.5,Critical
+cust_2690,growth,799,Ecommerce,2.083333333333333,4.5,25.0,0,31.6,Critical
+cust_2256,starter,299,SaaS,8.333333333333332,13.5,10.0,0,31.8,Critical
+cust_2494,starter,299,Ecommerce,20.833333333333336,6.0,5.0,0,31.8,Critical
+cust_2636,growth,799,SaaS,6.25,10.5,10.0,5,31.8,Critical
+cust_2674,pro,1999,SaaS,10.416666666666668,1.5,15.0,5,31.9,Critical
+cust_944,starter,299,Healthcare,12.5,4.5,15.0,0,32.0,Critical
+cust_470,starter,299,Healthcare,4.166666666666666,3.0,25.0,0,32.2,Critical
+cust_889,pro,1999,Other,4.166666666666666,3.0,25.0,0,32.2,Critical
+cust_1730,enterprise,4999,Ecommerce,6.25,6.0,20.0,0,32.3,Critical
+cust_2519,starter,299,Ecommerce,20.833333333333336,1.5,10.0,0,32.3,Critical
+cust_206,pro,1999,Other,2.083333333333333,10.5,20.0,0,32.6,Critical
+cust_1711,pro,1999,Ecommerce,16.666666666666664,6.0,10.0,0,32.7,Critical
+cust_57,starter,299,Other,6.25,1.5,20.0,5,32.8,Critical
+cust_682,growth,799,Ecommerce,6.25,1.5,25.0,0,32.8,Critical
+cust_2397,starter,299,Healthcare,8.333333333333332,4.5,10.0,10,32.8,Critical
+cust_2093,growth,799,SaaS,22.916666666666664,0.0,10.0,0,32.9,Critical
+cust_502,pro,1999,Finance,25.0,3.0,5.0,0,33.0,Critical
+cust_2657,growth,799,Ecommerce,25.0,3.0,5.0,0,33.0,Critical
+cust_1010,pro,1999,Ecommerce,4.166666666666666,9.0,20.0,0,33.2,Critical
+cust_962,starter,299,Finance,8.333333333333332,0.0,25.0,0,33.3,Critical
+cust_608,growth,799,Ecommerce,12.5,6.0,15.0,0,33.5,Critical
+cust_2449,pro,1999,SaaS,2.083333333333333,16.5,10.0,5,33.6,Critical
+cust_1074,starter,299,Finance,16.666666666666664,12.0,5.0,0,33.7,Critical
+cust_1080,starter,299,Ecommerce,6.25,7.5,20.0,0,33.8,Critical
+cust_1717,growth,799,SaaS,6.25,7.5,5.0,15,33.8,Critical
+cust_1905,pro,1999,Healthcare,6.25,7.5,5.0,15,33.8,Critical
+cust_960,enterprise,4999,Ecommerce,14.583333333333334,4.5,15.0,0,34.1,Critical
+cust_1412,growth,799,Other,14.583333333333334,4.5,5.0,10,34.1,Critical
+cust_1461,starter,299,Ecommerce,4.166666666666666,0.0,25.0,5,34.2,Critical
+cust_2194,starter,299,SaaS,4.166666666666666,0.0,25.0,5,34.2,Critical
+cust_657,growth,799,Finance,6.25,3.0,10.0,15,34.3,Critical
+cust_718,pro,1999,Finance,6.25,3.0,10.0,15,34.3,Critical
+cust_327,growth,799,SaaS,10.416666666666668,9.0,15.0,0,34.4,Critical
+cust_1427,starter,299,Other,25.0,4.5,5.0,0,34.5,Critical
+cust_4,starter,299,Other,8.333333333333332,1.5,25.0,0,34.8,Critical
+cust_543,enterprise,4999,SaaS,18.75,6.0,5.0,5,34.8,Critical
+cust_1751,pro,1999,Other,10.416666666666668,4.5,15.0,5,34.9,Critical
+cust_2437,growth,799,Healthcare,25.0,0.0,10.0,0,35.0,Critical
+cust_1510,starter,299,Other,2.083333333333333,3.0,15.0,15,35.1,Critical
+cust_574,pro,1999,Finance,4.166666666666666,6.0,25.0,0,35.2,Critical
+cust_1076,enterprise,4999,Other,18.75,1.5,5.0,10,35.3,Critical
+cust_1719,starter,299,SaaS,6.25,9.0,15.0,5,35.3,Critical
+cust_1584,growth,799,Ecommerce,10.416666666666668,0.0,25.0,0,35.4,Critical
+cust_1686,growth,799,Other,12.5,3.0,10.0,10,35.5,Critical
+cust_460,growth,799,Other,12.5,3.0,20.0,0,35.5,Critical
+cust_1166,growth,799,SaaS,2.083333333333333,13.5,15.0,5,35.6,Critical
+cust_1383,enterprise,4999,Healthcare,20.833333333333336,0.0,15.0,0,35.8,Critical
+cust_1759,enterprise,4999,SaaS,6.25,4.5,5.0,20,35.8,Critical
+cust_1898,growth,799,Finance,10.416666666666668,10.5,15.0,0,35.9,Critical
+cust_1639,starter,299,SaaS,25.0,6.0,5.0,0,36.0,Critical
+cust_2567,growth,799,Healthcare,25.0,6.0,5.0,0,36.0,Critical
+cust_2708,enterprise,4999,SaaS,25.0,6.0,5.0,0,36.0,Critical
+cust_14,growth,799,Other,2.083333333333333,24.0,10.0,0,36.1,Critical
+cust_2254,starter,299,Finance,2.083333333333333,9.0,10.0,15,36.1,Critical
+cust_1184,starter,299,SaaS,4.166666666666666,12.0,20.0,0,36.2,Critical
+cust_1523,growth,799,Ecommerce,8.333333333333332,3.0,20.0,5,36.3,Critical
+cust_2830,growth,799,SaaS,20.833333333333336,10.5,5.0,0,36.3,Critical
+cust_2944,growth,799,Finance,8.333333333333332,3.0,25.0,0,36.3,Critical
+cust_1234,growth,799,Finance,25.0,1.5,10.0,0,36.5,Critical
+cust_2695,growth,799,Finance,12.5,9.0,10.0,5,36.5,Critical
+cust_2750,growth,799,Finance,25.0,1.5,10.0,0,36.5,Critical
+cust_2791,starter,299,Healthcare,25.0,1.5,10.0,0,36.5,Critical
+cust_1213,starter,299,Healthcare,2.083333333333333,4.5,25.0,5,36.6,Critical
+cust_1750,starter,299,Finance,2.083333333333333,19.5,5.0,10,36.6,Critical
+cust_1522,starter,299,Other,4.166666666666666,7.5,25.0,0,36.7,Critical
+cust_2521,starter,299,SaaS,16.666666666666664,0.0,15.0,5,36.7,Critical
+cust_1601,enterprise,4999,SaaS,6.25,25.5,5.0,0,36.8,Critical
+cust_725,starter,299,Finance,22.916666666666664,9.0,5.0,0,36.9,Critical
+cust_615,pro,1999,Finance,4.166666666666666,18.0,10.0,5,37.2,Critical
+cust_1391,starter,299,SaaS,12.5,0.0,25.0,0,37.5,Critical
+cust_694,starter,299,Healthcare,25.0,7.5,5.0,0,37.5,Critical
+cust_1337,growth,799,Ecommerce,14.583333333333334,3.0,15.0,5,37.6,Critical
+cust_712,starter,299,Other,18.75,9.0,10.0,0,37.8,Critical
+cust_2124,growth,799,Ecommerce,10.416666666666668,7.5,20.0,0,37.9,Critical
+cust_2389,starter,299,Ecommerce,10.416666666666668,7.5,20.0,0,37.9,Critical
+cust_2529,pro,1999,Other,22.916666666666664,0.0,10.0,5,37.9,Critical
+cust_1504,enterprise,4999,SaaS,25.0,3.0,10.0,0,38.0,Critical
+cust_1302,starter,299,Finance,25.0,3.0,10.0,0,38.0,Critical
+cust_2051,starter,299,Ecommerce,25.0,3.0,5.0,5,38.0,Critical
+cust_1568,pro,1999,SaaS,25.0,3.0,5.0,5,38.0,Critical
+cust_3,growth,799,Healthcare,2.083333333333333,6.0,20.0,10,38.1,Critical
+cust_2939,starter,299,Finance,2.083333333333333,21.0,10.0,5,38.1,Critical
+cust_748,starter,299,Ecommerce,10.416666666666668,3.0,25.0,0,38.4,Critical
+cust_1956,pro,1999,SaaS,6.25,22.5,5.0,5,38.8,Critical
+cust_1087,starter,299,Ecommerce,8.333333333333332,10.5,5.0,15,38.8,Critical
+cust_489,pro,1999,Healthcare,6.25,7.5,20.0,5,38.8,Critical
+cust_269,enterprise,4999,Healthcare,10.416666666666668,13.5,15.0,0,38.9,Critical
+cust_996,pro,1999,Other,25.0,9.0,5.0,0,39.0,Critical
+cust_1072,pro,1999,SaaS,25.0,9.0,5.0,0,39.0,Critical
+cust_2400,starter,299,Other,2.083333333333333,12.0,25.0,0,39.1,Critical
+cust_1651,enterprise,4999,Healthcare,14.583333333333334,4.5,15.0,5,39.1,Critical
+cust_1413,pro,1999,SaaS,14.583333333333334,4.5,20.0,0,39.1,Critical
+cust_602,starter,299,Other,4.166666666666666,30.0,5.0,0,39.2,Critical
+cust_2617,growth,799,Ecommerce,4.166666666666666,15.0,20.0,0,39.2,Critical
+cust_2238,growth,799,Other,4.166666666666666,30.0,5.0,0,39.2,Critical
+cust_2902,enterprise,4999,Finance,8.333333333333332,6.0,25.0,0,39.3,Critical
+cust_1545,starter,299,Ecommerce,10.416666666666668,9.0,20.0,0,39.4,Critical
+cust_2435,starter,299,Other,25.0,4.5,5.0,5,39.5,Critical
+cust_1787,pro,1999,Healthcare,25.0,4.5,10.0,0,39.5,Critical
+cust_244,pro,1999,Ecommerce,25.0,4.5,5.0,5,39.5,Critical
+cust_1488,starter,299,Finance,25.0,4.5,10.0,0,39.5,Critical
+cust_1032,pro,1999,Ecommerce,25.0,4.5,10.0,0,39.5,Critical
+cust_1313,pro,1999,Ecommerce,25.0,4.5,5.0,5,39.5,Critical
+cust_751,pro,1999,Ecommerce,14.583333333333334,0.0,10.0,15,39.6,Critical
+cust_836,pro,1999,Ecommerce,14.583333333333334,0.0,10.0,15,39.6,Critical
+cust_1803,starter,299,SaaS,2.083333333333333,7.5,10.0,20,39.6,Critical
+cust_323,starter,299,Healthcare,4.166666666666666,10.5,25.0,0,39.7,Critical
+cust_2751,growth,799,Other,16.666666666666664,3.0,10.0,10,39.7,Critical
+cust_291,growth,799,Finance,8.333333333333332,1.5,10.0,20,39.8,Critical
+cust_1403,growth,799,Ecommerce,18.75,6.0,5.0,10,39.8,Critical
+cust_1086,starter,299,Finance,10.416666666666668,4.5,5.0,20,39.9,Critical
+cust_677,growth,799,Ecommerce,10.416666666666668,4.5,25.0,0,39.9,Critical
+cust_2368,starter,299,Ecommerce,25.0,0.0,15.0,0,40.0,Critical
+cust_1317,enterprise,4999,SaaS,12.5,7.5,15.0,5,40.0,Critical
+cust_2961,growth,799,Ecommerce,25.0,0.0,10.0,5,40.0,Critical
+cust_640,starter,299,Finance,25.0,0.0,10.0,5,40.0,Critical
+cust_2002,growth,799,SaaS,14.583333333333334,10.5,5.0,10,40.1,Critical
+cust_1998,growth,799,Ecommerce,2.083333333333333,18.0,20.0,0,40.1,Critical
+cust_2128,starter,299,Ecommerce,4.166666666666666,6.0,25.0,5,40.2,Critical
+cust_2077,starter,299,Ecommerce,4.166666666666666,21.0,10.0,5,40.2,Critical
+cust_1855,pro,1999,Healthcare,20.833333333333336,4.5,15.0,0,40.3,Critical
+cust_978,growth,799,Ecommerce,6.25,9.0,5.0,20,40.3,Critical
+cust_2166,pro,1999,SaaS,6.25,9.0,25.0,0,40.3,Critical
+cust_1974,growth,799,SaaS,8.333333333333332,12.0,20.0,0,40.3,Critical
+cust_274,starter,299,Finance,10.416666666666668,0.0,25.0,5,40.4,Critical
+cust_719,starter,299,Other,10.416666666666668,0.0,25.0,5,40.4,Critical
+cust_1656,pro,1999,Finance,12.5,3.0,25.0,0,40.5,Critical
+cust_2873,growth,799,Other,2.083333333333333,13.5,25.0,0,40.6,Critical
+cust_22,pro,1999,Finance,14.583333333333334,21.0,5.0,0,40.6,Critical
+cust_2618,enterprise,4999,Finance,2.083333333333333,13.5,25.0,0,40.6,Critical
+cust_1242,pro,1999,Healthcare,4.166666666666666,1.5,25.0,10,40.7,Critical
+cust_815,growth,799,Finance,8.333333333333332,7.5,25.0,0,40.8,Critical
+cust_828,growth,799,SaaS,6.25,19.5,10.0,5,40.8,Critical
+cust_371,pro,1999,Healthcare,6.25,19.5,15.0,0,40.8,Critical
+cust_1567,pro,1999,Finance,6.25,4.5,10.0,20,40.8,Critical
+cust_1476,pro,1999,Healthcare,18.75,12.0,10.0,0,40.8,Critical
+cust_1600,starter,299,Ecommerce,10.416666666666668,10.5,10.0,10,40.9,Critical
+cust_270,starter,299,Healthcare,25.0,6.0,10.0,0,41.0,Critical
+cust_2549,starter,299,Finance,25.0,6.0,10.0,0,41.0,Critical
+cust_1923,pro,1999,Finance,14.583333333333334,1.5,25.0,0,41.1,Critical
+cust_2082,pro,1999,SaaS,14.583333333333334,1.5,15.0,10,41.1,Critical
+cust_524,starter,299,SaaS,4.166666666666666,12.0,25.0,0,41.2,Critical
+cust_2969,starter,299,Finance,6.25,15.0,20.0,0,41.3,Critical
+cust_1975,pro,1999,Finance,6.25,15.0,20.0,0,41.3,Critical
+cust_2774,starter,299,Other,20.833333333333336,10.5,5.0,5,41.3,Critical
+cust_109,growth,799,Finance,18.75,7.5,10.0,5,41.3,Critical
+cust_2129,starter,299,Finance,25.0,1.5,15.0,0,41.5,Critical
+cust_120,starter,299,Healthcare,25.0,1.5,5.0,10,41.5,Critical
+cust_767,pro,1999,Healthcare,25.0,1.5,15.0,0,41.5,Critical
+cust_1368,growth,799,SaaS,25.0,1.5,10.0,5,41.5,Critical
+cust_393,pro,1999,Finance,25.0,1.5,15.0,0,41.5,Critical
+cust_2121,pro,1999,Healthcare,25.0,1.5,5.0,10,41.5,Critical
+cust_1705,starter,299,Healthcare,2.083333333333333,19.5,15.0,5,41.6,Critical
+cust_1446,enterprise,4999,Other,14.583333333333334,12.0,10.0,5,41.6,Critical
+cust_1680,growth,799,Healthcare,16.666666666666664,0.0,25.0,0,41.7,Critical
+cust_1539,pro,1999,Other,16.666666666666664,0.0,25.0,0,41.7,Critical
+cust_545,starter,299,SaaS,4.166666666666666,7.5,20.0,10,41.7,Critical
+cust_1298,starter,299,Finance,6.25,25.5,10.0,0,41.8,Critical
+cust_1754,starter,299,SaaS,10.416666666666668,16.5,10.0,5,41.9,Critical
+cust_1060,starter,299,Ecommerce,10.416666666666668,1.5,25.0,5,41.9,Critical
+cust_2810,growth,799,Healthcare,12.5,4.5,5.0,20,42.0,Critical
+cust_774,starter,299,Other,25.0,12.0,5.0,0,42.0,Critical
+cust_1673,growth,799,Finance,12.5,4.5,10.0,15,42.0,Critical
+cust_1349,starter,299,Finance,12.5,4.5,15.0,10,42.0,Critical
+cust_2360,enterprise,4999,Healthcare,14.583333333333334,7.5,15.0,5,42.1,Critical
+cust_175,starter,299,Other,2.083333333333333,30.0,10.0,0,42.1,Critical
+cust_886,pro,1999,Finance,14.583333333333334,7.5,20.0,0,42.1,Critical
+cust_938,growth,799,Ecommerce,2.083333333333333,30.0,5.0,5,42.1,Critical
+cust_2910,pro,1999,Other,6.25,21.0,5.0,10,42.3,Critical
+cust_765,starter,299,Healthcare,8.333333333333332,9.0,25.0,0,42.3,Critical
+cust_2027,pro,1999,SaaS,10.416666666666668,12.0,20.0,0,42.4,Critical
+cust_2580,growth,799,Other,12.5,0.0,25.0,5,42.5,Critical
+cust_84,growth,799,Ecommerce,25.0,7.5,5.0,5,42.5,Critical
+cust_116,growth,799,Finance,12.5,15.0,10.0,5,42.5,Critical
+cust_347,starter,299,Finance,25.0,7.5,5.0,5,42.5,Critical
+cust_193,starter,299,Finance,2.083333333333333,25.5,15.0,0,42.6,Critical
+cust_997,enterprise,4999,Finance,2.083333333333333,10.5,25.0,5,42.6,Critical
+cust_1775,growth,799,Other,16.666666666666664,6.0,10.0,10,42.7,Critical
+cust_1941,growth,799,Ecommerce,4.166666666666666,13.5,20.0,5,42.7,Critical
+cust_1163,growth,799,Ecommerce,20.833333333333336,12.0,10.0,0,42.8,Critical
+cust_799,growth,799,Finance,18.75,9.0,10.0,5,42.8,Critical
+cust_620,starter,299,Other,8.333333333333332,19.5,5.0,10,42.8,Critical
+cust_2017,starter,299,Healthcare,22.916666666666664,15.0,5.0,0,42.9,Critical
+cust_1219,enterprise,4999,Healthcare,10.416666666666668,7.5,25.0,0,42.9,Critical
+cust_453,pro,1999,SaaS,22.916666666666664,15.0,5.0,0,42.9,Critical
+cust_1444,starter,299,Other,25.0,3.0,15.0,0,43.0,Critical
+cust_1208,growth,799,Healthcare,25.0,3.0,5.0,10,43.0,Critical
+cust_2483,growth,799,Ecommerce,25.0,3.0,15.0,0,43.0,Critical
+cust_661,starter,299,SaaS,25.0,3.0,15.0,0,43.0,Critical
+cust_472,starter,299,Finance,14.583333333333334,13.5,15.0,0,43.1,Critical
+cust_2412,growth,799,Finance,16.666666666666664,1.5,25.0,0,43.2,Critical
+cust_1804,growth,799,Finance,8.333333333333332,30.0,5.0,0,43.3,Critical
+cust_2489,starter,299,Ecommerce,6.25,12.0,25.0,0,43.3,Critical
+cust_2504,starter,299,Finance,8.333333333333332,30.0,5.0,0,43.3,Critical
+cust_2215,growth,799,Ecommerce,6.25,12.0,25.0,0,43.3,Critical
+cust_303,growth,799,Finance,8.333333333333332,30.0,5.0,0,43.3,Critical
+cust_168,pro,1999,Finance,18.75,4.5,10.0,10,43.3,Critical
+cust_76,enterprise,4999,Finance,22.916666666666664,10.5,10.0,0,43.4,Critical
+cust_1364,pro,1999,Other,12.5,21.0,5.0,5,43.5,Critical
+cust_1369,growth,799,Healthcare,25.0,13.5,5.0,0,43.5,Critical
+cust_1620,pro,1999,Finance,14.583333333333334,9.0,20.0,0,43.6,Critical
+cust_2705,growth,799,Other,14.583333333333334,9.0,5.0,15,43.6,Critical
+cust_2720,growth,799,Other,18.75,0.0,20.0,5,43.8,Critical
+cust_2020,pro,1999,Other,8.333333333333332,10.5,5.0,20,43.8,Critical
+cust_1107,starter,299,SaaS,6.25,7.5,10.0,20,43.8,Critical
+cust_2648,growth,799,Finance,12.5,1.5,15.0,15,44.0,Critical
+cust_376,growth,799,Finance,12.5,1.5,25.0,5,44.0,Critical
+cust_881,enterprise,4999,Ecommerce,12.5,1.5,25.0,5,44.0,Critical
+cust_2886,starter,299,Other,14.583333333333334,4.5,25.0,0,44.1,Critical
+cust_1597,enterprise,4999,Healthcare,4.166666666666666,15.0,25.0,0,44.2,Critical
+cust_155,growth,799,SaaS,4.166666666666666,30.0,10.0,0,44.2,Critical
+cust_202,growth,799,Healthcare,4.166666666666666,15.0,15.0,10,44.2,Critical
+cust_2339,starter,299,Finance,4.166666666666666,30.0,10.0,0,44.2,Critical
+cust_1992,growth,799,SaaS,4.166666666666666,30.0,10.0,0,44.2,Critical
+cust_969,starter,299,Healthcare,4.166666666666666,15.0,15.0,10,44.2,Critical
+cust_2114,pro,1999,Healthcare,6.25,18.0,5.0,15,44.3,Critical
+cust_2094,starter,299,Finance,22.916666666666664,1.5,5.0,15,44.4,Critical
+cust_1468,starter,299,Ecommerce,25.0,4.5,15.0,0,44.5,Critical
+cust_2201,starter,299,Ecommerce,25.0,4.5,15.0,0,44.5,Critical
+cust_861,starter,299,Healthcare,25.0,4.5,5.0,10,44.5,Critical
+cust_1756,growth,799,Finance,25.0,4.5,15.0,0,44.5,Critical
+cust_1332,growth,799,Other,2.083333333333333,22.5,15.0,5,44.6,Critical
+cust_1424,pro,1999,Finance,14.583333333333334,0.0,25.0,5,44.6,Critical
+cust_2459,growth,799,Healthcare,16.666666666666664,3.0,25.0,0,44.7,Critical
+cust_2131,pro,1999,Healthcare,16.666666666666664,18.0,10.0,0,44.7,Critical
+cust_1258,pro,1999,Ecommerce,18.75,6.0,5.0,15,44.8,Critical
+cust_315,growth,799,SaaS,6.25,13.5,20.0,5,44.8,Critical
+cust_2233,pro,1999,Ecommerce,8.333333333333332,1.5,25.0,10,44.8,Critical
+cust_2554,growth,799,Other,25.0,0.0,20.0,0,45.0,Critical
+cust_1083,growth,799,SaaS,25.0,0.0,5.0,15,45.0,Critical
+cust_427,enterprise,4999,Finance,25.0,0.0,20.0,0,45.0,Critical
+cust_1821,pro,1999,Other,25.0,0.0,20.0,0,45.0,Critical
+cust_1830,growth,799,Other,25.0,0.0,20.0,0,45.0,Critical
+cust_485,pro,1999,Finance,12.5,7.5,15.0,10,45.0,Critical
+cust_2317,growth,799,SaaS,12.5,7.5,25.0,0,45.0,Critical
+cust_2813,pro,1999,Other,12.5,7.5,15.0,10,45.0,Critical
+cust_74,pro,1999,Healthcare,25.0,0.0,10.0,10,45.0,Critical
+cust_2879,enterprise,4999,Other,12.5,22.5,10.0,0,45.0,Critical
+cust_611,starter,299,SaaS,25.0,0.0,20.0,0,45.0,Critical
+cust_1229,starter,299,Other,2.083333333333333,3.0,25.0,15,45.1,Critical
+cust_466,starter,299,Ecommerce,2.083333333333333,18.0,25.0,0,45.1,Critical
+cust_2224,pro,1999,Ecommerce,14.583333333333334,10.5,5.0,15,45.1,Critical
+cust_308,enterprise,4999,Ecommerce,4.166666666666666,6.0,20.0,15,45.2,Critical
+cust_709,starter,299,SaaS,16.666666666666664,13.5,15.0,0,45.2,Critical
+cust_957,pro,1999,Ecommerce,18.75,1.5,20.0,5,45.3,Critical
+cust_705,enterprise,4999,Healthcare,6.25,9.0,25.0,5,45.3,Critical
+cust_2601,enterprise,4999,SaaS,10.416666666666668,30.0,5.0,0,45.4,Critical
+cust_127,pro,1999,SaaS,10.416666666666668,0.0,15.0,20,45.4,Critical
+cust_2669,starter,299,Other,12.5,3.0,15.0,15,45.5,Critical
+cust_1642,starter,299,Ecommerce,25.0,10.5,5.0,5,45.5,Critical
+cust_1688,growth,799,Ecommerce,16.666666666666664,24.0,5.0,0,45.7,Critical
+cust_394,pro,1999,Finance,16.666666666666664,24.0,5.0,0,45.7,Critical
+cust_1713,growth,799,Healthcare,6.25,19.5,15.0,5,45.8,Critical
+cust_2600,starter,299,Finance,20.833333333333336,0.0,25.0,0,45.8,Critical
+cust_1638,starter,299,Ecommerce,8.333333333333332,22.5,5.0,10,45.8,Critical
+cust_2571,enterprise,4999,Ecommerce,20.833333333333336,0.0,10.0,15,45.8,Critical
+cust_2087,enterprise,4999,Other,20.833333333333336,15.0,5.0,5,45.8,Critical
+cust_2924,growth,799,Other,8.333333333333332,7.5,20.0,10,45.8,Critical
+cust_2125,starter,299,Ecommerce,25.0,6.0,5.0,10,46.0,Critical
+cust_1886,growth,799,SaaS,25.0,6.0,5.0,10,46.0,Critical
+cust_198,growth,799,Other,25.0,6.0,15.0,0,46.0,Critical
+cust_249,starter,299,Ecommerce,12.5,13.5,15.0,5,46.0,Critical
+cust_1881,pro,1999,Other,25.0,6.0,5.0,10,46.0,Critical
+cust_641,starter,299,Finance,25.0,6.0,10.0,5,46.0,Critical
+cust_1371,pro,1999,SaaS,25.0,6.0,15.0,0,46.0,Critical
+cust_785,growth,799,Ecommerce,25.0,6.0,5.0,10,46.0,Critical
+cust_1239,enterprise,4999,SaaS,14.583333333333334,1.5,25.0,5,46.1,Critical
+cust_2528,growth,799,Finance,14.583333333333334,1.5,25.0,5,46.1,Critical
+cust_2778,growth,799,SaaS,4.166666666666666,12.0,25.0,5,46.2,Critical
+cust_1841,pro,1999,Other,4.166666666666666,27.0,10.0,5,46.2,Critical
+cust_1408,pro,1999,SaaS,16.666666666666664,4.5,25.0,0,46.2,Critical
+cust_551,growth,799,SaaS,6.25,15.0,5.0,20,46.3,Critical
+cust_607,pro,1999,SaaS,8.333333333333332,18.0,15.0,5,46.3,Critical
+cust_1138,pro,1999,Healthcare,6.25,30.0,10.0,0,46.3,Critical
+cust_2988,pro,1999,SaaS,18.75,7.5,5.0,15,46.3,Critical
+cust_2065,starter,299,Healthcare,22.916666666666664,13.5,10.0,0,46.4,Critical
+cust_853,growth,799,Healthcare,10.416666666666668,6.0,25.0,5,46.4,Critical
+cust_2434,growth,799,Other,25.0,16.5,5.0,0,46.5,Critical
+cust_1370,starter,299,Finance,25.0,1.5,10.0,10,46.5,Critical
+cust_2212,growth,799,Other,25.0,1.5,5.0,15,46.5,Critical
+cust_1120,starter,299,Other,25.0,1.5,20.0,0,46.5,Critical
+cust_786,pro,1999,Healthcare,25.0,1.5,10.0,10,46.5,Critical
+cust_714,starter,299,Other,12.5,9.0,15.0,10,46.5,Critical
+cust_2543,starter,299,SaaS,25.0,1.5,20.0,0,46.5,Critical
+cust_562,pro,1999,Other,25.0,1.5,10.0,10,46.5,Critical
+cust_493,growth,799,Healthcare,25.0,16.5,5.0,0,46.5,Critical
+cust_2755,enterprise,4999,Ecommerce,25.0,1.5,5.0,15,46.5,Critical
+cust_2075,growth,799,SaaS,25.0,16.5,5.0,0,46.5,Critical
+cust_2882,starter,299,Other,25.0,16.5,5.0,0,46.5,Critical
+cust_2248,growth,799,Finance,14.583333333333334,12.0,15.0,5,46.6,Critical
+cust_106,pro,1999,Healthcare,8.333333333333332,13.5,5.0,20,46.8,Critical
+cust_1553,starter,299,Ecommerce,20.833333333333336,6.0,15.0,5,46.8,Critical
+cust_169,starter,299,Ecommerce,18.75,3.0,20.0,5,46.8,Critical
+cust_1971,growth,799,Healthcare,18.75,3.0,25.0,0,46.8,Critical
+cust_2635,starter,299,SaaS,10.416666666666668,16.5,10.0,10,46.9,Critical
+cust_2211,starter,299,SaaS,10.416666666666668,1.5,25.0,10,46.9,Critical
+cust_576,growth,799,Healthcare,10.416666666666668,1.5,25.0,10,46.9,Critical
+cust_2417,pro,1999,Ecommerce,25.0,12.0,10.0,0,47.0,Critical
+cust_1669,starter,299,SaaS,25.0,12.0,10.0,0,47.0,Critical
+cust_1868,enterprise,4999,SaaS,25.0,12.0,5.0,5,47.0,Critical
+cust_2406,enterprise,4999,Other,2.083333333333333,30.0,15.0,0,47.1,Critical
+cust_1220,pro,1999,Healthcare,14.583333333333334,7.5,15.0,10,47.1,Critical
+cust_96,starter,299,Ecommerce,2.083333333333333,30.0,10.0,5,47.1,Critical
+cust_2656,enterprise,4999,SaaS,2.083333333333333,30.0,5.0,10,47.1,Critical
+cust_2687,growth,799,Ecommerce,2.083333333333333,30.0,5.0,10,47.1,Critical
+cust_2563,pro,1999,SaaS,2.083333333333333,30.0,10.0,5,47.1,Critical
+cust_701,starter,299,SaaS,14.583333333333334,22.5,5.0,5,47.1,Critical
+cust_1111,pro,1999,Healthcare,2.083333333333333,30.0,5.0,10,47.1,Critical
+cust_2885,starter,299,Ecommerce,4.166666666666666,18.0,25.0,0,47.2,Critical
+cust_792,starter,299,Ecommerce,4.166666666666666,18.0,25.0,0,47.2,Critical
+cust_729,growth,799,SaaS,4.166666666666666,18.0,20.0,5,47.2,Critical
+cust_83,starter,299,Finance,20.833333333333336,1.5,10.0,15,47.3,Critical
+cust_1773,growth,799,Finance,6.25,21.0,20.0,0,47.3,Critical
+cust_2697,starter,299,Ecommerce,6.25,6.0,25.0,10,47.3,Critical
+cust_972,growth,799,Ecommerce,6.25,6.0,20.0,15,47.3,Critical
+cust_2887,growth,799,Other,20.833333333333336,1.5,5.0,20,47.3,Critical
+cust_133,growth,799,Other,8.333333333333332,9.0,25.0,5,47.3,Critical
+cust_432,pro,1999,SaaS,22.916666666666664,19.5,5.0,0,47.4,Critical
+cust_1986,growth,799,Finance,25.0,7.5,10.0,5,47.5,Critical
+cust_1928,starter,299,SaaS,25.0,7.5,10.0,5,47.5,Critical
+cust_2067,starter,299,Healthcare,25.0,7.5,15.0,0,47.5,Critical
+cust_916,growth,799,Finance,25.0,7.5,10.0,5,47.5,Critical
+cust_1876,enterprise,4999,SaaS,25.0,7.5,10.0,5,47.5,Critical
+cust_2309,growth,799,Finance,25.0,7.5,15.0,0,47.5,Critical
+cust_2836,growth,799,Finance,2.083333333333333,10.5,20.0,15,47.6,Critical
+cust_1090,enterprise,4999,Healthcare,4.166666666666666,28.5,15.0,0,47.7,Critical
+cust_2925,growth,799,Ecommerce,6.25,1.5,20.0,20,47.8,Critical
+cust_1348,starter,299,Other,22.916666666666664,15.0,10.0,0,47.9,Critical
+cust_1472,pro,1999,Ecommerce,10.416666666666668,7.5,25.0,5,47.9,Critical
+cust_1382,growth,799,Other,25.0,3.0,20.0,0,48.0,Critical
+cust_1143,starter,299,Ecommerce,25.0,18.0,5.0,0,48.0,Critical
+cust_301,growth,799,Healthcare,25.0,3.0,5.0,15,48.0,Critical
+cust_420,starter,299,SaaS,25.0,3.0,10.0,10,48.0,Critical
+cust_532,enterprise,4999,Healthcare,25.0,3.0,10.0,10,48.0,Critical
+cust_2345,growth,799,SaaS,12.5,10.5,25.0,0,48.0,Critical
+cust_699,starter,299,Healthcare,25.0,3.0,20.0,0,48.0,Critical
+cust_2847,enterprise,4999,Other,2.083333333333333,6.0,20.0,20,48.1,Critical
+cust_2749,starter,299,Finance,2.083333333333333,21.0,25.0,0,48.1,Critical
+cust_2947,starter,299,Ecommerce,2.083333333333333,6.0,25.0,15,48.1,Critical
+cust_909,pro,1999,Ecommerce,8.333333333333332,30.0,5.0,5,48.3,Critical
+cust_2367,starter,299,Ecommerce,18.75,4.5,5.0,20,48.3,Critical
+cust_1644,pro,1999,Ecommerce,8.333333333333332,30.0,5.0,5,48.3,Critical
+cust_541,growth,799,Ecommerce,18.75,4.5,25.0,0,48.3,Critical
+cust_708,pro,1999,SaaS,8.333333333333332,0.0,25.0,15,48.3,Critical
+cust_515,starter,299,Other,8.333333333333332,30.0,5.0,5,48.3,Critical
+cust_2153,growth,799,SaaS,10.416666666666668,18.0,10.0,10,48.4,Critical
+cust_1283,starter,299,Ecommerce,25.0,13.5,10.0,0,48.5,Critical
+cust_1904,growth,799,Ecommerce,25.0,13.5,10.0,0,48.5,Critical
+cust_2562,pro,1999,Ecommerce,25.0,13.5,5.0,5,48.5,Critical
+cust_2357,pro,1999,Other,14.583333333333334,24.0,10.0,0,48.6,Critical
+cust_2787,starter,299,Healthcare,14.583333333333334,9.0,25.0,0,48.6,Critical
+cust_1531,pro,1999,Healthcare,14.583333333333334,24.0,5.0,5,48.6,Critical
+cust_1241,starter,299,Other,4.166666666666666,19.5,5.0,20,48.7,Critical
+cust_1067,pro,1999,Finance,6.25,22.5,20.0,0,48.8,Critical
+cust_1888,enterprise,4999,Finance,10.416666666666668,28.5,10.0,0,48.9,Critical
+cust_2336,growth,799,SaaS,22.916666666666664,21.0,5.0,0,48.9,Critical
+cust_2107,starter,299,Finance,25.0,9.0,15.0,0,49.0,Critical
+cust_172,pro,1999,SaaS,25.0,9.0,15.0,0,49.0,Critical
+cust_165,starter,299,Ecommerce,12.5,1.5,25.0,10,49.0,Critical
+cust_950,starter,299,Healthcare,12.5,1.5,20.0,15,49.0,Critical
+cust_251,starter,299,Other,25.0,9.0,5.0,10,49.0,Critical
+cust_2735,growth,799,Healthcare,2.083333333333333,12.0,15.0,20,49.1,Critical
+cust_622,growth,799,Finance,2.083333333333333,27.0,5.0,15,49.1,Critical
+cust_1683,enterprise,4999,Ecommerce,4.166666666666666,30.0,5.0,10,49.2,Critical
+cust_2844,growth,799,Ecommerce,16.666666666666664,22.5,10.0,0,49.2,Critical
+cust_2130,starter,299,Ecommerce,4.166666666666666,30.0,5.0,10,49.2,Critical
+cust_2738,growth,799,Other,8.333333333333332,6.0,25.0,10,49.3,Critical
+cust_953,starter,299,Healthcare,6.25,18.0,20.0,5,49.3,Critical
+cust_546,pro,1999,Healthcare,8.333333333333332,21.0,20.0,0,49.3,Critical
+cust_290,starter,299,Finance,8.333333333333332,21.0,20.0,0,49.3,Critical
+cust_273,growth,799,Ecommerce,6.25,3.0,25.0,15,49.3,Critical
+cust_1631,growth,799,SaaS,10.416666666666668,24.0,10.0,5,49.4,Critical
+cust_1973,growth,799,SaaS,22.916666666666664,1.5,25.0,0,49.4,Critical
+cust_1098,growth,799,SaaS,25.0,4.5,15.0,5,49.5,Critical
+cust_1169,growth,799,Finance,25.0,4.5,5.0,15,49.5,Critical
+cust_173,enterprise,4999,Finance,25.0,4.5,5.0,15,49.5,Critical
+cust_2316,pro,1999,Other,25.0,19.5,5.0,0,49.5,Critical
+cust_1292,starter,299,Ecommerce,25.0,4.5,15.0,5,49.5,Critical
+cust_2551,growth,799,Healthcare,12.5,27.0,5.0,5,49.5,Critical
+cust_869,pro,1999,Other,25.0,4.5,10.0,10,49.5,Critical
+cust_2684,starter,299,SaaS,2.083333333333333,22.5,25.0,0,49.6,Critical
+cust_25,growth,799,Ecommerce,2.083333333333333,22.5,20.0,5,49.6,Critical
+cust_2378,enterprise,4999,SaaS,6.25,13.5,25.0,5,49.8,Critical
+cust_1573,growth,799,Finance,20.833333333333336,24.0,5.0,0,49.8,Critical
+cust_1104,starter,299,Healthcare,18.75,6.0,20.0,5,49.8,Critical
+cust_121,enterprise,4999,Ecommerce,8.333333333333332,16.5,25.0,0,49.8,Critical
+cust_2454,starter,299,Other,10.416666666666668,4.5,25.0,10,49.9,Critical
+cust_976,growth,799,SaaS,10.416666666666668,19.5,10.0,10,49.9,Critical
+cust_1226,pro,1999,SaaS,25.0,15.0,10.0,0,50.0,At Risk
+cust_2561,starter,299,Other,25.0,0.0,20.0,5,50.0,At Risk
+cust_2972,enterprise,4999,Ecommerce,25.0,0.0,25.0,0,50.0,At Risk
+cust_160,starter,299,Other,25.0,15.0,10.0,0,50.0,At Risk
+cust_2566,starter,299,SaaS,25.0,0.0,25.0,0,50.0,At Risk
+cust_333,starter,299,Ecommerce,25.0,0.0,5.0,20,50.0,At Risk
+cust_2092,pro,1999,Ecommerce,25.0,0.0,25.0,0,50.0,At Risk
+cust_2305,growth,799,Ecommerce,25.0,15.0,5.0,5,50.0,At Risk
+cust_496,starter,299,Other,25.0,0.0,25.0,0,50.0,At Risk
+cust_2091,enterprise,4999,Other,25.0,0.0,15.0,10,50.0,At Risk
+cust_2570,starter,299,SaaS,25.0,0.0,25.0,0,50.0,At Risk
+cust_1505,growth,799,Ecommerce,25.0,0.0,25.0,0,50.0,At Risk
+cust_2980,starter,299,Finance,25.0,0.0,25.0,0,50.0,At Risk
+cust_2180,starter,299,SaaS,25.0,0.0,25.0,0,50.0,At Risk
+cust_747,pro,1999,Ecommerce,25.0,0.0,10.0,15,50.0,At Risk
+cust_2387,growth,799,Ecommerce,14.583333333333334,10.5,25.0,0,50.1,At Risk
+cust_350,growth,799,Healthcare,2.083333333333333,3.0,25.0,20,50.1,At Risk
+cust_1519,starter,299,Other,2.083333333333333,18.0,25.0,5,50.1,At Risk
+cust_438,starter,299,SaaS,4.166666666666666,21.0,25.0,0,50.2,At Risk
+cust_519,starter,299,Finance,8.333333333333332,12.0,20.0,10,50.3,At Risk
+cust_579,growth,799,Healthcare,6.25,9.0,25.0,10,50.3,At Risk
+cust_1800,growth,799,Ecommerce,18.75,1.5,25.0,5,50.3,At Risk
+cust_1628,starter,299,SaaS,8.333333333333332,27.0,5.0,10,50.3,At Risk
+cust_1231,growth,799,Healthcare,10.416666666666668,30.0,10.0,0,50.4,At Risk
+cust_720,enterprise,4999,Healthcare,10.416666666666668,0.0,25.0,15,50.4,At Risk
+cust_2817,starter,299,Other,10.416666666666668,30.0,5.0,5,50.4,At Risk
+cust_349,starter,299,Finance,10.416666666666668,30.0,10.0,0,50.4,At Risk
+cust_1449,starter,299,SaaS,25.0,10.5,15.0,0,50.5,At Risk
+cust_639,growth,799,Healthcare,25.0,10.5,15.0,0,50.5,At Risk
+cust_706,starter,299,Finance,25.0,10.5,15.0,0,50.5,At Risk
+cust_2499,growth,799,Healthcare,25.0,10.5,10.0,5,50.5,At Risk
+cust_125,growth,799,SaaS,25.0,10.5,15.0,0,50.5,At Risk
+cust_539,growth,799,Other,25.0,10.5,15.0,0,50.5,At Risk
+cust_2478,growth,799,Healthcare,14.583333333333334,21.0,5.0,10,50.6,At Risk
+cust_1109,enterprise,4999,Finance,4.166666666666666,16.5,25.0,5,50.7,At Risk
+cust_1280,starter,299,Healthcare,8.333333333333332,7.5,25.0,10,50.8,At Risk
+cust_1429,enterprise,4999,Finance,10.416666666666668,25.5,10.0,5,50.9,At Risk
+cust_92,starter,299,Finance,22.916666666666664,18.0,5.0,5,50.9,At Risk
+cust_645,growth,799,Ecommerce,22.916666666666664,18.0,10.0,0,50.9,At Risk
+cust_2553,starter,299,Ecommerce,25.0,21.0,5.0,0,51.0,At Risk
+cust_2645,starter,299,Ecommerce,25.0,6.0,20.0,0,51.0,At Risk
+cust_646,starter,299,SaaS,25.0,6.0,5.0,15,51.0,At Risk
+cust_1548,growth,799,Healthcare,25.0,21.0,5.0,0,51.0,At Risk
+cust_1689,growth,799,Healthcare,25.0,6.0,20.0,0,51.0,At Risk
+cust_958,growth,799,Healthcare,25.0,21.0,5.0,0,51.0,At Risk
+cust_1774,pro,1999,Ecommerce,25.0,6.0,5.0,15,51.0,At Risk
+cust_929,starter,299,Finance,25.0,6.0,10.0,10,51.0,At Risk
+cust_867,growth,799,Healthcare,25.0,6.0,15.0,5,51.0,At Risk
+cust_2565,pro,1999,Healthcare,2.083333333333333,24.0,25.0,0,51.1,At Risk
+cust_1720,pro,1999,Other,8.333333333333332,3.0,25.0,15,51.3,At Risk
+cust_1746,pro,1999,SaaS,18.75,7.5,15.0,10,51.3,At Risk
+cust_1334,pro,1999,SaaS,6.25,30.0,5.0,10,51.3,At Risk
+cust_2801,starter,299,SaaS,8.333333333333332,3.0,25.0,15,51.3,At Risk
+cust_2132,growth,799,Other,6.25,30.0,10.0,5,51.3,At Risk
+cust_1493,starter,299,Other,8.333333333333332,3.0,25.0,15,51.3,At Risk
+cust_1919,pro,1999,Other,8.333333333333332,18.0,25.0,0,51.3,At Risk
+cust_405,growth,799,Other,8.333333333333332,3.0,25.0,15,51.3,At Risk
+cust_2892,starter,299,Finance,6.25,15.0,20.0,10,51.3,At Risk
+cust_1315,enterprise,4999,Finance,18.75,7.5,15.0,10,51.3,At Risk
+cust_2865,growth,799,Finance,18.75,7.5,15.0,10,51.3,At Risk
+cust_691,starter,299,Finance,10.416666666666668,21.0,20.0,0,51.4,At Risk
+cust_2346,growth,799,Healthcare,10.416666666666668,21.0,5.0,15,51.4,At Risk
+cust_68,growth,799,Other,25.0,16.5,10.0,0,51.5,At Risk
+cust_1061,growth,799,Finance,25.0,1.5,25.0,0,51.5,At Risk
+cust_1641,growth,799,Finance,25.0,1.5,25.0,0,51.5,At Risk
+cust_1026,enterprise,4999,SaaS,25.0,1.5,25.0,0,51.5,At Risk
+cust_2533,starter,299,Healthcare,25.0,1.5,25.0,0,51.5,At Risk
+cust_480,starter,299,Healthcare,25.0,1.5,20.0,5,51.5,At Risk
+cust_2709,pro,1999,SaaS,25.0,1.5,25.0,0,51.5,At Risk
+cust_2973,starter,299,Other,25.0,1.5,25.0,0,51.5,At Risk
+cust_561,enterprise,4999,Healthcare,25.0,1.5,25.0,0,51.5,At Risk
+cust_2297,starter,299,Healthcare,25.0,1.5,25.0,0,51.5,At Risk
+cust_2408,growth,799,SaaS,25.0,1.5,25.0,0,51.5,At Risk
+cust_2818,starter,299,Healthcare,25.0,1.5,25.0,0,51.5,At Risk
+cust_2998,starter,299,Healthcare,25.0,1.5,5.0,20,51.5,At Risk
+cust_2881,starter,299,Other,25.0,1.5,10.0,15,51.5,At Risk
+cust_656,enterprise,4999,Other,25.0,16.5,10.0,0,51.5,At Risk
+cust_876,growth,799,Other,25.0,1.5,20.0,5,51.5,At Risk
+cust_137,starter,299,Finance,25.0,16.5,10.0,0,51.5,At Risk
+cust_1452,pro,1999,Ecommerce,12.5,9.0,25.0,5,51.5,At Risk
+cust_1409,starter,299,SaaS,25.0,1.5,25.0,0,51.5,At Risk
+cust_1824,starter,299,Ecommerce,14.583333333333334,12.0,25.0,0,51.6,At Risk
+cust_2536,starter,299,Other,16.666666666666664,30.0,5.0,0,51.7,At Risk
+cust_1550,growth,799,Healthcare,16.666666666666664,30.0,5.0,0,51.7,At Risk
+cust_2431,starter,299,Finance,4.166666666666666,22.5,10.0,15,51.7,At Risk
+cust_1571,starter,299,Finance,6.25,25.5,20.0,0,51.8,At Risk
+cust_298,starter,299,Other,8.333333333333332,28.5,15.0,0,51.8,At Risk
+cust_2134,enterprise,4999,Other,18.75,3.0,25.0,5,51.8,At Risk
+cust_88,starter,299,Other,20.833333333333336,21.0,10.0,0,51.8,At Risk
+cust_1398,pro,1999,SaaS,10.416666666666668,16.5,25.0,0,51.9,At Risk
+cust_923,starter,299,Other,10.416666666666668,16.5,25.0,0,51.9,At Risk
+cust_1304,pro,1999,Finance,22.916666666666664,9.0,10.0,10,51.9,At Risk
+cust_1976,enterprise,4999,Finance,22.916666666666664,24.0,5.0,0,51.9,At Risk
+cust_1592,starter,299,Other,22.916666666666664,9.0,20.0,0,51.9,At Risk
+cust_2523,growth,799,Other,10.416666666666668,16.5,5.0,20,51.9,At Risk
+cust_1564,pro,1999,Ecommerce,25.0,12.0,10.0,5,52.0,At Risk
+cust_1786,pro,1999,SaaS,25.0,12.0,15.0,0,52.0,At Risk
+cust_809,enterprise,4999,SaaS,25.0,12.0,15.0,0,52.0,At Risk
+cust_625,growth,799,SaaS,25.0,12.0,5.0,10,52.0,At Risk
+cust_2942,starter,299,Other,25.0,12.0,15.0,0,52.0,At Risk
+cust_2764,starter,299,Finance,12.5,19.5,5.0,15,52.0,At Risk
+cust_2515,pro,1999,Ecommerce,25.0,12.0,15.0,0,52.0,At Risk
+cust_2568,starter,299,Healthcare,2.083333333333333,30.0,15.0,5,52.1,At Risk
+cust_796,growth,799,Other,6.25,21.0,5.0,20,52.3,At Risk
+cust_319,enterprise,4999,Other,6.25,21.0,25.0,0,52.3,At Risk
+cust_1198,growth,799,Finance,20.833333333333336,1.5,20.0,10,52.3,At Risk
+cust_756,growth,799,SaaS,8.333333333333332,24.0,15.0,5,52.3,At Risk
+cust_1972,starter,299,SaaS,10.416666666666668,12.0,25.0,5,52.4,At Risk
+cust_97,enterprise,4999,Finance,10.416666666666668,12.0,25.0,5,52.4,At Risk
+cust_2861,starter,299,Ecommerce,22.916666666666664,4.5,25.0,0,52.4,At Risk
+cust_1896,starter,299,SaaS,22.916666666666664,4.5,15.0,10,52.4,At Risk
+cust_741,starter,299,Finance,10.416666666666668,12.0,25.0,5,52.4,At Risk
+cust_2512,growth,799,SaaS,10.416666666666668,12.0,25.0,5,52.4,At Risk
+cust_1453,growth,799,Finance,25.0,22.5,5.0,0,52.5,At Risk
+cust_2545,starter,299,Other,25.0,7.5,15.0,5,52.5,At Risk
+cust_1629,enterprise,4999,Finance,12.5,15.0,25.0,0,52.5,At Risk
+cust_825,pro,1999,SaaS,12.5,15.0,25.0,0,52.5,At Risk
+cust_1915,pro,1999,Other,12.5,30.0,10.0,0,52.5,At Risk
+cust_990,starter,299,SaaS,25.0,7.5,10.0,10,52.5,At Risk
+cust_1077,starter,299,Other,12.5,30.0,10.0,0,52.5,At Risk
+cust_1729,enterprise,4999,Other,25.0,7.5,5.0,15,52.5,At Risk
+cust_1612,pro,1999,Finance,14.583333333333334,18.0,15.0,5,52.6,At Risk
+cust_242,starter,299,Healthcare,2.083333333333333,25.5,25.0,0,52.6,At Risk
+cust_2199,starter,299,Finance,4.166666666666666,28.5,15.0,5,52.7,At Risk
+cust_648,growth,799,Finance,20.833333333333336,27.0,5.0,0,52.8,At Risk
+cust_216,growth,799,Finance,8.333333333333332,19.5,20.0,5,52.8,At Risk
+cust_1192,growth,799,Other,20.833333333333336,12.0,5.0,15,52.8,At Risk
+cust_1474,growth,799,SaaS,18.75,24.0,10.0,0,52.8,At Risk
+cust_2045,starter,299,Ecommerce,10.416666666666668,7.5,20.0,15,52.9,At Risk
+cust_199,growth,799,SaaS,22.916666666666664,0.0,10.0,20,52.9,At Risk
+cust_1520,enterprise,4999,SaaS,25.0,3.0,25.0,0,53.0,At Risk
+cust_2848,starter,299,Ecommerce,25.0,3.0,25.0,0,53.0,At Risk
+cust_1640,growth,799,Healthcare,12.5,25.5,5.0,10,53.0,At Risk
+cust_286,starter,299,Other,25.0,3.0,10.0,15,53.0,At Risk
+cust_1399,starter,299,Finance,25.0,3.0,25.0,0,53.0,At Risk
+cust_326,starter,299,Healthcare,25.0,18.0,10.0,0,53.0,At Risk
+cust_987,pro,1999,Healthcare,25.0,3.0,25.0,0,53.0,At Risk
+cust_1660,starter,299,Other,25.0,3.0,25.0,0,53.0,At Risk
+cust_880,starter,299,Ecommerce,25.0,3.0,15.0,10,53.0,At Risk
+cust_2122,enterprise,4999,Other,25.0,3.0,25.0,0,53.0,At Risk
+cust_2726,growth,799,Other,25.0,18.0,5.0,5,53.0,At Risk
+cust_2253,growth,799,SaaS,25.0,3.0,25.0,0,53.0,At Risk
+cust_613,starter,299,Finance,25.0,3.0,5.0,20,53.0,At Risk
+cust_692,starter,299,SaaS,25.0,3.0,5.0,20,53.0,At Risk
+cust_1583,growth,799,Finance,25.0,3.0,25.0,0,53.0,At Risk
+cust_281,starter,299,Healthcare,14.583333333333334,13.5,25.0,0,53.1,At Risk
+cust_1244,starter,299,Ecommerce,14.583333333333334,13.5,25.0,0,53.1,At Risk
+cust_1742,starter,299,SaaS,14.583333333333334,13.5,25.0,0,53.1,At Risk
+cust_2530,growth,799,SaaS,14.583333333333334,13.5,20.0,5,53.1,At Risk
+cust_482,enterprise,4999,SaaS,4.166666666666666,24.0,25.0,0,53.2,At Risk
+cust_2795,starter,299,Healthcare,8.333333333333332,30.0,15.0,0,53.3,At Risk
+cust_318,pro,1999,Ecommerce,8.333333333333332,30.0,15.0,0,53.3,At Risk
+cust_531,pro,1999,Ecommerce,18.75,4.5,10.0,20,53.3,At Risk
+cust_2156,pro,1999,SaaS,8.333333333333332,30.0,10.0,5,53.3,At Risk
+cust_745,enterprise,4999,Ecommerce,8.333333333333332,30.0,10.0,5,53.3,At Risk
+cust_2039,growth,799,Ecommerce,6.25,12.0,25.0,10,53.3,At Risk
+cust_1513,growth,799,Finance,8.333333333333332,30.0,15.0,0,53.3,At Risk
+cust_2634,starter,299,Finance,8.333333333333332,0.0,25.0,20,53.3,At Risk
+cust_2837,growth,799,Finance,22.916666666666664,10.5,10.0,10,53.4,At Risk
+cust_225,growth,799,SaaS,22.916666666666664,10.5,5.0,15,53.4,At Risk
+cust_364,enterprise,4999,Other,22.916666666666664,10.5,15.0,5,53.4,At Risk
+cust_1121,pro,1999,Healthcare,10.416666666666668,18.0,10.0,15,53.4,At Risk
+cust_1014,starter,299,Healthcare,12.5,6.0,20.0,15,53.5,At Risk
+cust_1314,growth,799,Healthcare,25.0,13.5,10.0,5,53.5,At Risk
+cust_2347,growth,799,Finance,25.0,13.5,15.0,0,53.5,At Risk
+cust_186,pro,1999,Other,12.5,21.0,5.0,15,53.5,At Risk
+cust_2221,enterprise,4999,Healthcare,25.0,13.5,10.0,5,53.5,At Risk
+cust_1447,starter,299,Finance,25.0,13.5,10.0,5,53.5,At Risk
+cust_2825,growth,799,Other,2.083333333333333,16.5,25.0,10,53.6,At Risk
+cust_415,growth,799,SaaS,4.166666666666666,19.5,25.0,5,53.7,At Risk
+cust_2746,starter,299,Finance,16.666666666666664,12.0,25.0,0,53.7,At Risk
+cust_2352,starter,299,SaaS,16.666666666666664,27.0,5.0,5,53.7,At Risk
+cust_239,pro,1999,Healthcare,4.166666666666666,19.5,15.0,15,53.7,At Risk
+cust_1499,starter,299,Ecommerce,16.666666666666664,27.0,5.0,5,53.7,At Risk
+cust_1997,starter,299,Finance,8.333333333333332,10.5,25.0,10,53.8,At Risk
+cust_1307,pro,1999,SaaS,8.333333333333332,10.5,25.0,10,53.8,At Risk
+cust_1529,growth,799,Ecommerce,6.25,22.5,10.0,15,53.8,At Risk
+cust_310,growth,799,Finance,6.25,22.5,25.0,0,53.8,At Risk
+cust_2883,enterprise,4999,Finance,6.25,22.5,25.0,0,53.8,At Risk
+cust_19,pro,1999,Finance,8.333333333333332,25.5,20.0,0,53.8,At Risk
+cust_2163,starter,299,SaaS,22.916666666666664,6.0,25.0,0,53.9,At Risk
+cust_2650,growth,799,Healthcare,10.416666666666668,28.5,15.0,0,53.9,At Risk
+cust_344,pro,1999,SaaS,22.916666666666664,6.0,10.0,15,53.9,At Risk
+cust_1844,starter,299,Ecommerce,25.0,9.0,20.0,0,54.0,At Risk
+cust_2859,starter,299,Healthcare,25.0,9.0,15.0,5,54.0,At Risk
+cust_2694,growth,799,SaaS,12.5,16.5,25.0,0,54.0,At Risk
+cust_2175,pro,1999,Finance,25.0,9.0,20.0,0,54.0,At Risk
+cust_1681,starter,299,Healthcare,2.083333333333333,12.0,25.0,15,54.1,At Risk
+cust_2959,growth,799,Ecommerce,4.166666666666666,30.0,20.0,0,54.2,At Risk
+cust_313,pro,1999,SaaS,4.166666666666666,30.0,15.0,5,54.2,At Risk
+cust_2912,enterprise,4999,SaaS,4.166666666666666,30.0,15.0,5,54.2,At Risk
+cust_664,starter,299,Ecommerce,4.166666666666666,30.0,15.0,5,54.2,At Risk
+cust_2263,starter,299,Finance,4.166666666666666,30.0,10.0,10,54.2,At Risk
+cust_56,pro,1999,SaaS,18.75,10.5,25.0,0,54.3,At Risk
+cust_2032,pro,1999,Ecommerce,8.333333333333332,21.0,25.0,0,54.3,At Risk
+cust_2547,growth,799,Other,22.916666666666664,1.5,25.0,5,54.4,At Risk
+cust_2010,pro,1999,Finance,22.916666666666664,1.5,10.0,20,54.4,At Risk
+cust_1765,growth,799,Healthcare,25.0,4.5,25.0,0,54.5,At Risk
+cust_1954,pro,1999,Ecommerce,25.0,4.5,15.0,10,54.5,At Risk
+cust_149,pro,1999,SaaS,25.0,4.5,20.0,5,54.5,At Risk
+cust_1861,pro,1999,SaaS,25.0,4.5,25.0,0,54.5,At Risk
+cust_2615,starter,299,Healthcare,25.0,4.5,25.0,0,54.5,At Risk
+cust_2516,starter,299,SaaS,12.5,27.0,15.0,0,54.5,At Risk
+cust_2296,growth,799,Finance,25.0,4.5,25.0,0,54.5,At Risk
+cust_2273,starter,299,Ecommerce,25.0,4.5,20.0,5,54.5,At Risk
+cust_2272,growth,799,Ecommerce,25.0,19.5,10.0,0,54.5,At Risk
+cust_1498,growth,799,Other,25.0,4.5,25.0,0,54.5,At Risk
+cust_1828,starter,299,Finance,25.0,4.5,25.0,0,54.5,At Risk
+cust_34,pro,1999,Finance,25.0,4.5,15.0,10,54.5,At Risk
+cust_571,growth,799,Healthcare,14.583333333333334,30.0,10.0,0,54.6,At Risk
+cust_1748,pro,1999,Healthcare,14.583333333333334,30.0,10.0,0,54.6,At Risk
+cust_372,pro,1999,Ecommerce,4.166666666666666,25.5,25.0,0,54.7,At Risk
+cust_2049,growth,799,Other,4.166666666666666,25.5,25.0,0,54.7,At Risk
+cust_2165,growth,799,SaaS,20.833333333333336,9.0,25.0,0,54.8,At Risk
+cust_1907,starter,299,Finance,20.833333333333336,9.0,15.0,10,54.8,At Risk
+cust_2376,pro,1999,SaaS,18.75,6.0,20.0,10,54.8,At Risk
+cust_1968,enterprise,4999,Ecommerce,20.833333333333336,9.0,5.0,20,54.8,At Risk
+cust_2138,starter,299,Healthcare,20.833333333333336,9.0,25.0,0,54.8,At Risk
+cust_2820,enterprise,4999,Ecommerce,20.833333333333336,24.0,10.0,0,54.8,At Risk
+cust_2022,growth,799,Healthcare,25.0,15.0,10.0,5,55.0,At Risk
+cust_1709,growth,799,Ecommerce,25.0,0.0,25.0,5,55.0,At Risk
+cust_1708,enterprise,4999,Finance,25.0,15.0,15.0,0,55.0,At Risk
+cust_2416,enterprise,4999,Ecommerce,25.0,0.0,25.0,5,55.0,At Risk
+cust_1223,growth,799,Healthcare,25.0,0.0,15.0,15,55.0,At Risk
+cust_2053,pro,1999,Healthcare,2.083333333333333,18.0,15.0,20,55.1,At Risk
+cust_2342,enterprise,4999,Other,14.583333333333334,10.5,20.0,10,55.1,At Risk
+cust_2,growth,799,Other,6.25,9.0,25.0,15,55.3,At Risk
+cust_1691,growth,799,SaaS,6.25,24.0,25.0,0,55.3,At Risk
+cust_877,growth,799,Ecommerce,8.333333333333332,12.0,20.0,15,55.3,At Risk
+cust_609,starter,299,Finance,20.833333333333336,4.5,15.0,15,55.3,At Risk
+cust_79,starter,299,Other,10.416666666666668,30.0,15.0,0,55.4,At Risk
+cust_2654,pro,1999,Healthcare,10.416666666666668,30.0,10.0,5,55.4,At Risk
+cust_2046,growth,799,Healthcare,10.416666666666668,30.0,15.0,0,55.4,At Risk
+cust_136,starter,299,Other,10.416666666666668,30.0,10.0,5,55.4,At Risk
+cust_596,starter,299,Other,25.0,10.5,20.0,0,55.5,At Risk
+cust_15,starter,299,Finance,25.0,25.5,5.0,0,55.5,At Risk
+cust_2513,starter,299,Finance,12.5,3.0,25.0,15,55.5,At Risk
+cust_2643,growth,799,Healthcare,12.5,3.0,25.0,15,55.5,At Risk
+cust_139,growth,799,Other,25.0,25.5,5.0,0,55.5,At Risk
+cust_38,starter,299,Finance,25.0,10.5,10.0,10,55.5,At Risk
+cust_163,starter,299,Ecommerce,14.583333333333334,6.0,15.0,20,55.6,At Risk
+cust_374,starter,299,Healthcare,20.833333333333336,0.0,20.0,15,55.8,At Risk
+cust_807,growth,799,Finance,8.333333333333332,22.5,25.0,0,55.8,At Risk
+cust_1661,starter,299,Finance,20.833333333333336,15.0,20.0,0,55.8,At Risk
+cust_1293,enterprise,4999,Ecommerce,8.333333333333332,22.5,25.0,0,55.8,At Risk
+cust_2757,starter,299,SaaS,8.333333333333332,22.5,5.0,20,55.8,At Risk
+cust_1507,pro,1999,Healthcare,8.333333333333332,22.5,10.0,15,55.8,At Risk
+cust_2661,pro,1999,Finance,18.75,12.0,25.0,0,55.8,At Risk
+cust_1100,starter,299,Other,6.25,19.5,15.0,15,55.8,At Risk
+cust_33,pro,1999,Finance,20.833333333333336,30.0,5.0,0,55.8,At Risk
+cust_1979,growth,799,Finance,8.333333333333332,22.5,25.0,0,55.8,At Risk
+cust_1237,enterprise,4999,Other,25.0,6.0,25.0,0,56.0,At Risk
+cust_66,growth,799,Other,12.5,13.5,25.0,5,56.0,At Risk
+cust_108,starter,299,Healthcare,25.0,6.0,20.0,5,56.0,At Risk
+cust_131,growth,799,SaaS,25.0,6.0,10.0,15,56.0,At Risk
+cust_2797,enterprise,4999,Finance,25.0,6.0,25.0,0,56.0,At Risk
+cust_2538,starter,299,Finance,25.0,21.0,5.0,5,56.0,At Risk
+cust_2505,pro,1999,Finance,25.0,6.0,25.0,0,56.0,At Risk
+cust_2084,starter,299,Finance,25.0,6.0,25.0,0,56.0,At Risk
+cust_2371,starter,299,SaaS,25.0,6.0,25.0,0,56.0,At Risk
+cust_1958,pro,1999,SaaS,25.0,6.0,15.0,10,56.0,At Risk
+cust_1565,enterprise,4999,SaaS,25.0,6.0,10.0,15,56.0,At Risk
+cust_988,growth,799,Finance,25.0,6.0,20.0,5,56.0,At Risk
+cust_1284,pro,1999,Finance,25.0,6.0,25.0,0,56.0,At Risk
+cust_2418,pro,1999,Other,25.0,21.0,10.0,0,56.0,At Risk
+cust_628,pro,1999,SaaS,14.583333333333334,1.5,20.0,20,56.1,At Risk
+cust_1790,starter,299,Ecommerce,14.583333333333334,1.5,25.0,15,56.1,At Risk
+cust_1273,pro,1999,Ecommerce,2.083333333333333,24.0,25.0,5,56.1,At Risk
+cust_963,starter,299,Finance,14.583333333333334,16.5,5.0,20,56.1,At Risk
+cust_1414,growth,799,Healthcare,2.083333333333333,9.0,25.0,20,56.1,At Risk
+cust_575,growth,799,Healthcare,4.166666666666666,27.0,10.0,15,56.2,At Risk
+cust_1575,starter,299,SaaS,6.25,30.0,10.0,10,56.3,At Risk
+cust_2445,pro,1999,Healthcare,6.25,30.0,15.0,5,56.3,At Risk
+cust_1825,starter,299,SaaS,10.416666666666668,21.0,25.0,0,56.4,At Risk
+cust_462,pro,1999,Healthcare,25.0,1.5,10.0,20,56.5,At Risk
+cust_1521,pro,1999,SaaS,25.0,1.5,25.0,5,56.5,At Risk
+cust_558,starter,299,Other,25.0,1.5,15.0,15,56.5,At Risk
+cust_208,starter,299,Finance,25.0,1.5,20.0,10,56.5,At Risk
+cust_1044,growth,799,Ecommerce,25.0,16.5,15.0,0,56.5,At Risk
+cust_1263,enterprise,4999,Other,25.0,16.5,5.0,10,56.5,At Risk
+cust_2986,growth,799,SaaS,25.0,16.5,15.0,0,56.5,At Risk
+cust_1356,pro,1999,SaaS,25.0,16.5,10.0,5,56.5,At Risk
+cust_1164,pro,1999,Finance,25.0,1.5,25.0,5,56.5,At Risk
+cust_1807,starter,299,Finance,25.0,1.5,25.0,5,56.5,At Risk
+cust_732,growth,799,Healthcare,25.0,16.5,5.0,10,56.5,At Risk
+cust_2080,growth,799,Finance,14.583333333333334,12.0,25.0,5,56.6,At Risk
+cust_2937,starter,299,Other,16.666666666666664,15.0,25.0,0,56.7,At Risk
+cust_2179,growth,799,Ecommerce,16.666666666666664,30.0,10.0,0,56.7,At Risk
+cust_143,starter,299,Healthcare,4.166666666666666,22.5,25.0,5,56.7,At Risk
+cust_2540,growth,799,Finance,16.666666666666664,30.0,10.0,0,56.7,At Risk
+cust_337,starter,299,Finance,20.833333333333336,21.0,5.0,10,56.8,At Risk
+cust_2721,pro,1999,Healthcare,20.833333333333336,6.0,25.0,5,56.8,At Risk
+cust_285,growth,799,Healthcare,6.25,25.5,25.0,0,56.8,At Risk
+cust_1836,starter,299,Finance,6.25,25.5,25.0,0,56.8,At Risk
+cust_1013,enterprise,4999,Finance,25.0,27.0,5.0,0,57.0,At Risk
+cust_2575,growth,799,Finance,25.0,12.0,5.0,15,57.0,At Risk
+cust_802,starter,299,SaaS,12.5,19.5,25.0,0,57.0,At Risk
+cust_423,pro,1999,Healthcare,25.0,12.0,10.0,10,57.0,At Risk
+cust_331,starter,299,Finance,25.0,12.0,10.0,10,57.0,At Risk
+cust_1464,starter,299,Finance,25.0,12.0,10.0,10,57.0,At Risk
+cust_952,starter,299,Healthcare,25.0,12.0,20.0,0,57.0,At Risk
+cust_810,growth,799,Other,25.0,12.0,10.0,10,57.0,At Risk
+cust_679,growth,799,Finance,25.0,27.0,5.0,0,57.0,At Risk
+cust_1456,pro,1999,Finance,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_2686,growth,799,Healthcare,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_2599,starter,299,Ecommerce,14.583333333333334,7.5,25.0,10,57.1,At Risk
+cust_2920,starter,299,SaaS,2.083333333333333,15.0,25.0,15,57.1,At Risk
+cust_2927,starter,299,Ecommerce,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_1438,growth,799,SaaS,2.083333333333333,15.0,25.0,15,57.1,At Risk
+cust_590,growth,799,Ecommerce,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_266,growth,799,Healthcare,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_1778,growth,799,Finance,2.083333333333333,30.0,25.0,0,57.1,At Risk
+cust_2282,pro,1999,Ecommerce,8.333333333333332,24.0,15.0,10,57.3,At Risk
+cust_2141,pro,1999,Other,10.416666666666668,12.0,15.0,20,57.4,At Risk
+cust_17,pro,1999,Healthcare,25.0,7.5,25.0,0,57.5,At Risk
+cust_2841,starter,299,Healthcare,25.0,22.5,5.0,5,57.5,At Risk
+cust_1308,growth,799,SaaS,25.0,7.5,20.0,5,57.5,At Risk
+cust_363,pro,1999,Finance,25.0,7.5,25.0,0,57.5,At Risk
+cust_670,pro,1999,Finance,25.0,7.5,25.0,0,57.5,At Risk
+cust_2851,growth,799,Finance,25.0,7.5,25.0,0,57.5,At Risk
+cust_1626,pro,1999,Other,12.5,30.0,15.0,0,57.5,At Risk
+cust_887,enterprise,4999,Other,25.0,7.5,5.0,20,57.5,At Risk
+cust_2443,growth,799,Finance,25.0,22.5,5.0,5,57.5,At Risk
+cust_2240,starter,299,Finance,25.0,7.5,25.0,0,57.5,At Risk
+cust_2005,starter,299,Healthcare,25.0,22.5,10.0,0,57.5,At Risk
+cust_2377,starter,299,Healthcare,12.5,15.0,15.0,15,57.5,At Risk
+cust_1511,growth,799,SaaS,12.5,30.0,15.0,0,57.5,At Risk
+cust_2353,growth,799,SaaS,25.0,7.5,25.0,0,57.5,At Risk
+cust_589,growth,799,Finance,2.083333333333333,10.5,25.0,20,57.6,At Risk
+cust_1782,starter,299,Other,2.083333333333333,10.5,25.0,20,57.6,At Risk
+cust_2630,growth,799,Other,4.166666666666666,13.5,25.0,15,57.7,At Risk
+cust_1485,enterprise,4999,Healthcare,20.833333333333336,12.0,25.0,0,57.8,At Risk
+cust_674,growth,799,Healthcare,20.833333333333336,12.0,25.0,0,57.8,At Risk
+cust_2685,pro,1999,Other,18.75,9.0,25.0,5,57.8,At Risk
+cust_2577,starter,299,Healthcare,18.75,9.0,15.0,15,57.8,At Risk
+cust_1806,starter,299,Other,10.416666666666668,22.5,10.0,15,57.9,At Risk
+cust_1426,starter,299,Healthcare,22.916666666666664,30.0,5.0,0,57.9,At Risk
+cust_2602,pro,1999,SaaS,22.916666666666664,30.0,5.0,0,57.9,At Risk
+cust_410,starter,299,Ecommerce,22.916666666666664,0.0,20.0,15,57.9,At Risk
+cust_1018,starter,299,Ecommerce,25.0,18.0,10.0,5,58.0,At Risk
+cust_2055,enterprise,4999,Healthcare,25.0,3.0,10.0,20,58.0,At Risk
+cust_2581,starter,299,Ecommerce,25.0,18.0,15.0,0,58.0,At Risk
+cust_1758,growth,799,Finance,25.0,18.0,5.0,10,58.0,At Risk
+cust_1852,growth,799,Other,25.0,18.0,10.0,5,58.0,At Risk
+cust_1557,enterprise,4999,SaaS,25.0,3.0,15.0,15,58.0,At Risk
+cust_2453,starter,299,Ecommerce,25.0,3.0,25.0,5,58.0,At Risk
+cust_1926,growth,799,Finance,25.0,18.0,15.0,0,58.0,At Risk
+cust_2760,enterprise,4999,Ecommerce,25.0,18.0,15.0,0,58.0,At Risk
+cust_1004,growth,799,Finance,25.0,3.0,10.0,20,58.0,At Risk
+cust_1323,pro,1999,Ecommerce,25.0,3.0,15.0,15,58.0,At Risk
+cust_1892,starter,299,Other,25.0,18.0,15.0,0,58.0,At Risk
+cust_778,growth,799,Other,25.0,3.0,25.0,5,58.0,At Risk
+cust_614,growth,799,Other,12.5,25.5,15.0,5,58.0,At Risk
+cust_1176,starter,299,Healthcare,4.166666666666666,9.0,25.0,20,58.2,At Risk
+cust_2004,growth,799,Finance,8.333333333333332,30.0,20.0,0,58.3,At Risk
+cust_2492,pro,1999,Finance,8.333333333333332,30.0,5.0,15,58.3,At Risk
+cust_941,starter,299,Healthcare,6.25,27.0,25.0,0,58.3,At Risk
+cust_357,enterprise,4999,Finance,8.333333333333332,30.0,5.0,15,58.3,At Risk
+cust_411,growth,799,Other,20.833333333333336,7.5,10.0,20,58.3,At Risk
+cust_2438,growth,799,Other,10.416666666666668,18.0,25.0,5,58.4,At Risk
+cust_2354,growth,799,SaaS,22.916666666666664,10.5,25.0,0,58.4,At Risk
+cust_2021,growth,799,SaaS,25.0,13.5,15.0,5,58.5,At Risk
+cust_2083,pro,1999,SaaS,25.0,13.5,20.0,0,58.5,At Risk
+cust_998,pro,1999,SaaS,25.0,13.5,20.0,0,58.5,At Risk
+cust_1430,starter,299,Other,25.0,13.5,5.0,15,58.5,At Risk
+cust_2433,pro,1999,Finance,25.0,28.5,5.0,0,58.5,At Risk
+cust_1611,growth,799,Ecommerce,25.0,13.5,5.0,15,58.5,At Risk
+cust_1607,starter,299,Finance,2.083333333333333,16.5,25.0,15,58.6,At Risk
+cust_2518,starter,299,SaaS,2.083333333333333,16.5,25.0,15,58.6,At Risk
+cust_1674,pro,1999,Ecommerce,16.666666666666664,12.0,10.0,20,58.7,At Risk
+cust_1962,growth,799,Ecommerce,16.666666666666664,12.0,25.0,5,58.7,At Risk
+cust_2968,starter,299,SaaS,18.75,30.0,10.0,0,58.8,At Risk
+cust_3000,starter,299,Other,18.75,15.0,10.0,15,58.8,At Risk
+cust_2999,starter,299,SaaS,18.75,30.0,5.0,5,58.8,At Risk
+cust_975,starter,299,Healthcare,6.25,22.5,25.0,5,58.8,At Risk
+cust_1335,starter,299,Other,18.75,15.0,25.0,0,58.8,At Risk
+cust_292,pro,1999,Ecommerce,8.333333333333332,25.5,15.0,10,58.8,At Risk
+cust_1354,growth,799,Finance,6.25,7.5,25.0,20,58.8,At Risk
+cust_200,enterprise,4999,Other,18.75,30.0,5.0,5,58.8,At Risk
+cust_177,growth,799,SaaS,18.75,30.0,10.0,0,58.8,At Risk
+cust_1792,growth,799,Healthcare,6.25,7.5,25.0,20,58.8,At Risk
+cust_766,growth,799,Other,18.75,30.0,5.0,5,58.8,At Risk
+cust_873,starter,299,Other,22.916666666666664,6.0,25.0,5,58.9,At Risk
+cust_1033,growth,799,Finance,22.916666666666664,6.0,20.0,10,58.9,At Risk
+cust_2668,pro,1999,Other,10.416666666666668,13.5,25.0,10,58.9,At Risk
+cust_73,starter,299,SaaS,25.0,9.0,10.0,15,59.0,At Risk
+cust_294,pro,1999,SaaS,25.0,9.0,25.0,0,59.0,At Risk
+cust_94,starter,299,Healthcare,25.0,9.0,25.0,0,59.0,At Risk
+cust_1829,pro,1999,SaaS,25.0,9.0,5.0,20,59.0,At Risk
+cust_2761,starter,299,SaaS,25.0,9.0,25.0,0,59.0,At Risk
+cust_1632,starter,299,Healthcare,25.0,9.0,10.0,15,59.0,At Risk
+cust_2034,starter,299,Healthcare,25.0,9.0,25.0,0,59.0,At Risk
+cust_475,growth,799,Ecommerce,25.0,9.0,25.0,0,59.0,At Risk
+cust_2118,growth,799,Finance,25.0,24.0,10.0,0,59.0,At Risk
+cust_2265,pro,1999,Finance,25.0,24.0,10.0,0,59.0,At Risk
+cust_595,enterprise,4999,Finance,25.0,9.0,10.0,15,59.0,At Risk
+cust_1726,enterprise,4999,Finance,25.0,9.0,25.0,0,59.0,At Risk
+cust_1723,growth,799,Finance,25.0,9.0,20.0,5,59.0,At Risk
+cust_1490,starter,299,Finance,25.0,9.0,25.0,0,59.0,At Risk
+cust_1462,pro,1999,Healthcare,25.0,9.0,25.0,0,59.0,At Risk
+cust_1386,starter,299,Healthcare,25.0,9.0,25.0,0,59.0,At Risk
+cust_359,starter,299,Ecommerce,25.0,9.0,25.0,0,59.0,At Risk
+cust_619,pro,1999,Ecommerce,25.0,9.0,5.0,20,59.0,At Risk
+cust_336,pro,1999,Ecommerce,25.0,24.0,5.0,5,59.0,At Risk
+cust_418,starter,299,Finance,25.0,9.0,25.0,0,59.0,At Risk
+cust_2815,starter,299,Finance,4.166666666666666,30.0,10.0,15,59.2,At Risk
+cust_838,starter,299,Healthcare,4.166666666666666,30.0,25.0,0,59.2,At Risk
+cust_1199,pro,1999,Healthcare,4.166666666666666,30.0,5.0,20,59.2,At Risk
+cust_2660,pro,1999,Ecommerce,4.166666666666666,30.0,25.0,0,59.2,At Risk
+cust_1591,pro,1999,SaaS,4.166666666666666,30.0,25.0,0,59.2,At Risk
+cust_2793,growth,799,SaaS,4.166666666666666,30.0,25.0,0,59.2,At Risk
+cust_2323,enterprise,4999,Other,4.166666666666666,30.0,5.0,20,59.2,At Risk
+cust_666,growth,799,Healthcare,4.166666666666666,30.0,20.0,5,59.2,At Risk
+cust_2095,pro,1999,Finance,4.166666666666666,30.0,15.0,10,59.2,At Risk
+cust_1939,starter,299,Healthcare,4.166666666666666,30.0,25.0,0,59.2,At Risk
+cust_954,starter,299,Finance,8.333333333333332,21.0,25.0,5,59.3,At Risk
+cust_2213,pro,1999,Ecommerce,8.333333333333332,21.0,25.0,5,59.3,At Risk
+cust_1339,starter,299,SaaS,8.333333333333332,21.0,10.0,20,59.3,At Risk
+cust_110,enterprise,4999,Finance,20.833333333333336,13.5,20.0,5,59.3,At Risk
+cust_447,enterprise,4999,Finance,18.75,25.5,5.0,10,59.3,At Risk
+cust_1843,pro,1999,SaaS,8.333333333333332,21.0,20.0,10,59.3,At Risk
+cust_2007,growth,799,Healthcare,10.416666666666668,24.0,10.0,15,59.4,At Risk
+cust_1780,starter,299,Other,25.0,4.5,25.0,5,59.5,At Risk
+cust_1019,pro,1999,Finance,25.0,4.5,10.0,20,59.5,At Risk
+cust_101,enterprise,4999,Ecommerce,25.0,19.5,5.0,10,59.5,At Risk
+cust_2734,pro,1999,Healthcare,25.0,4.5,25.0,5,59.5,At Risk
+cust_1880,starter,299,Healthcare,25.0,4.5,25.0,5,59.5,At Risk
+cust_367,starter,299,Finance,12.5,12.0,20.0,15,59.5,At Risk
+cust_1615,starter,299,Finance,25.0,19.5,5.0,10,59.5,At Risk
+cust_824,growth,799,Finance,25.0,19.5,10.0,5,59.5,At Risk
+cust_2559,pro,1999,Healthcare,25.0,4.5,25.0,5,59.5,At Risk
+cust_1922,starter,299,Other,25.0,4.5,15.0,15,59.5,At Risk
+cust_272,starter,299,Other,25.0,19.5,15.0,0,59.5,At Risk
+cust_2932,starter,299,Healthcare,25.0,4.5,25.0,5,59.5,At Risk
+cust_2310,growth,799,Finance,25.0,4.5,25.0,5,59.5,At Risk
+cust_1793,growth,799,Ecommerce,25.0,19.5,10.0,5,59.5,At Risk
+cust_959,starter,299,Ecommerce,14.583333333333334,0.0,25.0,20,59.6,At Risk
+cust_126,starter,299,Finance,14.583333333333334,30.0,5.0,10,59.6,At Risk
+cust_2268,starter,299,SaaS,14.583333333333334,30.0,5.0,10,59.6,At Risk
+cust_1338,starter,299,Ecommerce,14.583333333333334,30.0,5.0,10,59.6,At Risk
+cust_265,growth,799,SaaS,16.666666666666664,18.0,25.0,0,59.7,At Risk
+cust_1003,pro,1999,SaaS,16.666666666666664,18.0,25.0,0,59.7,At Risk
+cust_1964,pro,1999,Finance,16.666666666666664,3.0,25.0,15,59.7,At Risk
+cust_312,pro,1999,Finance,18.75,6.0,25.0,10,59.8,At Risk
+cust_2183,starter,299,SaaS,22.916666666666664,12.0,10.0,15,59.9,At Risk
+cust_548,growth,799,Other,22.916666666666664,12.0,25.0,0,59.9,At Risk
+cust_1846,starter,299,Finance,25.0,30.0,5.0,0,60.0,At Risk
+cust_1045,starter,299,Finance,25.0,15.0,20.0,0,60.0,At Risk
+cust_27,growth,799,Ecommerce,25.0,30.0,5.0,0,60.0,At Risk
+cust_1340,enterprise,4999,Other,25.0,0.0,15.0,20,60.0,At Risk
+cust_2951,enterprise,4999,Finance,25.0,15.0,10.0,10,60.0,At Risk
+cust_2186,starter,299,SaaS,25.0,0.0,15.0,20,60.0,At Risk
+cust_9,pro,1999,Other,25.0,15.0,20.0,0,60.0,At Risk
+cust_2592,enterprise,4999,Other,25.0,30.0,5.0,0,60.0,At Risk
+cust_2534,growth,799,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_1495,pro,1999,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_2372,enterprise,4999,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_1598,starter,299,Finance,25.0,30.0,5.0,0,60.0,At Risk
+cust_213,starter,299,Finance,25.0,0.0,25.0,10,60.0,At Risk
+cust_13,pro,1999,Finance,25.0,15.0,10.0,10,60.0,At Risk
+cust_2187,starter,299,Other,12.5,22.5,10.0,15,60.0,At Risk
+cust_1407,starter,299,Healthcare,25.0,30.0,5.0,0,60.0,At Risk
+cust_334,starter,299,Ecommerce,25.0,30.0,5.0,0,60.0,At Risk
+cust_382,starter,299,Other,25.0,30.0,5.0,0,60.0,At Risk
+cust_386,starter,299,Finance,25.0,0.0,25.0,10,60.0,At Risk
+cust_399,starter,299,Other,25.0,30.0,5.0,0,60.0,At Risk
+cust_2832,starter,299,Finance,25.0,30.0,5.0,0,60.0,At Risk
+cust_1272,pro,1999,Other,12.5,22.5,10.0,15,60.0,At Risk
+cust_2390,pro,1999,Finance,25.0,0.0,20.0,15,60.0,At Risk
+cust_2380,starter,299,Other,25.0,30.0,5.0,0,60.0,At Risk
+cust_484,starter,299,Healthcare,25.0,30.0,5.0,0,60.0,At Risk
+cust_573,pro,1999,Ecommerce,25.0,30.0,5.0,0,60.0,At Risk
+cust_601,starter,299,Other,25.0,30.0,5.0,0,60.0,At Risk
+cust_637,growth,799,Other,25.0,15.0,20.0,0,60.0,At Risk
+cust_1827,starter,299,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_2361,starter,299,SaaS,12.5,7.5,20.0,20,60.0,At Risk
+cust_1889,starter,299,Healthcare,25.0,30.0,5.0,0,60.0,At Risk
+cust_89,starter,299,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_1007,pro,1999,Ecommerce,25.0,0.0,25.0,10,60.0,At Risk
+cust_854,enterprise,4999,SaaS,25.0,30.0,5.0,0,60.0,At Risk
+cust_2145,growth,799,Finance,25.0,30.0,5.0,0,60.0,At Risk
+cust_1043,starter,299,Ecommerce,25.0,30.0,5.0,0,60.0,At Risk
+cust_2900,enterprise,4999,Ecommerce,25.0,30.0,5.0,0,60.0,At Risk
+cust_1588,pro,1999,Other,14.583333333333334,10.5,20.0,15,60.1,At Risk
+cust_757,pro,1999,SaaS,20.833333333333336,4.5,25.0,10,60.3,At Risk
+cust_650,pro,1999,Ecommerce,8.333333333333332,27.0,25.0,0,60.3,At Risk
+cust_2198,growth,799,SaaS,18.75,16.5,25.0,0,60.3,At Risk
+cust_377,growth,799,SaaS,18.75,16.5,25.0,0,60.3,At Risk
+cust_144,starter,299,Finance,8.333333333333332,27.0,25.0,0,60.3,At Risk
+cust_1517,pro,1999,Finance,8.333333333333332,27.0,25.0,0,60.3,At Risk
+cust_616,pro,1999,Finance,20.833333333333336,19.5,20.0,0,60.3,At Risk
+cust_2279,growth,799,SaaS,8.333333333333332,27.0,25.0,0,60.3,At Risk
+cust_851,growth,799,Healthcare,10.416666666666668,30.0,5.0,15,60.4,At Risk
+cust_1070,growth,799,SaaS,10.416666666666668,30.0,20.0,0,60.4,At Risk
+cust_1927,enterprise,4999,Healthcare,10.416666666666668,30.0,20.0,0,60.4,At Risk
+cust_1441,growth,799,Finance,10.416666666666668,30.0,20.0,0,60.4,At Risk
+cust_2667,growth,799,SaaS,22.916666666666664,7.5,25.0,5,60.4,At Risk
+cust_1952,growth,799,Ecommerce,10.416666666666668,30.0,20.0,0,60.4,At Risk
+cust_2358,growth,799,Other,25.0,10.5,20.0,5,60.5,At Risk
+cust_2948,enterprise,4999,Other,25.0,10.5,25.0,0,60.5,At Risk
+cust_1814,growth,799,Healthcare,25.0,10.5,20.0,5,60.5,At Risk
+cust_50,pro,1999,Ecommerce,25.0,10.5,25.0,0,60.5,At Risk
+cust_2953,pro,1999,Other,25.0,10.5,25.0,0,60.5,At Risk
+cust_86,growth,799,Healthcare,25.0,10.5,15.0,10,60.5,At Risk
+cust_2182,pro,1999,Finance,25.0,10.5,25.0,0,60.5,At Risk
+cust_2752,starter,299,SaaS,25.0,25.5,10.0,0,60.5,At Risk
+cust_1879,starter,299,Healthcare,25.0,10.5,25.0,0,60.5,At Risk
+cust_1869,enterprise,4999,Ecommerce,25.0,10.5,10.0,15,60.5,At Risk
+cust_931,growth,799,SaaS,25.0,10.5,25.0,0,60.5,At Risk
+cust_2444,pro,1999,Other,25.0,10.5,25.0,0,60.5,At Risk
+cust_2447,starter,299,Other,25.0,10.5,15.0,10,60.5,At Risk
+cust_896,growth,799,Finance,25.0,10.5,20.0,5,60.5,At Risk
+cust_1797,pro,1999,Ecommerce,25.0,25.5,10.0,0,60.5,At Risk
+cust_1249,starter,299,Healthcare,25.0,10.5,20.0,5,60.5,At Risk
+cust_1266,enterprise,4999,Other,25.0,25.5,10.0,0,60.5,At Risk
+cust_1811,starter,299,SaaS,25.0,10.5,25.0,0,60.5,At Risk
+cust_1616,pro,1999,Ecommerce,20.833333333333336,30.0,5.0,5,60.8,At Risk
+cust_253,starter,299,Ecommerce,20.833333333333336,30.0,10.0,0,60.8,At Risk
+cust_2275,enterprise,4999,Other,10.416666666666668,10.5,25.0,15,60.9,At Risk
+cust_2835,starter,299,Other,22.916666666666664,18.0,15.0,5,60.9,At Risk
+cust_146,pro,1999,Healthcare,22.916666666666664,18.0,20.0,0,60.9,At Risk
+cust_2736,starter,299,Finance,10.416666666666668,25.5,5.0,20,60.9,At Risk
+cust_439,growth,799,Other,10.416666666666668,25.5,25.0,0,60.9,At Risk
+cust_2261,growth,799,Other,25.0,6.0,20.0,10,61.0,At Risk
+cust_2622,enterprise,4999,Other,25.0,6.0,25.0,5,61.0,At Risk
+cust_2485,starter,299,Finance,25.0,21.0,15.0,0,61.0,At Risk
+cust_2008,pro,1999,Finance,12.5,28.5,20.0,0,61.0,At Risk
+cust_2079,growth,799,Ecommerce,25.0,6.0,25.0,5,61.0,At Risk
+cust_734,starter,299,Other,25.0,6.0,20.0,10,61.0,At Risk
+cust_1402,starter,299,Healthcare,25.0,6.0,15.0,15,61.0,At Risk
+cust_2753,growth,799,Finance,25.0,6.0,25.0,5,61.0,At Risk
+cust_477,starter,299,Healthcare,25.0,6.0,25.0,5,61.0,At Risk
+cust_467,starter,299,Other,25.0,6.0,10.0,20,61.0,At Risk
+cust_2893,starter,299,Finance,25.0,21.0,15.0,0,61.0,At Risk
+cust_2097,growth,799,Ecommerce,25.0,21.0,5.0,10,61.0,At Risk
+cust_406,growth,799,SaaS,25.0,6.0,15.0,15,61.0,At Risk
+cust_87,pro,1999,Other,4.166666666666666,27.0,25.0,5,61.2,At Risk
+cust_2829,growth,799,Healthcare,6.25,30.0,20.0,5,61.3,At Risk
+cust_1945,growth,799,Healthcare,6.25,30.0,10.0,15,61.3,At Risk
+cust_2019,starter,299,Ecommerce,18.75,7.5,25.0,10,61.3,At Risk
+cust_907,growth,799,Healthcare,6.25,30.0,10.0,15,61.3,At Risk
+cust_1900,growth,799,Ecommerce,6.25,15.0,25.0,15,61.3,At Risk
+cust_67,enterprise,4999,Ecommerce,6.25,30.0,25.0,0,61.3,At Risk
+cust_2863,pro,1999,Ecommerce,6.25,15.0,25.0,15,61.3,At Risk
+cust_624,growth,799,SaaS,22.916666666666664,13.5,25.0,0,61.4,At Risk
+cust_99,starter,299,Finance,22.916666666666664,13.5,25.0,0,61.4,At Risk
+cust_790,starter,299,SaaS,25.0,16.5,10.0,10,61.5,At Risk
+cust_2429,pro,1999,Healthcare,25.0,1.5,20.0,15,61.5,At Risk
+cust_2597,starter,299,Ecommerce,25.0,16.5,5.0,15,61.5,At Risk
+cust_304,growth,799,Finance,25.0,1.5,25.0,10,61.5,At Risk
+cust_2681,pro,1999,Ecommerce,25.0,1.5,25.0,10,61.5,At Risk
+cust_2088,pro,1999,Healthcare,25.0,16.5,10.0,10,61.5,At Risk
+cust_2593,enterprise,4999,SaaS,25.0,16.5,20.0,0,61.5,At Risk
+cust_238,pro,1999,Ecommerce,25.0,1.5,25.0,10,61.5,At Risk
+cust_1635,growth,799,SaaS,25.0,1.5,25.0,10,61.5,At Risk
+cust_203,pro,1999,Healthcare,25.0,16.5,10.0,10,61.5,At Risk
+cust_1027,growth,799,Other,25.0,16.5,20.0,0,61.5,At Risk
+cust_1745,starter,299,Finance,25.0,16.5,15.0,5,61.5,At Risk
+cust_138,growth,799,Finance,25.0,16.5,10.0,10,61.5,At Risk
+cust_2381,starter,299,Finance,25.0,1.5,15.0,20,61.5,At Risk
+cust_1168,starter,299,Finance,25.0,1.5,25.0,10,61.5,At Risk
+cust_1605,starter,299,SaaS,25.0,1.5,20.0,15,61.5,At Risk
+cust_1603,starter,299,Ecommerce,25.0,1.5,20.0,15,61.5,At Risk
+cust_704,growth,799,Ecommerce,16.666666666666664,30.0,15.0,0,61.7,At Risk
+cust_1810,pro,1999,SaaS,16.666666666666664,30.0,15.0,0,61.7,At Risk
+cust_1777,starter,299,Ecommerce,16.666666666666664,30.0,15.0,0,61.7,At Risk
+cust_2796,starter,299,Ecommerce,20.833333333333336,21.0,5.0,15,61.8,At Risk
+cust_1585,starter,299,Other,20.833333333333336,6.0,25.0,10,61.8,At Risk
+cust_1050,enterprise,4999,Ecommerce,10.416666666666668,16.5,25.0,10,61.9,At Risk
+cust_2823,growth,799,Ecommerce,25.0,27.0,10.0,0,62.0,At Risk
+cust_497,starter,299,Healthcare,25.0,12.0,25.0,0,62.0,At Risk
+cust_1822,starter,299,Ecommerce,25.0,12.0,25.0,0,62.0,At Risk
+cust_878,pro,1999,Other,25.0,27.0,5.0,5,62.0,At Risk
+cust_2683,starter,299,Other,25.0,12.0,10.0,15,62.0,At Risk
+cust_2759,pro,1999,Ecommerce,25.0,12.0,5.0,20,62.0,At Risk
+cust_1073,growth,799,Ecommerce,25.0,12.0,10.0,15,62.0,At Risk
+cust_1021,pro,1999,Finance,12.5,4.5,25.0,20,62.0,At Risk
+cust_1091,growth,799,Finance,25.0,12.0,25.0,0,62.0,At Risk
+cust_2629,starter,299,Finance,25.0,12.0,25.0,0,62.0,At Risk
+cust_1103,starter,299,Other,25.0,12.0,25.0,0,62.0,At Risk
+cust_663,starter,299,Finance,25.0,12.0,20.0,5,62.0,At Risk
+cust_2383,growth,799,Other,25.0,12.0,25.0,0,62.0,At Risk
+cust_2659,pro,1999,Healthcare,25.0,27.0,5.0,5,62.0,At Risk
+cust_2220,pro,1999,Ecommerce,25.0,12.0,25.0,0,62.0,At Risk
+cust_2274,growth,799,Ecommerce,2.083333333333333,30.0,15.0,15,62.1,At Risk
+cust_1471,pro,1999,Finance,2.083333333333333,30.0,10.0,20,62.1,At Risk
+cust_2391,starter,299,Ecommerce,2.083333333333333,30.0,25.0,5,62.1,At Risk
+cust_224,growth,799,Healthcare,2.083333333333333,30.0,25.0,5,62.1,At Risk
+cust_631,pro,1999,Other,2.083333333333333,15.0,25.0,20,62.1,At Risk
+cust_2048,starter,299,SaaS,2.083333333333333,30.0,25.0,5,62.1,At Risk
+cust_840,pro,1999,Other,2.083333333333333,30.0,25.0,5,62.1,At Risk
+cust_254,enterprise,4999,Ecommerce,16.666666666666664,10.5,25.0,10,62.2,At Risk
+cust_2995,starter,299,Ecommerce,16.666666666666664,10.5,15.0,20,62.2,At Risk
+cust_971,starter,299,Ecommerce,4.166666666666666,18.0,25.0,15,62.2,At Risk
+cust_1254,enterprise,4999,SaaS,20.833333333333336,16.5,25.0,0,62.3,At Risk
+cust_1769,starter,299,Healthcare,8.333333333333332,24.0,25.0,5,62.3,At Risk
+cust_1418,enterprise,4999,Ecommerce,22.916666666666664,4.5,20.0,15,62.4,At Risk
+cust_2155,pro,1999,SaaS,22.916666666666664,19.5,20.0,0,62.4,At Risk
+cust_1704,pro,1999,SaaS,10.416666666666668,12.0,25.0,15,62.4,At Risk
+cust_623,starter,299,SaaS,25.0,22.5,15.0,0,62.5,At Risk
+cust_2934,starter,299,Healthcare,25.0,7.5,15.0,15,62.5,At Risk
+cust_1925,starter,299,Healthcare,25.0,7.5,25.0,5,62.5,At Risk
+cust_812,pro,1999,Finance,25.0,22.5,15.0,0,62.5,At Risk
+cust_1118,enterprise,4999,SaaS,25.0,22.5,5.0,10,62.5,At Risk
+cust_2541,starter,299,SaaS,25.0,22.5,15.0,0,62.5,At Risk
+cust_1405,growth,799,Healthcare,25.0,22.5,15.0,0,62.5,At Risk
+cust_1185,growth,799,Finance,25.0,7.5,20.0,10,62.5,At Risk
+cust_2072,starter,299,Finance,25.0,22.5,15.0,0,62.5,At Risk
+cust_142,growth,799,Other,12.5,30.0,5.0,15,62.5,At Risk
+cust_29,enterprise,4999,Ecommerce,12.5,30.0,20.0,0,62.5,At Risk
+cust_2632,growth,799,Finance,14.583333333333334,18.0,15.0,15,62.6,At Risk
+cust_2463,pro,1999,Other,14.583333333333334,18.0,25.0,5,62.6,At Risk
+cust_1416,starter,299,Other,16.666666666666664,21.0,10.0,15,62.7,At Risk
+cust_479,growth,799,Ecommerce,16.666666666666664,6.0,25.0,15,62.7,At Risk
+cust_64,starter,299,Ecommerce,4.166666666666666,28.5,15.0,15,62.7,At Risk
+cust_103,pro,1999,SaaS,8.333333333333332,19.5,15.0,20,62.8,At Risk
+cust_1347,growth,799,SaaS,18.75,24.0,15.0,5,62.8,At Risk
+cust_396,enterprise,4999,Finance,18.75,9.0,25.0,10,62.8,At Risk
+cust_510,growth,799,Healthcare,22.916666666666664,30.0,5.0,5,62.9,At Risk
+cust_2451,growth,799,SaaS,22.916666666666664,15.0,5.0,20,62.9,At Risk
+cust_1173,growth,799,Healthcare,22.916666666666664,30.0,10.0,0,62.9,At Risk
+cust_2028,pro,1999,Other,22.916666666666664,30.0,5.0,5,62.9,At Risk
+cust_2018,growth,799,Other,22.916666666666664,0.0,25.0,15,62.9,At Risk
+cust_2139,pro,1999,Finance,25.0,18.0,15.0,5,63.0,At Risk
+cust_2985,growth,799,Other,25.0,18.0,10.0,10,63.0,At Risk
+cust_296,starter,299,Other,25.0,18.0,10.0,10,63.0,At Risk
+cust_2786,growth,799,SaaS,25.0,3.0,20.0,15,63.0,At Risk
+cust_1352,enterprise,4999,Finance,25.0,18.0,5.0,15,63.0,At Risk
+cust_478,starter,299,Healthcare,25.0,3.0,25.0,10,63.0,At Risk
+cust_1712,growth,799,Other,25.0,3.0,20.0,15,63.0,At Risk
+cust_803,growth,799,Finance,25.0,18.0,15.0,5,63.0,At Risk
+cust_985,enterprise,4999,Finance,12.5,25.5,25.0,0,63.0,At Risk
+cust_1791,growth,799,Finance,8.333333333333332,30.0,25.0,0,63.3,At Risk
+cust_849,pro,1999,Other,8.333333333333332,30.0,10.0,15,63.3,At Risk
+cust_2236,starter,299,Ecommerce,20.833333333333336,22.5,20.0,0,63.3,At Risk
+cust_1670,growth,799,Ecommerce,8.333333333333332,30.0,5.0,20,63.3,At Risk
+cust_1463,starter,299,Finance,8.333333333333332,30.0,15.0,10,63.3,At Risk
+cust_2783,starter,299,SaaS,18.75,19.5,25.0,0,63.3,At Risk
+cust_2298,enterprise,4999,Healthcare,8.333333333333332,30.0,5.0,20,63.3,At Risk
+cust_1445,enterprise,4999,SaaS,8.333333333333332,30.0,25.0,0,63.3,At Risk
+cust_1443,starter,299,SaaS,8.333333333333332,30.0,20.0,5,63.3,At Risk
+cust_338,starter,299,Healthcare,20.833333333333336,22.5,20.0,0,63.3,At Risk
+cust_1388,growth,799,Ecommerce,20.833333333333336,7.5,25.0,10,63.3,At Risk
+cust_425,growth,799,Ecommerce,8.333333333333332,30.0,25.0,0,63.3,At Risk
+cust_435,growth,799,SaaS,8.333333333333332,30.0,25.0,0,63.3,At Risk
+cust_559,pro,1999,SaaS,8.333333333333332,30.0,25.0,0,63.3,At Risk
+cust_788,starter,299,Other,8.333333333333332,30.0,10.0,15,63.3,At Risk
+cust_980,starter,299,SaaS,6.25,27.0,15.0,15,63.3,At Risk
+cust_1617,starter,299,Other,6.25,12.0,25.0,20,63.3,At Risk
+cust_1678,growth,799,Healthcare,10.416666666666668,18.0,20.0,15,63.4,At Risk
+cust_2101,starter,299,SaaS,25.0,13.5,10.0,15,63.5,At Risk
+cust_1012,growth,799,SaaS,25.0,13.5,25.0,0,63.5,At Risk
+cust_945,growth,799,Ecommerce,25.0,13.5,25.0,0,63.5,At Risk
+cust_2257,starter,299,Healthcare,25.0,13.5,5.0,20,63.5,At Risk
+cust_833,starter,299,Other,25.0,13.5,25.0,0,63.5,At Risk
+cust_1967,starter,299,SaaS,25.0,13.5,25.0,0,63.5,At Risk
+cust_234,pro,1999,Ecommerce,25.0,28.5,10.0,0,63.5,At Risk
+cust_811,starter,299,Finance,25.0,13.5,25.0,0,63.5,At Risk
+cust_912,growth,799,SaaS,25.0,13.5,25.0,0,63.5,At Risk
+cust_1059,pro,1999,Ecommerce,12.5,6.0,25.0,20,63.5,At Risk
+cust_1546,growth,799,Healthcare,25.0,13.5,20.0,5,63.5,At Risk
+cust_2386,starter,299,Ecommerce,25.0,13.5,5.0,20,63.5,At Risk
+cust_2502,starter,299,Finance,12.5,6.0,25.0,20,63.5,At Risk
+cust_527,starter,299,SaaS,25.0,13.5,25.0,0,63.5,At Risk
+cust_1831,starter,299,Finance,25.0,28.5,10.0,0,63.5,At Risk
+cust_1768,growth,799,Healthcare,14.583333333333334,9.0,25.0,15,63.6,At Risk
+cust_1200,starter,299,Other,20.833333333333336,3.0,25.0,15,63.8,At Risk
+cust_1251,pro,1999,Ecommerce,18.75,15.0,25.0,5,63.8,At Risk
+cust_2031,starter,299,Finance,18.75,15.0,15.0,15,63.8,At Risk
+cust_317,starter,299,Ecommerce,8.333333333333332,10.5,25.0,20,63.8,At Risk
+cust_2569,starter,299,Other,18.75,30.0,15.0,0,63.8,At Risk
+cust_2283,starter,299,Healthcare,18.75,30.0,15.0,0,63.8,At Risk
+cust_2026,enterprise,4999,Healthcare,18.75,30.0,15.0,0,63.8,At Risk
+cust_2640,starter,299,Other,8.333333333333332,25.5,25.0,5,63.8,At Risk
+cust_2807,starter,299,Healthcare,20.833333333333336,3.0,25.0,15,63.8,At Risk
+cust_1040,growth,799,SaaS,20.833333333333336,3.0,20.0,20,63.8,At Risk
+cust_832,starter,299,Healthcare,18.75,0.0,25.0,20,63.8,At Risk
+cust_2318,growth,799,Ecommerce,20.833333333333336,3.0,25.0,15,63.8,At Risk
+cust_871,starter,299,SaaS,10.416666666666668,13.5,25.0,15,63.9,At Risk
+cust_507,pro,1999,Ecommerce,25.0,9.0,25.0,5,64.0,At Risk
+cust_547,enterprise,4999,Other,25.0,9.0,25.0,5,64.0,At Risk
+cust_44,starter,299,Healthcare,25.0,24.0,10.0,5,64.0,At Risk
+cust_577,starter,299,Ecommerce,25.0,9.0,25.0,5,64.0,At Risk
+cust_2047,starter,299,Other,25.0,9.0,15.0,15,64.0,At Risk
+cust_1854,growth,799,Ecommerce,25.0,24.0,15.0,0,64.0,At Risk
+cust_2692,starter,299,Ecommerce,25.0,24.0,15.0,0,64.0,At Risk
+cust_1547,starter,299,Other,25.0,9.0,20.0,10,64.0,At Risk
+cust_2731,growth,799,Finance,25.0,9.0,25.0,5,64.0,At Risk
+cust_603,starter,299,Healthcare,4.166666666666666,30.0,25.0,5,64.2,At Risk
+cust_703,starter,299,Finance,4.166666666666666,30.0,25.0,5,64.2,At Risk
+cust_1865,growth,799,Finance,4.166666666666666,30.0,25.0,5,64.2,At Risk
+cust_940,growth,799,Finance,4.166666666666666,30.0,25.0,5,64.2,At Risk
+cust_353,growth,799,Healthcare,16.666666666666664,22.5,5.0,20,64.2,At Risk
+cust_2036,pro,1999,SaaS,4.166666666666666,30.0,20.0,10,64.2,At Risk
+cust_1095,pro,1999,Healthcare,16.666666666666664,22.5,20.0,5,64.2,At Risk
+cust_1265,starter,299,Healthcare,4.166666666666666,30.0,10.0,20,64.2,At Risk
+cust_1654,starter,299,SaaS,4.166666666666666,30.0,25.0,5,64.2,At Risk
+cust_2388,starter,299,Other,18.75,10.5,25.0,10,64.3,At Risk
+cust_2409,starter,299,SaaS,18.75,25.5,20.0,0,64.3,At Risk
+cust_2637,growth,799,Other,22.916666666666664,1.5,25.0,15,64.4,At Risk
+cust_1906,growth,799,SaaS,22.916666666666664,16.5,20.0,5,64.4,At Risk
+cust_218,growth,799,Other,22.916666666666664,16.5,25.0,0,64.4,At Risk
+cust_306,growth,799,Ecommerce,12.5,27.0,25.0,0,64.5,At Risk
+cust_320,starter,299,Ecommerce,25.0,4.5,15.0,20,64.5,At Risk
+cust_1878,growth,799,Healthcare,25.0,19.5,20.0,0,64.5,At Risk
+cust_192,pro,1999,Finance,25.0,4.5,20.0,15,64.5,At Risk
+cust_951,starter,299,Ecommerce,25.0,19.5,10.0,10,64.5,At Risk
+cust_2421,starter,299,Other,25.0,4.5,15.0,20,64.5,At Risk
+cust_1296,enterprise,4999,SaaS,25.0,19.5,20.0,0,64.5,At Risk
+cust_1216,growth,799,Finance,25.0,4.5,25.0,10,64.5,At Risk
+cust_1697,starter,299,Ecommerce,25.0,19.5,5.0,15,64.5,At Risk
+cust_2875,starter,299,SaaS,25.0,19.5,20.0,0,64.5,At Risk
+cust_504,growth,799,Finance,14.583333333333334,30.0,20.0,0,64.6,At Risk
+cust_920,enterprise,4999,Finance,14.583333333333334,15.0,20.0,15,64.6,At Risk
+cust_2247,growth,799,Healthcare,14.583333333333334,30.0,15.0,5,64.6,At Risk
+cust_529,starter,299,Finance,16.666666666666664,18.0,25.0,5,64.7,At Risk
+cust_71,growth,799,SaaS,18.75,21.0,20.0,5,64.8,At Risk
+cust_279,pro,1999,Other,18.75,21.0,10.0,15,64.8,At Risk
+cust_1257,starter,299,Finance,18.75,21.0,15.0,10,64.8,At Risk
+cust_228,pro,1999,Finance,18.75,21.0,25.0,0,64.8,At Risk
+cust_1930,starter,299,Other,10.416666666666668,19.5,15.0,20,64.9,At Risk
+cust_1,growth,799,Ecommerce,25.0,30.0,10.0,0,65.0,At Risk
+cust_2691,growth,799,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_416,starter,299,SaaS,25.0,30.0,10.0,0,65.0,At Risk
+cust_2350,starter,299,Healthcare,25.0,0.0,25.0,15,65.0,At Risk
+cust_2598,growth,799,Ecommerce,25.0,30.0,10.0,0,65.0,At Risk
+cust_2936,growth,799,Ecommerce,25.0,30.0,5.0,5,65.0,At Risk
+cust_2756,starter,299,Finance,25.0,0.0,25.0,15,65.0,At Risk
+cust_148,growth,799,Finance,25.0,0.0,25.0,15,65.0,At Risk
+cust_2061,starter,299,Ecommerce,25.0,30.0,10.0,0,65.0,At Risk
+cust_2086,enterprise,4999,Finance,25.0,15.0,20.0,5,65.0,At Risk
+cust_1902,starter,299,SaaS,25.0,30.0,10.0,0,65.0,At Risk
+cust_893,starter,299,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_2977,pro,1999,Finance,25.0,30.0,10.0,0,65.0,At Risk
+cust_2225,starter,299,Ecommerce,25.0,0.0,20.0,20,65.0,At Risk
+cust_2006,starter,299,SaaS,25.0,30.0,5.0,5,65.0,At Risk
+cust_1676,growth,799,Other,25.0,0.0,25.0,15,65.0,At Risk
+cust_1570,pro,1999,Healthcare,25.0,30.0,5.0,5,65.0,At Risk
+cust_325,growth,799,SaaS,25.0,0.0,25.0,15,65.0,At Risk
+cust_906,pro,1999,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_2624,starter,299,Finance,25.0,30.0,10.0,0,65.0,At Risk
+cust_834,growth,799,SaaS,25.0,0.0,20.0,20,65.0,At Risk
+cust_2142,growth,799,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_2136,growth,799,Healthcare,25.0,30.0,5.0,5,65.0,At Risk
+cust_2035,starter,299,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_2419,starter,299,SaaS,25.0,30.0,10.0,0,65.0,At Risk
+cust_914,starter,299,SaaS,25.0,30.0,5.0,5,65.0,At Risk
+cust_935,pro,1999,Healthcare,25.0,30.0,5.0,5,65.0,At Risk
+cust_2425,starter,299,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_354,starter,299,Ecommerce,25.0,30.0,5.0,5,65.0,At Risk
+cust_2385,growth,799,Ecommerce,25.0,30.0,10.0,0,65.0,At Risk
+cust_2369,starter,299,SaaS,25.0,15.0,20.0,5,65.0,At Risk
+cust_984,starter,299,Healthcare,25.0,30.0,10.0,0,65.0,At Risk
+cust_2621,enterprise,4999,Other,25.0,0.0,25.0,15,65.0,At Risk
+cust_992,starter,299,SaaS,25.0,30.0,5.0,5,65.0,At Risk
+cust_1058,enterprise,4999,Healthcare,25.0,30.0,10.0,0,65.0,At Risk
+cust_2276,growth,799,Healthcare,25.0,30.0,5.0,5,65.0,At Risk
+cust_1096,starter,299,SaaS,25.0,0.0,20.0,20,65.0,At Risk
+cust_2808,starter,299,SaaS,25.0,30.0,5.0,5,65.0,At Risk
+cust_1101,growth,799,Healthcare,25.0,15.0,25.0,0,65.0,At Risk
+cust_91,enterprise,4999,Healthcare,25.0,15.0,25.0,0,65.0,At Risk
+cust_1110,growth,799,SaaS,25.0,30.0,10.0,0,65.0,At Risk
+cust_1116,starter,299,Healthcare,25.0,15.0,15.0,10,65.0,At Risk
+cust_1123,starter,299,Healthcare,25.0,15.0,25.0,0,65.0,At Risk
+cust_521,pro,1999,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_1211,starter,299,Finance,25.0,30.0,5.0,5,65.0,At Risk
+cust_358,growth,799,Ecommerce,25.0,15.0,25.0,0,65.0,At Risk
+cust_2896,starter,299,Other,25.0,0.0,20.0,20,65.0,At Risk
+cust_1360,starter,299,Other,25.0,30.0,10.0,0,65.0,At Risk
+cust_483,starter,299,Finance,25.0,30.0,10.0,0,65.0,At Risk
+cust_2777,starter,299,SaaS,25.0,0.0,25.0,15,65.0,At Risk
+cust_2560,growth,799,Ecommerce,25.0,15.0,5.0,20,65.0,At Risk
+cust_1558,growth,799,Ecommerce,25.0,15.0,25.0,0,65.0,At Risk
+cust_2826,growth,799,Finance,25.0,30.0,5.0,5,65.0,At Risk
+cust_1363,starter,299,SaaS,25.0,30.0,10.0,0,65.0,At Risk
+cust_1365,growth,799,Finance,25.0,30.0,10.0,0,65.0,At Risk
+cust_1863,enterprise,4999,Finance,25.0,30.0,10.0,0,65.0,At Risk
+cust_2899,starter,299,SaaS,25.0,0.0,25.0,15,65.0,At Risk
+cust_391,starter,299,Healthcare,25.0,30.0,10.0,0,65.0,At Risk
+cust_2639,pro,1999,SaaS,25.0,15.0,25.0,0,65.0,At Risk
+cust_2641,enterprise,4999,Healthcare,25.0,30.0,10.0,0,65.0,At Risk
+cust_800,starter,299,Ecommerce,25.0,0.0,20.0,20,65.0,At Risk
+cust_2333,growth,799,Finance,25.0,15.0,5.0,20,65.0,At Risk
+cust_2604,starter,299,Other,14.583333333333334,25.5,25.0,0,65.1,At Risk
+cust_1248,pro,1999,Finance,2.083333333333333,18.0,25.0,20,65.1,At Risk
+cust_90,pro,1999,Healthcare,4.166666666666666,21.0,25.0,15,65.2,At Risk
+cust_968,starter,299,Ecommerce,16.666666666666664,13.5,20.0,15,65.2,At Risk
+cust_145,growth,799,SaaS,16.666666666666664,13.5,20.0,15,65.2,At Risk
+cust_2956,enterprise,4999,Healthcare,16.666666666666664,28.5,20.0,0,65.2,At Risk
+cust_1285,growth,799,SaaS,6.25,24.0,25.0,10,65.3,At Risk
+cust_2576,pro,1999,Other,18.75,16.5,25.0,5,65.3,At Risk
+cust_866,growth,799,Healthcare,6.25,24.0,25.0,10,65.3,At Risk
+cust_194,pro,1999,Other,20.833333333333336,19.5,10.0,15,65.3,At Risk
+cust_649,enterprise,4999,Finance,10.416666666666668,30.0,5.0,20,65.4,At Risk
+cust_1647,growth,799,SaaS,10.416666666666668,30.0,20.0,5,65.4,At Risk
+cust_2467,growth,799,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2472,starter,299,SaaS,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2188,pro,1999,Other,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2308,enterprise,4999,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1327,pro,1999,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_697,starter,299,Healthcare,10.416666666666668,30.0,5.0,20,65.4,At Risk
+cust_157,growth,799,SaaS,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2506,pro,1999,Other,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1920,growth,799,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2374,growth,799,Finance,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1097,starter,299,Finance,10.416666666666668,30.0,15.0,10,65.4,At Risk
+cust_1358,starter,299,Finance,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1145,starter,299,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_2733,pro,1999,SaaS,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1999,starter,299,Healthcare,10.416666666666668,30.0,25.0,0,65.4,At Risk
+cust_1770,growth,799,Ecommerce,10.416666666666668,30.0,20.0,5,65.4,At Risk
+cust_655,starter,299,Healthcare,25.0,10.5,25.0,5,65.5,At Risk
+cust_247,starter,299,Finance,25.0,25.5,15.0,0,65.5,At Risk
+cust_2090,starter,299,Other,25.0,10.5,10.0,20,65.5,At Risk
+cust_2642,starter,299,Other,25.0,25.5,5.0,10,65.5,At Risk
+cust_686,starter,299,Ecommerce,25.0,10.5,10.0,20,65.5,At Risk
+cust_769,growth,799,Other,25.0,25.5,15.0,0,65.5,At Risk
+cust_340,starter,299,SaaS,25.0,10.5,25.0,5,65.5,At Risk
+cust_413,enterprise,4999,Healthcare,25.0,10.5,15.0,15,65.5,At Risk
+cust_1675,starter,299,Healthcare,25.0,10.5,10.0,20,65.5,At Risk
+cust_2288,pro,1999,Other,25.0,25.5,10.0,5,65.5,At Risk
+cust_1500,growth,799,SaaS,25.0,25.5,5.0,10,65.5,At Risk
+cust_2170,starter,299,Finance,25.0,10.5,25.0,5,65.5,At Risk
+cust_1785,enterprise,4999,SaaS,25.0,10.5,10.0,20,65.5,At Risk
+cust_2287,starter,299,Finance,14.583333333333334,21.0,20.0,10,65.6,At Risk
+cust_2772,starter,299,Healthcare,14.583333333333334,6.0,25.0,20,65.6,At Risk
+cust_1178,starter,299,Healthcare,16.666666666666664,24.0,20.0,5,65.7,At Risk
+cust_2833,starter,299,Ecommerce,16.666666666666664,24.0,5.0,20,65.7,At Risk
+cust_2894,starter,299,Other,16.666666666666664,24.0,15.0,10,65.7,At Risk
+cust_544,starter,299,Finance,20.833333333333336,30.0,5.0,10,65.8,At Risk
+cust_421,growth,799,SaaS,20.833333333333336,30.0,5.0,10,65.8,At Risk
+cust_2957,pro,1999,Other,20.833333333333336,30.0,5.0,10,65.8,At Risk
+cust_2871,starter,299,Other,20.833333333333336,30.0,5.0,10,65.8,At Risk
+cust_2229,pro,1999,Ecommerce,18.75,12.0,15.0,20,65.8,At Risk
+cust_859,growth,799,Finance,20.833333333333336,30.0,15.0,0,65.8,At Risk
+cust_2531,starter,299,Ecommerce,6.25,19.5,25.0,15,65.8,At Risk
+cust_1148,starter,299,Healthcare,20.833333333333336,30.0,5.0,10,65.8,At Risk
+cust_2206,enterprise,4999,Ecommerce,18.75,12.0,25.0,10,65.8,At Risk
+cust_207,starter,299,Finance,20.833333333333336,30.0,10.0,5,65.8,At Risk
+cust_1318,starter,299,SaaS,20.833333333333336,15.0,10.0,20,65.8,At Risk
+cust_669,enterprise,4999,Finance,22.916666666666664,18.0,25.0,0,65.9,At Risk
+cust_2897,starter,299,Ecommerce,22.916666666666664,18.0,25.0,0,65.9,At Risk
+cust_2335,starter,299,Healthcare,10.416666666666668,10.5,25.0,20,65.9,At Risk
+cust_2115,enterprise,4999,SaaS,25.0,6.0,25.0,10,66.0,At Risk
+cust_2877,pro,1999,Other,25.0,6.0,25.0,10,66.0,At Risk
+cust_1038,enterprise,4999,Other,25.0,21.0,15.0,5,66.0,At Risk
+cust_1420,growth,799,Ecommerce,12.5,28.5,15.0,10,66.0,At Risk
+cust_129,starter,299,Other,25.0,21.0,20.0,0,66.0,At Risk
+cust_2703,growth,799,Healthcare,25.0,21.0,10.0,10,66.0,At Risk
+cust_2711,starter,299,Finance,25.0,21.0,5.0,15,66.0,At Risk
+cust_930,growth,799,Other,16.666666666666664,19.5,25.0,5,66.2,At Risk
+cust_1508,starter,299,Finance,16.666666666666664,4.5,25.0,20,66.2,At Risk
+cust_5,starter,299,Finance,6.25,30.0,10.0,20,66.3,At Risk
+cust_1574,pro,1999,SaaS,18.75,22.5,25.0,0,66.3,At Risk
+cust_2918,starter,299,Ecommerce,18.75,22.5,15.0,10,66.3,At Risk
+cust_1819,starter,299,Ecommerce,20.833333333333336,10.5,25.0,10,66.3,At Risk
+cust_195,enterprise,4999,Other,6.25,30.0,15.0,15,66.3,At Risk
+cust_2852,pro,1999,Ecommerce,6.25,30.0,25.0,5,66.3,At Risk
+cust_1506,starter,299,Healthcare,8.333333333333332,18.0,25.0,15,66.3,At Risk
+cust_2112,starter,299,SaaS,10.416666666666668,21.0,20.0,15,66.4,At Risk
+cust_78,growth,799,Ecommerce,25.0,16.5,15.0,10,66.5,At Risk
+cust_1366,pro,1999,Finance,25.0,16.5,10.0,15,66.5,At Risk
+cust_717,growth,799,Finance,25.0,16.5,10.0,15,66.5,At Risk
+cust_1355,growth,799,Ecommerce,12.5,9.0,25.0,20,66.5,At Risk
+cust_2473,pro,1999,SaaS,25.0,1.5,25.0,15,66.5,At Risk
+cust_713,pro,1999,SaaS,25.0,16.5,25.0,0,66.5,At Risk
+cust_1882,pro,1999,Ecommerce,25.0,16.5,25.0,0,66.5,At Risk
+cust_2579,starter,299,Ecommerce,25.0,1.5,25.0,15,66.5,At Risk
+cust_865,growth,799,Healthcare,25.0,1.5,25.0,15,66.5,At Risk
+cust_986,starter,299,Other,25.0,16.5,15.0,10,66.5,At Risk
+cust_1442,starter,299,Ecommerce,12.5,9.0,25.0,20,66.5,At Risk
+cust_2458,starter,299,Healthcare,25.0,1.5,20.0,20,66.5,At Risk
+cust_2662,growth,799,Other,14.583333333333334,27.0,25.0,0,66.6,At Risk
+cust_2394,starter,299,Other,14.583333333333334,27.0,25.0,0,66.6,At Risk
+cust_404,starter,299,Healthcare,16.666666666666664,15.0,25.0,10,66.7,At Risk
+cust_2898,growth,799,Finance,16.666666666666664,30.0,5.0,15,66.7,At Risk
+cust_2340,pro,1999,Finance,20.833333333333336,21.0,20.0,5,66.8,At Risk
+cust_2479,growth,799,Ecommerce,20.833333333333336,21.0,15.0,10,66.8,At Risk
+cust_1035,pro,1999,Finance,8.333333333333332,28.5,10.0,20,66.8,At Risk
+cust_1586,pro,1999,SaaS,10.416666666666668,16.5,25.0,15,66.9,At Risk
+cust_789,growth,799,Ecommerce,22.916666666666664,9.0,15.0,20,66.9,At Risk
+cust_1663,growth,799,Ecommerce,10.416666666666668,16.5,25.0,15,66.9,At Risk
+cust_1161,starter,299,Finance,22.916666666666664,9.0,25.0,10,66.9,At Risk
+cust_2117,starter,299,SaaS,12.5,19.5,15.0,20,67.0,At Risk
+cust_2842,starter,299,SaaS,25.0,27.0,15.0,0,67.0,At Risk
+cust_2480,enterprise,4999,Healthcare,25.0,12.0,25.0,5,67.0,At Risk
+cust_740,growth,799,Finance,25.0,27.0,5.0,10,67.0,At Risk
+cust_1029,growth,799,Healthcare,25.0,12.0,25.0,5,67.0,At Risk
+cust_400,growth,799,Healthcare,25.0,12.0,25.0,5,67.0,At Risk
+cust_2351,growth,799,SaaS,25.0,12.0,25.0,5,67.0,At Risk
+cust_955,starter,299,Ecommerce,25.0,12.0,15.0,15,67.0,At Risk
+cust_1225,pro,1999,SaaS,25.0,12.0,10.0,20,67.0,At Risk
+cust_2362,growth,799,SaaS,25.0,12.0,10.0,20,67.0,At Risk
+cust_1988,enterprise,4999,Finance,12.5,19.5,25.0,10,67.0,At Risk
+cust_231,starter,299,Finance,25.0,27.0,5.0,10,67.0,At Risk
+cust_2840,growth,799,Healthcare,2.083333333333333,30.0,15.0,20,67.1,At Risk
+cust_538,starter,299,Healthcare,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_1180,pro,1999,Finance,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_1916,growth,799,SaaS,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_324,growth,799,Ecommerce,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_754,enterprise,4999,Ecommerce,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_2481,enterprise,4999,SaaS,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_816,pro,1999,Other,14.583333333333334,7.5,25.0,20,67.1,At Risk
+cust_1289,pro,1999,Other,2.083333333333333,30.0,15.0,20,67.1,At Risk
+cust_2209,starter,299,Healthcare,2.083333333333333,30.0,15.0,20,67.1,At Risk
+cust_1960,starter,299,Healthcare,2.083333333333333,30.0,25.0,10,67.1,At Risk
+cust_1772,growth,799,Ecommerce,14.583333333333334,7.5,25.0,20,67.1,At Risk
+cust_1875,starter,299,SaaS,16.666666666666664,25.5,10.0,15,67.2,At Risk
+cust_351,starter,299,Healthcare,4.166666666666666,18.0,25.0,20,67.2,At Risk
+cust_1102,growth,799,Other,8.333333333333332,24.0,15.0,20,67.3,At Risk
+cust_2325,pro,1999,Other,8.333333333333332,24.0,25.0,10,67.3,At Risk
+cust_500,starter,299,Ecommerce,8.333333333333332,24.0,25.0,10,67.3,At Risk
+cust_2591,growth,799,Other,22.916666666666664,19.5,25.0,0,67.4,At Risk
+cust_280,starter,299,Finance,22.916666666666664,19.5,15.0,10,67.4,At Risk
+cust_1980,starter,299,Ecommerce,12.5,30.0,25.0,0,67.5,At Risk
+cust_1152,enterprise,4999,Other,12.5,30.0,5.0,20,67.5,At Risk
+cust_2363,starter,299,SaaS,25.0,7.5,25.0,10,67.5,At Risk
+cust_184,growth,799,Healthcare,12.5,30.0,25.0,0,67.5,At Risk
+cust_2023,starter,299,SaaS,12.5,30.0,25.0,0,67.5,At Risk
+cust_1983,starter,299,Finance,12.5,30.0,10.0,15,67.5,At Risk
+cust_307,starter,299,Finance,12.5,30.0,10.0,15,67.5,At Risk
+cust_440,growth,799,Ecommerce,12.5,30.0,25.0,0,67.5,At Risk
+cust_1190,starter,299,Ecommerce,25.0,7.5,15.0,20,67.5,At Risk
+cust_1977,starter,299,Other,25.0,22.5,20.0,0,67.5,At Risk
+cust_2436,enterprise,4999,Other,25.0,22.5,15.0,5,67.5,At Risk
+cust_1381,pro,1999,Ecommerce,25.0,7.5,25.0,10,67.5,At Risk
+cust_2442,pro,1999,Healthcare,12.5,30.0,25.0,0,67.5,At Risk
+cust_2174,growth,799,Healthcare,12.5,30.0,25.0,0,67.5,At Risk
+cust_1718,starter,299,Other,25.0,7.5,25.0,10,67.5,At Risk
+cust_1744,pro,1999,Finance,12.5,30.0,25.0,0,67.5,At Risk
+cust_2460,pro,1999,SaaS,25.0,7.5,25.0,10,67.5,At Risk
+cust_1643,pro,1999,Finance,12.5,15.0,25.0,15,67.5,At Risk
+cust_676,enterprise,4999,Healthcare,18.75,9.0,25.0,15,67.8,At Risk
+cust_2644,pro,1999,SaaS,8.333333333333332,19.5,25.0,15,67.8,At Risk
+cust_398,growth,799,Healthcare,20.833333333333336,12.0,25.0,10,67.8,At Risk
+cust_1874,enterprise,4999,Finance,22.916666666666664,30.0,10.0,5,67.9,At Risk
+cust_1912,starter,299,Healthcare,22.916666666666664,15.0,25.0,5,67.9,At Risk
+cust_2249,enterprise,4999,Finance,22.916666666666664,0.0,25.0,20,67.9,At Risk
+cust_759,pro,1999,Healthcare,25.0,18.0,25.0,0,68.0,At Risk
+cust_170,pro,1999,Finance,25.0,3.0,25.0,15,68.0,At Risk
+cust_1312,growth,799,SaaS,25.0,3.0,25.0,15,68.0,At Risk
+cust_1991,growth,799,Healthcare,25.0,18.0,25.0,0,68.0,At Risk
+cust_2009,enterprise,4999,Finance,25.0,18.0,25.0,0,68.0,At Risk
+cust_2740,growth,799,Ecommerce,25.0,18.0,5.0,20,68.0,At Risk
+cust_185,enterprise,4999,SaaS,25.0,18.0,25.0,0,68.0,At Risk
+cust_2773,starter,299,Ecommerce,12.5,25.5,20.0,10,68.0,At Risk
+cust_311,starter,299,SaaS,25.0,18.0,20.0,5,68.0,At Risk
+cust_1336,starter,299,SaaS,25.0,18.0,25.0,0,68.0,At Risk
+cust_736,starter,299,Ecommerce,25.0,18.0,25.0,0,68.0,At Risk
+cust_1857,growth,799,Finance,25.0,3.0,20.0,20,68.0,At Risk
+cust_2954,growth,799,Healthcare,25.0,18.0,25.0,0,68.0,At Risk
+cust_1662,starter,299,Healthcare,14.583333333333334,28.5,25.0,0,68.1,At Risk
+cust_2133,starter,299,Other,4.166666666666666,24.0,20.0,20,68.2,At Risk
+cust_2855,growth,799,Healthcare,16.666666666666664,16.5,15.0,20,68.2,At Risk
+cust_696,starter,299,Other,8.333333333333332,30.0,20.0,10,68.3,At Risk
+cust_16,starter,299,Ecommerce,8.333333333333332,30.0,10.0,20,68.3,At Risk
+cust_2608,starter,299,Ecommerce,8.333333333333332,30.0,15.0,15,68.3,At Risk
+cust_617,starter,299,SaaS,8.333333333333332,30.0,25.0,5,68.3,At Risk
+cust_2319,starter,299,Finance,20.833333333333336,22.5,5.0,20,68.3,At Risk
+cust_1622,pro,1999,Finance,20.833333333333336,22.5,15.0,10,68.3,At Risk
+cust_196,growth,799,Ecommerce,8.333333333333332,30.0,20.0,10,68.3,At Risk
+cust_2184,enterprise,4999,Finance,6.25,27.0,25.0,10,68.3,At Risk
+cust_2303,enterprise,4999,Ecommerce,8.333333333333332,30.0,25.0,5,68.3,At Risk
+cust_2251,growth,799,Ecommerce,6.25,27.0,25.0,10,68.3,At Risk
+cust_424,pro,1999,Finance,8.333333333333332,30.0,25.0,5,68.3,At Risk
+cust_1858,growth,799,Ecommerce,8.333333333333332,15.0,25.0,20,68.3,At Risk
+cust_278,starter,299,Ecommerce,18.75,19.5,25.0,5,68.3,At Risk
+cust_2714,pro,1999,SaaS,8.333333333333332,30.0,25.0,5,68.3,At Risk
+cust_183,growth,799,SaaS,25.0,13.5,25.0,5,68.5,At Risk
+cust_870,growth,799,Finance,25.0,13.5,25.0,5,68.5,At Risk
+cust_299,starter,299,Other,25.0,13.5,15.0,15,68.5,At Risk
+cust_2242,starter,299,SaaS,25.0,13.5,15.0,15,68.5,At Risk
+cust_2244,pro,1999,Ecommerce,25.0,13.5,25.0,5,68.5,At Risk
+cust_2331,pro,1999,Other,14.583333333333334,24.0,10.0,20,68.6,At Risk
+cust_549,starter,299,SaaS,4.166666666666666,19.5,25.0,20,68.7,At Risk
+cust_974,starter,299,Ecommerce,16.666666666666664,27.0,25.0,0,68.7,At Risk
+cust_888,enterprise,4999,Healthcare,18.75,30.0,20.0,0,68.8,At Risk
+cust_2154,starter,299,Ecommerce,18.75,30.0,15.0,5,68.8,At Risk
+cust_219,growth,799,Finance,18.75,30.0,20.0,0,68.8,At Risk
+cust_921,starter,299,Ecommerce,18.75,30.0,10.0,10,68.8,At Risk
+cust_1899,growth,799,Ecommerce,18.75,30.0,10.0,10,68.8,At Risk
+cust_2292,starter,299,Ecommerce,18.75,30.0,20.0,0,68.8,At Risk
+cust_1062,starter,299,Healthcare,18.75,30.0,5.0,15,68.8,At Risk
+cust_1156,pro,1999,Healthcare,20.833333333333336,18.0,20.0,10,68.8,At Risk
+cust_154,growth,799,Other,25.0,24.0,10.0,10,69.0,At Risk
+cust_2197,starter,299,SaaS,25.0,9.0,25.0,10,69.0,At Risk
+cust_1144,growth,799,Healthcare,25.0,24.0,15.0,5,69.0,At Risk
+cust_647,growth,799,Other,25.0,9.0,25.0,10,69.0,At Risk
+cust_72,growth,799,Finance,25.0,9.0,25.0,10,69.0,At Risk
+cust_2169,starter,299,Ecommerce,25.0,9.0,15.0,20,69.0,At Risk
+cust_2649,growth,799,SaaS,25.0,9.0,20.0,15,69.0,At Risk
+cust_2262,growth,799,Ecommerce,25.0,9.0,15.0,20,69.0,At Risk
+cust_702,starter,299,Ecommerce,25.0,9.0,25.0,10,69.0,At Risk
+cust_826,starter,299,Other,25.0,24.0,10.0,10,69.0,At Risk
+cust_2952,starter,299,Finance,25.0,24.0,20.0,0,69.0,At Risk
+cust_283,enterprise,4999,Healthcare,25.0,9.0,25.0,10,69.0,At Risk
+cust_2493,pro,1999,Finance,25.0,9.0,20.0,15,69.0,At Risk
+cust_2514,growth,799,SaaS,12.5,16.5,25.0,15,69.0,At Risk
+cust_804,pro,1999,Ecommerce,14.583333333333334,19.5,15.0,20,69.1,At Risk
+cust_2779,enterprise,4999,Healthcare,2.083333333333333,27.0,20.0,20,69.1,At Risk
+cust_1126,enterprise,4999,Healthcare,4.166666666666666,30.0,15.0,20,69.2,At Risk
+cust_271,pro,1999,SaaS,4.166666666666666,30.0,25.0,10,69.2,At Risk
+cust_2496,starter,299,Other,4.166666666666666,30.0,15.0,20,69.2,At Risk
+cust_742,growth,799,SaaS,4.166666666666666,30.0,15.0,20,69.2,At Risk
+cust_1737,growth,799,Other,18.75,10.5,25.0,15,69.3,At Risk
+cust_1809,starter,299,Healthcare,18.75,10.5,25.0,15,69.3,At Risk
+cust_1820,growth,799,SaaS,20.833333333333336,13.5,25.0,10,69.3,At Risk
+cust_80,pro,1999,Finance,8.333333333333332,21.0,25.0,15,69.3,At Risk
+cust_913,enterprise,4999,Ecommerce,20.833333333333336,13.5,25.0,10,69.3,At Risk
+cust_2349,growth,799,Healthcare,22.916666666666664,1.5,25.0,20,69.4,At Risk
+cust_1279,starter,299,Ecommerce,12.5,12.0,25.0,20,69.5,At Risk
+cust_511,starter,299,Ecommerce,25.0,19.5,25.0,0,69.5,At Risk
+cust_856,enterprise,4999,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_1735,starter,299,Healthcare,25.0,19.5,25.0,0,69.5,At Risk
+cust_1602,growth,799,Ecommerce,25.0,4.5,25.0,15,69.5,At Risk
+cust_1636,starter,299,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_2931,growth,799,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_2578,growth,799,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_1345,enterprise,4999,Ecommerce,25.0,19.5,25.0,0,69.5,At Risk
+cust_2235,growth,799,SaaS,12.5,27.0,25.0,5,69.5,At Risk
+cust_2423,enterprise,4999,SaaS,25.0,4.5,25.0,15,69.5,At Risk
+cust_2589,starter,299,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_2284,pro,1999,Ecommerce,25.0,19.5,25.0,0,69.5,At Risk
+cust_1630,enterprise,4999,Other,25.0,19.5,10.0,15,69.5,At Risk
+cust_1465,growth,799,Healthcare,25.0,4.5,25.0,15,69.5,At Risk
+cust_2798,starter,299,Other,25.0,19.5,25.0,0,69.5,At Risk
+cust_1516,enterprise,4999,Finance,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_1731,growth,799,SaaS,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_858,growth,799,Other,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_1779,starter,299,Healthcare,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_450,starter,299,Ecommerce,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_1194,starter,299,SaaS,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_451,growth,799,Finance,14.583333333333334,30.0,10.0,15,69.6,At Risk
+cust_261,pro,1999,SaaS,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_835,pro,1999,Healthcare,14.583333333333334,30.0,20.0,5,69.6,At Risk
+cust_1572,starter,299,Ecommerce,14.583333333333334,30.0,25.0,0,69.6,At Risk
+cust_585,starter,299,Finance,14.583333333333334,30.0,5.0,20,69.6,At Risk
+cust_1581,growth,799,Healthcare,14.583333333333334,15.0,20.0,20,69.6,At Risk
+cust_245,growth,799,Healthcare,4.166666666666666,25.5,20.0,20,69.7,At Risk
+cust_1913,growth,799,Healthcare,20.833333333333336,24.0,25.0,0,69.8,At Risk
+cust_2462,growth,799,Healthcare,18.75,6.0,25.0,20,69.8,At Risk
+cust_256,pro,1999,Finance,22.916666666666664,27.0,20.0,0,69.9,At Risk
+cust_2535,starter,299,Healthcare,22.916666666666664,12.0,15.0,20,69.9,At Risk
+cust_2633,growth,799,Other,25.0,15.0,25.0,5,70.0,At Risk
+cust_494,growth,799,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_843,pro,1999,Healthcare,25.0,30.0,15.0,0,70.0,At Risk
+cust_2375,growth,799,Other,25.0,30.0,10.0,5,70.0,At Risk
+cust_857,pro,1999,SaaS,25.0,30.0,15.0,0,70.0,At Risk
+cust_2160,starter,299,Other,25.0,15.0,15.0,15,70.0,At Risk
+cust_1333,pro,1999,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_1699,growth,799,Healthcare,25.0,15.0,20.0,10,70.0,At Risk
+cust_1707,starter,299,Healthcare,25.0,15.0,25.0,5,70.0,At Risk
+cust_2426,growth,799,Healthcare,25.0,30.0,5.0,10,70.0,At Risk
+cust_164,starter,299,SaaS,25.0,30.0,15.0,0,70.0,At Risk
+cust_40,starter,299,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_1740,pro,1999,Other,25.0,0.0,25.0,20,70.0,At Risk
+cust_289,starter,299,Ecommerce,25.0,0.0,25.0,20,70.0,At Risk
+cust_2821,starter,299,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_1492,starter,299,Finance,25.0,15.0,25.0,5,70.0,At Risk
+cust_780,growth,799,Ecommerce,25.0,30.0,15.0,0,70.0,At Risk
+cust_2149,growth,799,Other,25.0,30.0,10.0,5,70.0,At Risk
+cust_1823,enterprise,4999,Finance,25.0,30.0,5.0,10,70.0,At Risk
+cust_47,growth,799,Healthcare,25.0,30.0,15.0,0,70.0,At Risk
+cust_1159,starter,299,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_60,growth,799,Ecommerce,25.0,30.0,15.0,0,70.0,At Risk
+cust_552,starter,299,Ecommerce,25.0,15.0,25.0,5,70.0,At Risk
+cust_2838,growth,799,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_918,growth,799,Ecommerce,25.0,0.0,25.0,20,70.0,At Risk
+cust_557,pro,1999,Other,25.0,30.0,15.0,0,70.0,At Risk
+cust_2064,starter,299,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_190,enterprise,4999,Ecommerce,25.0,30.0,10.0,5,70.0,At Risk
+cust_441,pro,1999,Finance,25.0,15.0,25.0,5,70.0,At Risk
+cust_1374,enterprise,4999,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_2105,growth,799,Healthcare,25.0,30.0,15.0,0,70.0,At Risk
+cust_2728,pro,1999,Healthcare,25.0,30.0,10.0,5,70.0,At Risk
+cust_1648,growth,799,SaaS,25.0,30.0,15.0,0,70.0,At Risk
+cust_1326,growth,799,Other,25.0,30.0,15.0,0,70.0,At Risk
+cust_1451,growth,799,Healthcare,25.0,30.0,15.0,0,70.0,At Risk
+cust_566,starter,299,Other,25.0,15.0,25.0,5,70.0,At Risk
+cust_1236,starter,299,Ecommerce,25.0,30.0,5.0,10,70.0,At Risk
+cust_2252,pro,1999,Ecommerce,25.0,30.0,15.0,0,70.0,At Risk
+cust_2884,pro,1999,Ecommerce,25.0,30.0,5.0,10,70.0,At Risk
+cust_100,growth,799,Other,25.0,15.0,25.0,5,70.0,At Risk
+cust_2974,starter,299,Other,25.0,30.0,10.0,5,70.0,At Risk
+cust_584,growth,799,Healthcare,25.0,30.0,5.0,10,70.0,At Risk
+cust_1246,starter,299,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_2281,pro,1999,Healthcare,25.0,30.0,15.0,0,70.0,At Risk
+cust_1282,growth,799,SaaS,25.0,30.0,5.0,10,70.0,At Risk
+cust_2811,enterprise,4999,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_598,pro,1999,Ecommerce,25.0,30.0,5.0,10,70.0,At Risk
+cust_606,starter,299,SaaS,25.0,30.0,15.0,0,70.0,At Risk
+cust_2477,growth,799,Healthcare,25.0,30.0,10.0,5,70.0,At Risk
+cust_503,starter,299,Other,25.0,30.0,15.0,0,70.0,At Risk
+cust_1894,enterprise,4999,Other,25.0,30.0,15.0,0,70.0,At Risk
+cust_1177,starter,299,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_2507,pro,1999,Other,25.0,30.0,5.0,10,70.0,At Risk
+cust_113,pro,1999,Ecommerce,25.0,30.0,15.0,0,70.0,At Risk
+cust_1063,starter,299,Finance,25.0,30.0,10.0,5,70.0,At Risk
+cust_284,pro,1999,Finance,25.0,30.0,15.0,0,70.0,At Risk
+cust_2178,pro,1999,Other,25.0,15.0,20.0,10,70.0,At Risk
+cust_1088,growth,799,Healthcare,25.0,30.0,10.0,5,70.0,At Risk
+cust_429,starter,299,Other,25.0,30.0,15.0,0,70.0,At Risk
+cust_1139,growth,799,Ecommerce,4.166666666666666,21.0,25.0,20,70.2,At Risk
+cust_434,starter,299,Other,16.666666666666664,28.5,25.0,0,70.2,At Risk
+cust_107,starter,299,Ecommerce,20.833333333333336,19.5,15.0,15,70.3,At Risk
+cust_2025,pro,1999,Ecommerce,10.416666666666668,30.0,25.0,5,70.4,At Risk
+cust_1580,starter,299,Healthcare,10.416666666666668,30.0,15.0,15,70.4,At Risk
+cust_356,starter,299,Finance,22.916666666666664,22.5,25.0,0,70.4,At Risk
+cust_1946,starter,299,Ecommerce,10.416666666666668,30.0,25.0,5,70.4,At Risk
+cust_2300,enterprise,4999,Healthcare,10.416666666666668,30.0,25.0,5,70.4,At Risk
+cust_1799,starter,299,SaaS,25.0,25.5,10.0,10,70.5,At Risk
+cust_813,pro,1999,Ecommerce,25.0,10.5,15.0,20,70.5,At Risk
+cust_2555,growth,799,SaaS,25.0,10.5,25.0,10,70.5,At Risk
+cust_542,growth,799,SaaS,25.0,25.5,5.0,15,70.5,At Risk
+cust_1995,starter,299,Other,25.0,25.5,20.0,0,70.5,At Risk
+cust_863,starter,299,Other,25.0,10.5,25.0,10,70.5,At Risk
+cust_409,growth,799,Healthcare,25.0,25.5,20.0,0,70.5,At Risk
+cust_874,growth,799,Other,25.0,10.5,25.0,10,70.5,At Risk
+cust_2085,starter,299,Healthcare,25.0,25.5,20.0,0,70.5,At Risk
+cust_970,starter,299,Finance,25.0,10.5,25.0,10,70.5,At Risk
+cust_2148,pro,1999,Ecommerce,25.0,10.5,25.0,10,70.5,At Risk
+cust_2329,growth,799,Ecommerce,25.0,25.5,20.0,0,70.5,At Risk
+cust_2271,growth,799,Ecommerce,25.0,25.5,20.0,0,70.5,At Risk
+cust_2490,growth,799,Finance,25.0,10.5,20.0,15,70.5,At Risk
+cust_2916,starter,299,Finance,25.0,10.5,15.0,20,70.5,At Risk
+cust_2610,growth,799,SaaS,25.0,25.5,5.0,15,70.5,At Risk
+cust_2745,enterprise,4999,Ecommerce,25.0,25.5,20.0,0,70.5,At Risk
+cust_1835,pro,1999,Ecommerce,14.583333333333334,21.0,25.0,10,70.6,At Risk
+cust_1206,growth,799,SaaS,2.083333333333333,28.5,25.0,15,70.6,At Risk
+cust_1393,starter,299,Healthcare,2.083333333333333,28.5,25.0,15,70.6,At Risk
+cust_610,starter,299,Other,2.083333333333333,28.5,25.0,15,70.6,At Risk
+cust_1767,pro,1999,Healthcare,16.666666666666664,9.0,25.0,20,70.7,At Risk
+cust_75,starter,299,Finance,16.666666666666664,24.0,25.0,5,70.7,At Risk
+cust_1245,starter,299,Finance,16.666666666666664,24.0,10.0,20,70.7,At Risk
+cust_2727,enterprise,4999,Finance,20.833333333333336,30.0,10.0,10,70.8,At Risk
+cust_1181,starter,299,Ecommerce,6.25,19.5,25.0,20,70.8,At Risk
+cust_1596,enterprise,4999,Healthcare,18.75,27.0,15.0,10,70.8,At Risk
+cust_161,growth,799,Ecommerce,20.833333333333336,30.0,10.0,10,70.8,At Risk
+cust_2099,starter,299,Ecommerce,20.833333333333336,30.0,5.0,15,70.8,At Risk
+cust_2646,enterprise,4999,Other,20.833333333333336,15.0,20.0,15,70.8,At Risk
+cust_62,starter,299,Finance,22.916666666666664,18.0,25.0,5,70.9,At Risk
+cust_2054,starter,299,Healthcare,22.916666666666664,3.0,25.0,20,70.9,At Risk
+cust_12,starter,299,Healthcare,25.0,21.0,25.0,0,71.0,At Risk
+cust_1502,starter,299,Healthcare,25.0,21.0,25.0,0,71.0,At Risk
+cust_1350,starter,299,Healthcare,25.0,21.0,25.0,0,71.0,At Risk
+cust_630,starter,299,Ecommerce,25.0,21.0,25.0,0,71.0,At Risk
+cust_1092,starter,299,Ecommerce,25.0,6.0,25.0,15,71.0,At Risk
+cust_1124,growth,799,Healthcare,25.0,6.0,25.0,15,71.0,At Risk
+cust_2334,pro,1999,Ecommerce,25.0,21.0,25.0,0,71.0,At Risk
+cust_61,growth,799,SaaS,25.0,6.0,25.0,15,71.0,At Risk
+cust_2223,starter,299,Healthcare,25.0,21.0,25.0,0,71.0,At Risk
+cust_928,growth,799,Ecommerce,25.0,21.0,20.0,5,71.0,At Risk
+cust_2147,pro,1999,Healthcare,25.0,21.0,25.0,0,71.0,At Risk
+cust_1030,growth,799,Healthcare,25.0,6.0,20.0,20,71.0,At Risk
+cust_722,growth,799,Healthcare,25.0,6.0,25.0,15,71.0,At Risk
+cust_2270,growth,799,Other,25.0,21.0,25.0,0,71.0,At Risk
+cust_2596,starter,299,Ecommerce,12.5,28.5,25.0,5,71.0,At Risk
+cust_1396,pro,1999,Other,25.0,21.0,25.0,0,71.0,At Risk
+cust_508,growth,799,Other,12.5,13.5,25.0,20,71.0,At Risk
+cust_2763,pro,1999,Finance,16.666666666666664,19.5,25.0,10,71.2,At Risk
+cust_1698,enterprise,4999,Finance,8.333333333333332,18.0,25.0,20,71.3,At Risk
+cust_2588,pro,1999,SaaS,6.25,30.0,25.0,10,71.3,At Risk
+cust_1233,starter,299,SaaS,18.75,7.5,25.0,20,71.3,At Risk
+cust_1271,starter,299,Ecommerce,6.25,30.0,20.0,15,71.3,At Risk
+cust_2784,starter,299,SaaS,6.25,30.0,20.0,15,71.3,At Risk
+cust_150,growth,799,Finance,6.25,30.0,15.0,20,71.3,At Risk
+cust_2330,growth,799,Other,6.25,30.0,25.0,10,71.3,At Risk
+cust_1497,growth,799,Finance,25.0,16.5,20.0,10,71.5,At Risk
+cust_1515,growth,799,SaaS,25.0,16.5,15.0,15,71.5,At Risk
+cust_1940,growth,799,Finance,25.0,16.5,15.0,15,71.5,At Risk
+cust_2203,starter,299,Finance,25.0,16.5,25.0,5,71.5,At Risk
+cust_716,starter,299,SaaS,25.0,16.5,25.0,5,71.5,At Risk
+cust_556,starter,299,SaaS,25.0,16.5,20.0,10,71.5,At Risk
+cust_814,growth,799,Healthcare,25.0,16.5,25.0,5,71.5,At Risk
+cust_2250,pro,1999,Ecommerce,25.0,16.5,15.0,15,71.5,At Risk
+cust_1609,starter,299,Ecommerce,25.0,1.5,25.0,20,71.5,At Risk
+cust_481,starter,299,Other,25.0,16.5,25.0,5,71.5,At Risk
+cust_1625,growth,799,Ecommerce,25.0,16.5,25.0,5,71.5,At Risk
+cust_2979,starter,299,Finance,25.0,16.5,25.0,5,71.5,At Risk
+cust_979,pro,1999,Healthcare,25.0,16.5,25.0,5,71.5,At Risk
+cust_1433,starter,299,SaaS,25.0,1.5,25.0,20,71.5,At Risk
+cust_612,starter,299,SaaS,25.0,1.5,25.0,20,71.5,At Risk
+cust_366,growth,799,Healthcare,16.666666666666664,30.0,10.0,15,71.7,At Risk
+cust_302,starter,299,Healthcare,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_2997,growth,799,Healthcare,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_1214,growth,799,Finance,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_2260,growth,799,Finance,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_2269,pro,1999,Other,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_1034,starter,299,SaaS,16.666666666666664,30.0,25.0,0,71.7,At Risk
+cust_2689,starter,299,Other,16.666666666666664,30.0,15.0,10,71.7,At Risk
+cust_1833,starter,299,Other,6.25,25.5,25.0,15,71.8,At Risk
+cust_675,enterprise,4999,Finance,18.75,18.0,25.0,10,71.8,At Risk
+cust_2677,starter,299,SaaS,18.75,18.0,25.0,10,71.8,At Risk
+cust_2069,pro,1999,Finance,10.416666666666668,16.5,25.0,20,71.9,At Risk
+cust_583,growth,799,Ecommerce,22.916666666666664,24.0,25.0,0,71.9,At Risk
+cust_282,pro,1999,Finance,25.0,27.0,20.0,0,72.0,At Risk
+cust_2915,growth,799,Other,25.0,27.0,10.0,10,72.0,At Risk
+cust_2185,growth,799,Other,25.0,27.0,20.0,0,72.0,At Risk
+cust_37,starter,299,SaaS,25.0,27.0,15.0,5,72.0,At Risk
+cust_1421,enterprise,4999,Finance,25.0,12.0,25.0,10,72.0,At Risk
+cust_1901,enterprise,4999,Ecommerce,25.0,27.0,20.0,0,72.0,At Risk
+cust_2321,starter,299,Other,25.0,27.0,10.0,10,72.0,At Risk
+cust_2552,starter,299,Other,25.0,27.0,15.0,5,72.0,At Risk
+cust_81,enterprise,4999,Healthcare,25.0,27.0,5.0,15,72.0,At Risk
+cust_505,starter,299,Ecommerce,25.0,12.0,25.0,10,72.0,At Risk
+cust_591,starter,299,Ecommerce,25.0,27.0,15.0,5,72.0,At Risk
+cust_1659,growth,799,Other,25.0,27.0,15.0,5,72.0,At Risk
+cust_2013,growth,799,SaaS,25.0,12.0,25.0,10,72.0,At Risk
+cust_2422,starter,299,Finance,25.0,12.0,15.0,20,72.0,At Risk
+cust_578,growth,799,Ecommerce,25.0,12.0,25.0,10,72.0,At Risk
+cust_2446,starter,299,SaaS,2.083333333333333,30.0,25.0,15,72.1,At Risk
+cust_1264,enterprise,4999,Finance,2.083333333333333,30.0,25.0,15,72.1,At Risk
+cust_457,pro,1999,Healthcare,2.083333333333333,30.0,20.0,20,72.1,At Risk
+cust_1872,starter,299,Ecommerce,16.666666666666664,25.5,25.0,5,72.2,At Risk
+cust_535,growth,799,Other,18.75,28.5,25.0,0,72.3,At Risk
+cust_618,growth,799,Finance,18.75,28.5,25.0,0,72.3,At Risk
+cust_845,pro,1999,SaaS,20.833333333333336,16.5,25.0,10,72.3,At Risk
+cust_1518,growth,799,Finance,22.916666666666664,19.5,25.0,5,72.4,At Risk
+cust_1203,growth,799,Ecommerce,22.916666666666664,19.5,20.0,10,72.4,At Risk
+cust_2143,growth,799,SaaS,10.416666666666668,27.0,25.0,10,72.4,At Risk
+cust_2901,growth,799,Healthcare,25.0,22.5,25.0,0,72.5,At Risk
+cust_332,pro,1999,Other,25.0,22.5,15.0,10,72.5,At Risk
+cust_643,growth,799,SaaS,12.5,30.0,25.0,5,72.5,At Risk
+cust_1715,growth,799,Ecommerce,25.0,7.5,25.0,15,72.5,At Risk
+cust_2234,growth,799,Ecommerce,25.0,22.5,15.0,10,72.5,At Risk
+cust_1760,pro,1999,Other,25.0,7.5,20.0,20,72.5,At Risk
+cust_408,growth,799,Other,25.0,22.5,10.0,15,72.5,At Risk
+cust_77,starter,299,Ecommerce,25.0,22.5,25.0,0,72.5,At Risk
+cust_1020,growth,799,Other,25.0,22.5,25.0,0,72.5,At Risk
+cust_731,starter,299,Other,25.0,22.5,25.0,0,72.5,At Risk
+cust_1851,pro,1999,Finance,12.5,30.0,25.0,5,72.5,At Risk
+cust_490,growth,799,Finance,12.5,30.0,25.0,5,72.5,At Risk
+cust_2544,starter,299,Ecommerce,25.0,22.5,25.0,0,72.5,At Risk
+cust_1392,growth,799,Ecommerce,12.5,30.0,20.0,10,72.5,At Risk
+cust_2228,pro,1999,Ecommerce,12.5,30.0,15.0,15,72.5,At Risk
+cust_1036,starter,299,Other,12.5,30.0,25.0,5,72.5,At Risk
+cust_798,growth,799,Other,12.5,30.0,25.0,5,72.5,At Risk
+cust_553,pro,1999,Finance,25.0,22.5,25.0,0,72.5,At Risk
+cust_2040,starter,299,Finance,25.0,22.5,20.0,5,72.5,At Risk
+cust_605,pro,1999,Ecommerce,12.5,15.0,25.0,20,72.5,At Risk
+cust_915,starter,299,Finance,25.0,22.5,25.0,0,72.5,At Risk
+cust_1290,growth,799,Ecommerce,25.0,22.5,15.0,10,72.5,At Risk
+cust_2923,starter,299,SaaS,4.166666666666666,28.5,20.0,20,72.7,At Risk
+cust_2743,growth,799,Other,18.75,9.0,25.0,20,72.8,At Risk
+cust_897,enterprise,4999,Other,18.75,9.0,25.0,20,72.8,At Risk
+cust_1419,starter,299,SaaS,22.916666666666664,30.0,20.0,0,72.9,At Risk
+cust_1380,growth,799,Other,22.916666666666664,15.0,25.0,10,72.9,At Risk
+cust_134,pro,1999,Healthcare,22.916666666666664,15.0,25.0,10,72.9,At Risk
+cust_879,pro,1999,SaaS,22.916666666666664,15.0,25.0,10,72.9,At Risk
+cust_681,growth,799,SaaS,22.916666666666664,30.0,10.0,10,72.9,At Risk
+cust_182,starter,299,Other,25.0,3.0,25.0,20,73.0,At Risk
+cust_943,starter,299,Finance,25.0,3.0,25.0,20,73.0,At Risk
+cust_51,pro,1999,Ecommerce,25.0,18.0,25.0,5,73.0,At Risk
+cust_1390,starter,299,Other,25.0,3.0,25.0,20,73.0,At Risk
+cust_2822,starter,299,Other,25.0,18.0,20.0,10,73.0,At Risk
+cust_2038,starter,299,SaaS,25.0,18.0,25.0,5,73.0,At Risk
+cust_181,starter,299,Finance,25.0,18.0,25.0,5,73.0,At Risk
+cust_2200,growth,799,Ecommerce,25.0,18.0,20.0,10,73.0,At Risk
+cust_2921,pro,1999,SaaS,8.333333333333332,30.0,20.0,15,73.3,At Risk
+cust_1295,growth,799,Healthcare,18.75,19.5,25.0,10,73.3,At Risk
+cust_760,growth,799,Other,8.333333333333332,30.0,15.0,20,73.3,At Risk
+cust_329,starter,299,SaaS,8.333333333333332,30.0,15.0,20,73.3,At Risk
+cust_1990,pro,1999,Healthcare,6.25,27.0,25.0,15,73.3,At Risk
+cust_1582,growth,799,Finance,20.833333333333336,22.5,25.0,5,73.3,At Risk
+cust_2003,starter,299,Ecommerce,8.333333333333332,30.0,25.0,10,73.3,At Risk
+cust_673,growth,799,Ecommerce,8.333333333333332,30.0,15.0,20,73.3,At Risk
+cust_1066,growth,799,SaaS,8.333333333333332,30.0,20.0,15,73.3,At Risk
+cust_2278,starter,299,Ecommerce,25.0,28.5,15.0,5,73.5,At Risk
+cust_752,pro,1999,Other,25.0,28.5,20.0,0,73.5,At Risk
+cust_2790,growth,799,SaaS,25.0,13.5,15.0,20,73.5,At Risk
+cust_2719,growth,799,Ecommerce,25.0,13.5,25.0,10,73.5,At Risk
+cust_322,growth,799,Finance,25.0,28.5,20.0,0,73.5,At Risk
+cust_626,enterprise,4999,Other,25.0,28.5,10.0,10,73.5,At Risk
+cust_2930,pro,1999,Healthcare,25.0,13.5,15.0,20,73.5,At Risk
+cust_2989,pro,1999,Other,25.0,28.5,5.0,15,73.5,At Risk
+cust_2482,starter,299,Finance,25.0,28.5,20.0,0,73.5,At Risk
+cust_2715,growth,799,Other,25.0,28.5,20.0,0,73.5,At Risk
+cust_417,growth,799,SaaS,25.0,28.5,10.0,10,73.5,At Risk
+cust_1042,growth,799,SaaS,25.0,28.5,20.0,0,73.5,At Risk
+cust_569,starter,299,Finance,14.583333333333334,24.0,15.0,20,73.6,At Risk
+cust_1859,starter,299,Ecommerce,18.75,30.0,25.0,0,73.8,At Risk
+cust_1411,starter,299,Ecommerce,18.75,30.0,10.0,15,73.8,At Risk
+cust_2312,starter,299,Finance,18.75,30.0,25.0,0,73.8,At Risk
+cust_204,starter,299,SaaS,18.75,30.0,25.0,0,73.8,At Risk
+cust_118,pro,1999,Finance,18.75,30.0,25.0,0,73.8,At Risk
+cust_2158,enterprise,4999,Finance,18.75,30.0,25.0,0,73.8,At Risk
+cust_2162,growth,799,Finance,18.75,30.0,25.0,0,73.8,At Risk
+cust_2584,starter,299,Other,18.75,30.0,25.0,0,73.8,At Risk
+cust_2015,starter,299,Healthcare,18.75,30.0,25.0,0,73.8,At Risk
+cust_1400,growth,799,Finance,18.75,30.0,25.0,0,73.8,At Risk
+cust_341,enterprise,4999,Ecommerce,25.0,24.0,25.0,0,74.0,At Risk
+cust_1415,starter,299,Finance,25.0,24.0,25.0,0,74.0,At Risk
+cust_1197,starter,299,Healthcare,25.0,24.0,25.0,0,74.0,At Risk
+cust_632,starter,299,Finance,25.0,9.0,25.0,15,74.0,At Risk
+cust_1921,enterprise,4999,Ecommerce,25.0,24.0,15.0,10,74.0,At Risk
+cust_42,starter,299,Finance,25.0,24.0,25.0,0,74.0,At Risk
+cust_1267,pro,1999,Healthcare,25.0,9.0,25.0,15,74.0,At Risk
+cust_2399,enterprise,4999,SaaS,25.0,9.0,25.0,15,74.0,At Risk
+cust_2558,starter,299,Ecommerce,25.0,24.0,25.0,0,74.0,At Risk
+cust_1953,pro,1999,SaaS,25.0,9.0,25.0,15,74.0,At Risk
+cust_1655,growth,799,Other,25.0,24.0,25.0,0,74.0,At Risk
+cust_2510,starter,299,Finance,25.0,24.0,25.0,0,74.0,At Risk
+cust_890,starter,299,Healthcare,25.0,24.0,25.0,0,74.0,At Risk
+cust_2652,pro,1999,Other,25.0,9.0,20.0,20,74.0,At Risk
+cust_141,pro,1999,SaaS,25.0,24.0,20.0,5,74.0,At Risk
+cust_1910,pro,1999,SaaS,25.0,24.0,25.0,0,74.0,At Risk
+cust_257,starter,299,Healthcare,25.0,9.0,25.0,15,74.0,At Risk
+cust_2723,pro,1999,Healthcare,25.0,24.0,25.0,0,74.0,At Risk
+cust_565,growth,799,Ecommerce,25.0,24.0,25.0,0,74.0,At Risk
+cust_2546,growth,799,Other,25.0,24.0,25.0,0,74.0,At Risk
+cust_2872,enterprise,4999,Finance,25.0,24.0,25.0,0,74.0,At Risk
+cust_2060,growth,799,Other,25.0,24.0,25.0,0,74.0,At Risk
+cust_1037,growth,799,Ecommerce,2.083333333333333,27.0,25.0,20,74.1,At Risk
+cust_730,starter,299,Other,4.166666666666666,30.0,25.0,15,74.2,At Risk
+cust_2929,starter,299,Ecommerce,4.166666666666666,30.0,20.0,20,74.2,At Risk
+cust_2868,starter,299,Healthcare,4.166666666666666,30.0,25.0,15,74.2,At Risk
+cust_2573,pro,1999,Healthcare,4.166666666666666,30.0,25.0,15,74.2,At Risk
+cust_1721,starter,299,SaaS,18.75,10.5,25.0,20,74.3,At Risk
+cust_2151,starter,299,Ecommerce,20.833333333333336,28.5,15.0,10,74.3,At Risk
+cust_167,starter,299,Healthcare,25.0,19.5,15.0,15,74.5,At Risk
+cust_2905,pro,1999,Healthcare,25.0,4.5,25.0,20,74.5,At Risk
+cust_2906,growth,799,Finance,25.0,19.5,25.0,5,74.5,At Risk
+cust_2302,starter,299,Ecommerce,25.0,19.5,15.0,15,74.5,At Risk
+cust_2693,starter,299,Finance,25.0,19.5,15.0,15,74.5,At Risk
+cust_1389,starter,299,Healthcare,25.0,19.5,25.0,5,74.5,At Risk
+cust_1436,enterprise,4999,SaaS,25.0,19.5,25.0,5,74.5,At Risk
+cust_2424,growth,799,SaaS,25.0,19.5,20.0,10,74.5,At Risk
+cust_1305,enterprise,4999,SaaS,25.0,19.5,25.0,5,74.5,At Risk
+cust_654,pro,1999,Ecommerce,25.0,19.5,25.0,5,74.5,At Risk
+cust_2196,starter,299,Other,25.0,19.5,25.0,5,74.5,At Risk
+cust_883,starter,299,Other,25.0,4.5,25.0,20,74.5,At Risk
+cust_18,pro,1999,Finance,14.583333333333334,30.0,25.0,5,74.6,At Risk
+cust_1005,starter,299,Other,14.583333333333334,30.0,25.0,5,74.6,At Risk
+cust_2680,starter,299,Healthcare,14.583333333333334,30.0,20.0,10,74.6,At Risk
+cust_152,starter,299,SaaS,14.583333333333334,30.0,25.0,5,74.6,At Risk
+cust_1738,starter,299,Other,4.166666666666666,25.5,25.0,20,74.7,At Risk
+cust_1739,growth,799,Healthcare,20.833333333333336,9.0,25.0,20,74.8,At Risk
+cust_2012,starter,299,SaaS,6.25,28.5,25.0,15,74.8,At Risk
+cust_8,growth,799,Finance,25.0,30.0,5.0,15,75.0,Healthy
+cust_2205,pro,1999,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_2267,growth,799,SaaS,25.0,30.0,20.0,0,75.0,Healthy
+cust_2775,pro,1999,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_737,growth,799,Healthcare,25.0,30.0,5.0,15,75.0,Healthy
+cust_39,pro,1999,Ecommerce,25.0,30.0,15.0,5,75.0,Healthy
+cust_1695,starter,299,Ecommerce,25.0,30.0,15.0,5,75.0,Healthy
+cust_1701,growth,799,Healthcare,25.0,15.0,25.0,10,75.0,Healthy
+cust_362,starter,299,Other,25.0,30.0,10.0,10,75.0,Healthy
+cust_522,starter,299,Ecommerce,25.0,30.0,15.0,5,75.0,Healthy
+cust_1716,growth,799,SaaS,25.0,30.0,5.0,15,75.0,Healthy
+cust_401,starter,299,Ecommerce,25.0,30.0,20.0,0,75.0,Healthy
+cust_2993,pro,1999,Ecommerce,25.0,30.0,15.0,5,75.0,Healthy
+cust_1853,pro,1999,Finance,25.0,30.0,20.0,0,75.0,Healthy
+cust_2824,starter,299,Finance,25.0,30.0,20.0,0,75.0,Healthy
+cust_652,growth,799,Ecommerce,25.0,30.0,5.0,15,75.0,Healthy
+cust_2590,starter,299,Finance,25.0,15.0,15.0,20,75.0,Healthy
+cust_214,growth,799,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_967,growth,799,Ecommerce,25.0,30.0,10.0,10,75.0,Healthy
+cust_823,starter,299,Other,25.0,30.0,10.0,10,75.0,Healthy
+cust_426,growth,799,Other,25.0,30.0,15.0,5,75.0,Healthy
+cust_2742,enterprise,4999,Other,25.0,30.0,15.0,5,75.0,Healthy
+cust_95,starter,299,SaaS,25.0,30.0,20.0,0,75.0,Healthy
+cust_903,growth,799,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_2324,starter,299,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_1606,growth,799,Finance,25.0,30.0,15.0,5,75.0,Healthy
+cust_1428,starter,299,SaaS,25.0,30.0,10.0,10,75.0,Healthy
+cust_1432,starter,299,Finance,25.0,30.0,5.0,15,75.0,Healthy
+cust_1031,growth,799,Finance,25.0,30.0,15.0,5,75.0,Healthy
+cust_2127,growth,799,SaaS,25.0,30.0,5.0,15,75.0,Healthy
+cust_1329,growth,799,Healthcare,25.0,30.0,5.0,15,75.0,Healthy
+cust_1619,starter,299,Other,25.0,30.0,10.0,10,75.0,Healthy
+cust_2509,pro,1999,Finance,25.0,30.0,5.0,15,75.0,Healthy
+cust_999,starter,299,SaaS,25.0,30.0,10.0,10,75.0,Healthy
+cust_1439,starter,299,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_1015,pro,1999,Other,25.0,30.0,15.0,5,75.0,Healthy
+cust_1917,growth,799,Ecommerce,25.0,30.0,10.0,10,75.0,Healthy
+cust_514,pro,1999,Ecommerce,25.0,30.0,20.0,0,75.0,Healthy
+cust_530,pro,1999,Healthcare,25.0,30.0,5.0,15,75.0,Healthy
+cust_1627,starter,299,Ecommerce,25.0,30.0,20.0,0,75.0,Healthy
+cust_2239,enterprise,4999,Finance,25.0,30.0,20.0,0,75.0,Healthy
+cust_2001,pro,1999,Ecommerce,25.0,30.0,20.0,0,75.0,Healthy
+cust_1048,starter,299,SaaS,25.0,30.0,15.0,5,75.0,Healthy
+cust_582,pro,1999,SaaS,25.0,30.0,10.0,10,75.0,Healthy
+cust_1375,enterprise,4999,Other,25.0,30.0,20.0,0,75.0,Healthy
+cust_2063,pro,1999,Other,25.0,30.0,15.0,5,75.0,Healthy
+cust_2891,starter,299,Healthcare,25.0,30.0,20.0,0,75.0,Healthy
+cust_2696,starter,299,Ecommerce,25.0,30.0,10.0,10,75.0,Healthy
+cust_1478,growth,799,Healthcare,25.0,30.0,10.0,10,75.0,Healthy
+cust_1057,pro,1999,Ecommerce,25.0,30.0,10.0,10,75.0,Healthy
+cust_2943,enterprise,4999,SaaS,25.0,30.0,5.0,15,75.0,Healthy
+cust_2619,growth,799,Ecommerce,25.0,30.0,10.0,10,75.0,Healthy
+cust_2404,starter,299,Finance,25.0,30.0,15.0,5,75.0,Healthy
+cust_2666,starter,299,SaaS,25.0,30.0,10.0,10,75.0,Healthy
+cust_2043,growth,799,Finance,25.0,30.0,15.0,5,75.0,Healthy
+cust_1736,growth,799,Finance,25.0,30.0,5.0,15,75.0,Healthy
+cust_2089,enterprise,4999,SaaS,14.583333333333334,25.5,25.0,10,75.1,Healthy
+cust_1937,enterprise,4999,Ecommerce,14.583333333333334,25.5,20.0,15,75.1,Healthy
+cust_1252,pro,1999,Other,8.333333333333332,27.0,25.0,15,75.3,Healthy
+cust_2322,starter,299,Finance,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_1068,pro,1999,Finance,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_2679,starter,299,Finance,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_1131,starter,299,SaaS,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_1215,growth,799,Ecommerce,10.416666666666668,30.0,20.0,15,75.4,Healthy
+cust_2710,starter,299,Healthcare,10.416666666666668,30.0,20.0,15,75.4,Healthy
+cust_205,growth,799,Ecommerce,22.916666666666664,22.5,25.0,5,75.4,Healthy
+cust_2500,starter,299,Healthcare,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_983,growth,799,Other,10.416666666666668,30.0,15.0,20,75.4,Healthy
+cust_2338,starter,299,Finance,10.416666666666668,30.0,25.0,10,75.4,Healthy
+cust_1849,pro,1999,Other,10.416666666666668,30.0,20.0,15,75.4,Healthy
+cust_10,growth,799,Ecommerce,25.0,25.5,25.0,0,75.5,Healthy
+cust_587,enterprise,4999,Healthcare,25.0,25.5,10.0,15,75.5,Healthy
+cust_727,enterprise,4999,SaaS,25.0,25.5,25.0,0,75.5,Healthy
+cust_442,pro,1999,Finance,25.0,25.5,25.0,0,75.5,Healthy
+cust_1587,starter,299,Healthcare,25.0,25.5,25.0,0,75.5,Healthy
+cust_1783,starter,299,SaaS,25.0,25.5,25.0,0,75.5,Healthy
+cust_506,growth,799,SaaS,25.0,25.5,25.0,0,75.5,Healthy
+cust_217,growth,799,Ecommerce,25.0,25.5,25.0,0,75.5,Healthy
+cust_250,enterprise,4999,Other,25.0,10.5,25.0,15,75.5,Healthy
+cust_2401,pro,1999,SaaS,25.0,25.5,15.0,10,75.5,Healthy
+cust_1589,growth,799,Healthcare,2.083333333333333,28.5,25.0,20,75.6,Healthy
+cust_1491,pro,1999,Ecommerce,20.833333333333336,30.0,10.0,15,75.8,Healthy
+cust_2066,pro,1999,SaaS,20.833333333333336,30.0,15.0,10,75.8,Healthy
+cust_2928,starter,299,Healthcare,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_384,growth,799,Healthcare,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_964,pro,1999,SaaS,20.833333333333336,30.0,15.0,10,75.8,Healthy
+cust_1561,growth,799,Finance,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_2866,pro,1999,SaaS,20.833333333333336,30.0,15.0,10,75.8,Healthy
+cust_449,growth,799,Healthcare,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_2195,pro,1999,Finance,20.833333333333336,30.0,5.0,20,75.8,Healthy
+cust_454,growth,799,Other,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_1934,starter,299,Other,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_2306,pro,1999,Ecommerce,20.833333333333336,30.0,5.0,20,75.8,Healthy
+cust_1658,growth,799,Finance,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_2653,starter,299,Ecommerce,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_2181,starter,299,Finance,20.833333333333336,30.0,10.0,15,75.8,Healthy
+cust_1479,pro,1999,Healthcare,18.75,12.0,25.0,20,75.8,Healthy
+cust_1613,growth,799,SaaS,20.833333333333336,30.0,5.0,20,75.8,Healthy
+cust_580,growth,799,Other,20.833333333333336,30.0,25.0,0,75.8,Healthy
+cust_525,starter,299,Other,18.75,12.0,25.0,20,75.8,Healthy
+cust_1078,pro,1999,Other,25.0,21.0,20.0,10,76.0,Healthy
+cust_233,starter,299,Ecommerce,25.0,21.0,25.0,5,76.0,Healthy
+cust_1205,starter,299,Healthcare,25.0,21.0,25.0,5,76.0,Healthy
+cust_1179,starter,299,Other,25.0,6.0,25.0,20,76.0,Healthy
+cust_2747,pro,1999,Other,25.0,6.0,25.0,20,76.0,Healthy
+cust_102,pro,1999,Healthcare,25.0,6.0,25.0,20,76.0,Healthy
+cust_977,growth,799,Healthcare,25.0,21.0,25.0,5,76.0,Healthy
+cust_733,starter,299,Ecommerce,25.0,21.0,25.0,5,76.0,Healthy
+cust_1049,starter,299,Other,25.0,6.0,25.0,20,76.0,Healthy
+cust_1051,growth,799,Healthcare,25.0,21.0,15.0,15,76.0,Healthy
+cust_6,growth,799,Healthcare,6.25,30.0,25.0,15,76.3,Healthy
+cust_30,growth,799,Other,6.25,30.0,25.0,15,76.3,Healthy
+cust_764,starter,299,Ecommerce,6.25,30.0,25.0,15,76.3,Healthy
+cust_937,pro,1999,Healthcare,6.25,30.0,25.0,15,76.3,Healthy
+cust_1693,growth,799,Ecommerce,18.75,22.5,15.0,20,76.3,Healthy
+cust_2164,starter,299,Healthcare,6.25,30.0,20.0,20,76.3,Healthy
+cust_2108,starter,299,Finance,6.25,30.0,25.0,15,76.3,Healthy
+cust_2799,starter,299,Other,20.833333333333336,25.5,10.0,20,76.3,Healthy
+cust_1818,starter,299,Healthcare,6.25,30.0,25.0,15,76.3,Healthy
+cust_1147,growth,799,Ecommerce,6.25,30.0,25.0,15,76.3,Healthy
+cust_2975,pro,1999,Other,20.833333333333336,25.5,15.0,15,76.3,Healthy
+cust_2585,pro,1999,Ecommerce,22.916666666666664,28.5,10.0,15,76.4,Healthy
+cust_1133,starter,299,Other,25.0,16.5,20.0,15,76.5,Healthy
+cust_1832,enterprise,4999,Finance,25.0,16.5,15.0,20,76.5,Healthy
+cust_2146,starter,299,Healthcare,25.0,16.5,25.0,10,76.5,Healthy
+cust_1541,enterprise,4999,Healthcare,25.0,16.5,20.0,15,76.5,Healthy
+cust_2671,starter,299,Finance,25.0,16.5,25.0,10,76.5,Healthy
+cust_993,growth,799,Other,25.0,16.5,25.0,10,76.5,Healthy
+cust_31,growth,799,Finance,16.666666666666664,30.0,10.0,20,76.7,Healthy
+cust_243,starter,299,Finance,16.666666666666664,30.0,10.0,20,76.7,Healthy
+cust_2926,enterprise,4999,Healthcare,16.666666666666664,30.0,25.0,5,76.7,Healthy
+cust_581,starter,299,Ecommerce,16.666666666666664,30.0,10.0,20,76.7,Healthy
+cust_2991,pro,1999,Finance,16.666666666666664,30.0,20.0,10,76.7,Healthy
+cust_904,growth,799,Finance,16.666666666666664,30.0,10.0,20,76.7,Healthy
+cust_1195,starter,299,Other,25.0,12.0,25.0,15,77.0,Healthy
+cust_2741,growth,799,Ecommerce,25.0,27.0,25.0,0,77.0,Healthy
+cust_2042,growth,799,Healthcare,25.0,27.0,25.0,0,77.0,Healthy
+cust_564,growth,799,SaaS,25.0,27.0,25.0,0,77.0,Healthy
+cust_1434,growth,799,Other,25.0,27.0,25.0,0,77.0,Healthy
+cust_690,starter,299,Ecommerce,25.0,27.0,15.0,10,77.0,Healthy
+cust_593,starter,299,Ecommerce,25.0,27.0,15.0,10,77.0,Healthy
+cust_2207,starter,299,Ecommerce,25.0,27.0,25.0,0,77.0,Healthy
+cust_875,growth,799,Ecommerce,25.0,27.0,25.0,0,77.0,Healthy
+cust_936,growth,799,Healthcare,25.0,27.0,25.0,0,77.0,Healthy
+cust_1554,starter,299,Healthcare,25.0,12.0,20.0,20,77.0,Healthy
+cust_469,growth,799,Ecommerce,25.0,12.0,20.0,20,77.0,Healthy
+cust_1893,growth,799,Ecommerce,25.0,27.0,20.0,5,77.0,Healthy
+cust_739,starter,299,Other,25.0,27.0,25.0,0,77.0,Healthy
+cust_189,starter,299,SaaS,25.0,12.0,25.0,15,77.0,Healthy
+cust_2651,starter,299,SaaS,25.0,12.0,25.0,15,77.0,Healthy
+cust_2295,enterprise,4999,Finance,2.083333333333333,30.0,25.0,20,77.1,Healthy
+cust_1395,growth,799,Other,2.083333333333333,30.0,25.0,20,77.1,Healthy
+cust_1294,growth,799,Ecommerce,2.083333333333333,30.0,25.0,20,77.1,Healthy
+cust_495,starter,299,Finance,16.666666666666664,25.5,25.0,10,77.2,Healthy
+cust_761,starter,299,SaaS,22.916666666666664,19.5,25.0,10,77.4,Healthy
+cust_1309,growth,799,Other,10.416666666666668,27.0,20.0,20,77.4,Healthy
+cust_2024,pro,1999,Other,25.0,22.5,25.0,5,77.5,Healthy
+cust_651,starter,299,Ecommerce,25.0,22.5,15.0,15,77.5,Healthy
+cust_2440,pro,1999,SaaS,12.5,30.0,25.0,10,77.5,Healthy
+cust_59,pro,1999,Other,25.0,22.5,20.0,10,77.5,Healthy
+cust_905,growth,799,Finance,25.0,22.5,20.0,10,77.5,Healthy
+cust_2217,pro,1999,Ecommerce,12.5,30.0,15.0,20,77.5,Healthy
+cust_1277,pro,1999,Healthcare,25.0,7.5,25.0,20,77.5,Healthy
+cust_822,starter,299,Finance,12.5,30.0,15.0,20,77.5,Healthy
+cust_1677,pro,1999,Finance,25.0,22.5,25.0,5,77.5,Healthy
+cust_1487,starter,299,Finance,25.0,7.5,25.0,20,77.5,Healthy
+cust_2722,starter,299,Finance,25.0,22.5,25.0,5,77.5,Healthy
+cust_830,growth,799,SaaS,12.5,30.0,25.0,10,77.5,Healthy
+cust_2073,starter,299,SaaS,25.0,22.5,15.0,15,77.5,Healthy
+cust_258,starter,299,Finance,25.0,22.5,25.0,5,77.5,Healthy
+cust_2081,pro,1999,Other,25.0,22.5,20.0,10,77.5,Healthy
+cust_1555,growth,799,Ecommerce,25.0,22.5,25.0,5,77.5,Healthy
+cust_1556,starter,299,Healthcare,25.0,7.5,25.0,20,77.5,Healthy
+cust_633,starter,299,SaaS,25.0,7.5,25.0,20,77.5,Healthy
+cust_268,starter,299,Other,25.0,7.5,25.0,20,77.5,Healthy
+cust_287,growth,799,Other,12.5,30.0,25.0,10,77.5,Healthy
+cust_2176,enterprise,4999,SaaS,12.5,30.0,25.0,10,77.5,Healthy
+cust_352,starter,299,Finance,12.5,30.0,15.0,20,77.5,Healthy
+cust_1796,starter,299,Ecommerce,14.583333333333334,18.0,25.0,20,77.6,Healthy
+cust_1342,pro,1999,Ecommerce,20.833333333333336,27.0,25.0,5,77.8,Healthy
+cust_2665,pro,1999,Ecommerce,20.833333333333336,12.0,25.0,20,77.8,Healthy
+cust_1552,pro,1999,Other,20.833333333333336,27.0,25.0,5,77.8,Healthy
+cust_2526,pro,1999,SaaS,20.833333333333336,12.0,25.0,20,77.8,Healthy
+cust_1025,starter,299,SaaS,18.75,24.0,25.0,10,77.8,Healthy
+cust_2888,enterprise,4999,SaaS,22.916666666666664,30.0,25.0,0,77.9,Healthy
+cust_2880,starter,299,Other,22.916666666666664,30.0,25.0,0,77.9,Healthy
+cust_700,growth,799,Ecommerce,22.916666666666664,15.0,20.0,20,77.9,Healthy
+cust_965,enterprise,4999,Healthcare,22.916666666666664,30.0,15.0,10,77.9,Healthy
+cust_2144,starter,299,Finance,22.916666666666664,30.0,15.0,10,77.9,Healthy
+cust_2702,enterprise,4999,Healthcare,22.916666666666664,15.0,25.0,15,77.9,Healthy
+cust_806,starter,299,Ecommerce,22.916666666666664,30.0,25.0,0,77.9,Healthy
+cust_422,starter,299,SaaS,22.916666666666664,30.0,5.0,20,77.9,Healthy
+cust_1259,starter,299,Other,12.5,25.5,20.0,20,78.0,Healthy
+cust_2907,growth,799,Other,25.0,18.0,20.0,15,78.0,Healthy
+cust_2767,growth,799,Finance,25.0,18.0,25.0,10,78.0,Healthy
+cust_567,pro,1999,Other,25.0,18.0,25.0,10,78.0,Healthy
+cust_1694,starter,299,Other,25.0,18.0,25.0,10,78.0,Healthy
+cust_2243,starter,299,Other,25.0,18.0,20.0,15,78.0,Healthy
+cust_2638,starter,299,Finance,6.25,27.0,25.0,20,78.3,Healthy
+cust_65,starter,299,Healthcare,8.333333333333332,30.0,25.0,15,78.3,Healthy
+cust_801,enterprise,4999,SaaS,18.75,19.5,25.0,15,78.3,Healthy
+cust_1994,pro,1999,Other,8.333333333333332,30.0,25.0,15,78.3,Healthy
+cust_746,growth,799,Healthcare,8.333333333333332,30.0,25.0,15,78.3,Healthy
+cust_2603,growth,799,Ecommerce,6.25,27.0,25.0,20,78.3,Healthy
+cust_2958,starter,299,SaaS,22.916666666666664,25.5,25.0,5,78.4,Healthy
+cust_1384,growth,799,SaaS,25.0,13.5,25.0,15,78.5,Healthy
+cust_758,growth,799,Ecommerce,25.0,13.5,25.0,15,78.5,Healthy
+cust_1536,starter,299,SaaS,25.0,28.5,25.0,0,78.5,Healthy
+cust_1847,enterprise,4999,Other,25.0,28.5,25.0,0,78.5,Healthy
+cust_166,growth,799,Ecommerce,25.0,13.5,25.0,15,78.5,Healthy
+cust_600,growth,799,Healthcare,25.0,28.5,25.0,0,78.5,Healthy
+cust_212,growth,799,Finance,25.0,28.5,25.0,0,78.5,Healthy
+cust_723,pro,1999,SaaS,25.0,13.5,25.0,15,78.5,Healthy
+cust_2314,starter,299,Healthcare,25.0,13.5,20.0,20,78.5,Healthy
+cust_209,growth,799,Finance,25.0,28.5,10.0,15,78.5,Healthy
+cust_1671,starter,299,Ecommerce,25.0,28.5,25.0,0,78.5,Healthy
+cust_1764,pro,1999,Healthcare,25.0,13.5,25.0,15,78.5,Healthy
+cust_2904,starter,299,Ecommerce,25.0,13.5,25.0,15,78.5,Healthy
+cust_2258,pro,1999,Other,25.0,13.5,25.0,15,78.5,Healthy
+cust_1887,pro,1999,Healthcare,25.0,28.5,25.0,0,78.5,Healthy
+cust_2468,pro,1999,Ecommerce,18.75,30.0,25.0,5,78.8,Healthy
+cust_1608,pro,1999,Finance,18.75,30.0,25.0,5,78.8,Healthy
+cust_2769,enterprise,4999,Finance,20.833333333333336,18.0,25.0,15,78.8,Healthy
+cust_2770,starter,299,Healthcare,18.75,30.0,20.0,10,78.8,Healthy
+cust_264,starter,299,Healthcare,18.75,30.0,25.0,5,78.8,Healthy
+cust_1794,starter,299,Other,18.75,30.0,25.0,5,78.8,Healthy
+cust_1909,starter,299,SaaS,18.75,30.0,10.0,20,78.8,Healthy
+cust_2914,enterprise,4999,Ecommerce,25.0,24.0,20.0,10,79.0,Healthy
+cust_1397,starter,299,Healthcare,25.0,24.0,25.0,5,79.0,Healthy
+cust_1457,growth,799,Ecommerce,25.0,24.0,15.0,15,79.0,Healthy
+cust_2315,starter,299,Ecommerce,25.0,9.0,25.0,20,79.0,Healthy
+cust_2990,pro,1999,Ecommerce,25.0,24.0,25.0,5,79.0,Healthy
+cust_263,growth,799,SaaS,25.0,24.0,15.0,15,79.0,Healthy
+cust_132,starter,299,Healthcare,25.0,24.0,25.0,5,79.0,Healthy
+cust_1987,enterprise,4999,Other,25.0,24.0,25.0,5,79.0,Healthy
+cust_295,pro,1999,Ecommerce,25.0,9.0,25.0,20,79.0,Healthy
+cust_355,pro,1999,Finance,25.0,24.0,25.0,5,79.0,Healthy
+cust_226,growth,799,Healthcare,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_1423,starter,299,Ecommerce,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_1649,growth,799,Finance,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_2717,starter,299,Ecommerce,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_2427,pro,1999,Finance,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_2343,starter,299,Other,4.166666666666666,30.0,25.0,20,79.2,Healthy
+cust_1710,starter,299,SaaS,20.833333333333336,13.5,25.0,20,79.3,Healthy
+cust_2204,growth,799,Finance,20.833333333333336,13.5,25.0,20,79.3,Healthy
+cust_776,growth,799,Ecommerce,22.916666666666664,16.5,25.0,15,79.4,Healthy
+cust_2737,pro,1999,Other,25.0,19.5,25.0,10,79.5,Healthy
+cust_659,pro,1999,Other,25.0,19.5,25.0,10,79.5,Healthy
+cust_2487,growth,799,Finance,25.0,19.5,25.0,10,79.5,Healthy
+cust_1834,starter,299,Other,25.0,19.5,20.0,15,79.5,Healthy
+cust_1527,enterprise,4999,SaaS,25.0,19.5,25.0,10,79.5,Healthy
+cust_1217,growth,799,Healthcare,25.0,19.5,15.0,20,79.5,Healthy
+cust_973,starter,299,Ecommerce,25.0,19.5,25.0,10,79.5,Healthy
+cust_1908,growth,799,SaaS,25.0,19.5,25.0,10,79.5,Healthy
+cust_2678,growth,799,SaaS,25.0,19.5,25.0,10,79.5,Healthy
+cust_2161,enterprise,4999,Healthcare,25.0,19.5,20.0,15,79.5,Healthy
+cust_1949,starter,299,Finance,25.0,19.5,25.0,10,79.5,Healthy
+cust_2611,starter,299,Healthcare,25.0,19.5,20.0,15,79.5,Healthy
+cust_1136,enterprise,4999,Other,25.0,19.5,25.0,10,79.5,Healthy
+cust_2226,starter,299,SaaS,25.0,19.5,25.0,10,79.5,Healthy
+cust_860,enterprise,4999,Finance,14.583333333333334,30.0,15.0,20,79.6,Healthy
+cust_1560,starter,299,SaaS,14.583333333333334,30.0,15.0,20,79.6,Healthy
+cust_1610,pro,1999,Ecommerce,14.583333333333334,30.0,25.0,10,79.6,Healthy
+cust_379,pro,1999,Other,20.833333333333336,24.0,15.0,20,79.8,Healthy
+cust_1422,starter,299,Healthcare,22.916666666666664,27.0,25.0,5,79.9,Healthy
+cust_11,growth,799,Other,25.0,30.0,5.0,20,80.0,Healthy
+cust_35,starter,299,Other,25.0,30.0,5.0,20,80.0,Healthy
+cust_2864,enterprise,4999,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_634,starter,299,Other,25.0,15.0,25.0,15,80.0,Healthy
+cust_1914,pro,1999,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_69,growth,799,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_2917,pro,1999,Healthcare,25.0,30.0,15.0,10,80.0,Healthy
+cust_115,enterprise,4999,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_123,growth,799,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_128,starter,299,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_1023,growth,799,Ecommerce,25.0,30.0,10.0,15,80.0,Healthy
+cust_171,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_1328,starter,299,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_2682,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2919,starter,299,SaaS,25.0,30.0,5.0,20,80.0,Healthy
+cust_2172,starter,299,Other,25.0,30.0,20.0,5,80.0,Healthy
+cust_297,starter,299,Other,25.0,30.0,15.0,10,80.0,Healthy
+cust_305,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_321,growth,799,Ecommerce,25.0,30.0,10.0,15,80.0,Healthy
+cust_345,starter,299,Other,25.0,30.0,20.0,5,80.0,Healthy
+cust_1158,pro,1999,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_388,starter,299,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_2935,growth,799,SaaS,25.0,30.0,20.0,5,80.0,Healthy
+cust_395,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_397,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_402,growth,799,Ecommerce,25.0,30.0,15.0,10,80.0,Healthy
+cust_403,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_412,starter,299,Other,25.0,30.0,15.0,10,80.0,Healthy
+cust_414,pro,1999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_428,pro,1999,SaaS,25.0,30.0,20.0,5,80.0,Healthy
+cust_443,pro,1999,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_444,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_476,pro,1999,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1866,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2950,starter,299,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_499,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_501,pro,1999,Ecommerce,25.0,30.0,5.0,20,80.0,Healthy
+cust_509,pro,1999,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_513,growth,799,Other,25.0,30.0,20.0,5,80.0,Healthy
+cust_537,growth,799,SaaS,25.0,30.0,15.0,10,80.0,Healthy
+cust_555,pro,1999,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_599,enterprise,4999,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2594,enterprise,4999,Other,25.0,15.0,25.0,15,80.0,Healthy
+cust_2413,starter,299,Finance,25.0,30.0,5.0,20,80.0,Healthy
+cust_660,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_668,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_683,starter,299,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_526,growth,799,Other,25.0,30.0,15.0,10,80.0,Healthy
+cust_693,starter,299,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_711,pro,1999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_750,growth,799,SaaS,25.0,30.0,5.0,20,80.0,Healthy
+cust_2854,starter,299,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1864,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_781,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_783,growth,799,Finance,25.0,30.0,15.0,10,80.0,Healthy
+cust_1171,enterprise,4999,SaaS,25.0,30.0,5.0,20,80.0,Healthy
+cust_1624,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_841,starter,299,SaaS,25.0,30.0,20.0,5,80.0,Healthy
+cust_850,enterprise,4999,Other,25.0,30.0,10.0,15,80.0,Healthy
+cust_2857,starter,299,SaaS,25.0,30.0,20.0,5,80.0,Healthy
+cust_922,enterprise,4999,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2396,growth,799,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1274,starter,299,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1320,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1189,growth,799,Other,25.0,30.0,20.0,5,80.0,Healthy
+cust_995,starter,299,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_2356,enterprise,4999,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_1064,starter,299,SaaS,25.0,30.0,15.0,10,80.0,Healthy
+cust_1071,pro,1999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1081,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_1113,starter,299,Other,25.0,15.0,25.0,15,80.0,Healthy
+cust_1186,growth,799,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_2191,growth,799,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_1862,starter,299,Finance,25.0,30.0,5.0,20,80.0,Healthy
+cust_2706,enterprise,4999,Ecommerce,25.0,30.0,10.0,15,80.0,Healthy
+cust_2707,starter,299,SaaS,25.0,30.0,10.0,15,80.0,Healthy
+cust_2771,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_1228,starter,299,SaaS,25.0,30.0,10.0,15,80.0,Healthy
+cust_378,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2804,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1325,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1376,pro,1999,Finance,25.0,30.0,15.0,10,80.0,Healthy
+cust_1379,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1404,starter,299,Healthcare,25.0,30.0,15.0,10,80.0,Healthy
+cust_2219,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_1322,growth,799,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_1579,pro,1999,Healthcare,25.0,30.0,15.0,10,80.0,Healthy
+cust_910,starter,299,SaaS,25.0,15.0,20.0,20,80.0,Healthy
+cust_2963,enterprise,4999,SaaS,25.0,15.0,20.0,20,80.0,Healthy
+cust_1496,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_1509,pro,1999,SaaS,25.0,30.0,5.0,20,80.0,Healthy
+cust_1514,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2748,starter,299,Healthcare,25.0,15.0,20.0,20,80.0,Healthy
+cust_2326,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2327,starter,299,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_1692,pro,1999,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_1696,pro,1999,Ecommerce,25.0,30.0,20.0,5,80.0,Healthy
+cust_1703,pro,1999,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_1276,pro,1999,Other,25.0,30.0,10.0,15,80.0,Healthy
+cust_1728,starter,299,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_1733,starter,299,Finance,25.0,30.0,20.0,5,80.0,Healthy
+cust_2370,pro,1999,Finance,25.0,30.0,5.0,20,80.0,Healthy
+cust_1762,pro,1999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1188,enterprise,4999,Ecommerce,25.0,30.0,10.0,15,80.0,Healthy
+cust_461,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_1815,pro,1999,Finance,25.0,30.0,10.0,15,80.0,Healthy
+cust_1838,enterprise,4999,Ecommerce,25.0,30.0,5.0,20,80.0,Healthy
+cust_1141,enterprise,4999,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_1985,pro,1999,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2011,growth,799,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_2057,starter,299,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2068,enterprise,4999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_2120,growth,799,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_2858,pro,1999,Ecommerce,25.0,30.0,10.0,15,80.0,Healthy
+cust_2241,pro,1999,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2277,enterprise,4999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_1969,growth,799,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_2439,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2464,growth,799,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_2202,starter,299,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_795,starter,299,Finance,25.0,30.0,10.0,15,80.0,Healthy
+cust_2511,growth,799,Other,25.0,30.0,25.0,0,80.0,Healthy
+cust_2524,growth,799,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_2532,growth,799,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_2537,pro,1999,SaaS,25.0,30.0,25.0,0,80.0,Healthy
+cust_902,growth,799,Ecommerce,25.0,30.0,25.0,0,80.0,Healthy
+cust_2672,growth,799,Healthcare,25.0,30.0,25.0,0,80.0,Healthy
+cust_456,starter,299,Finance,25.0,30.0,25.0,0,80.0,Healthy
+cust_899,growth,799,Ecommerce,10.416666666666668,30.0,25.0,15,80.4,Healthy
+cust_927,growth,799,Healthcare,22.916666666666664,22.5,25.0,10,80.4,Healthy
+cust_1207,growth,799,Finance,10.416666666666668,30.0,25.0,15,80.4,Healthy
+cust_2307,pro,1999,SaaS,10.416666666666668,30.0,25.0,15,80.4,Healthy
+cust_2365,enterprise,4999,Healthcare,10.416666666666668,30.0,25.0,15,80.4,Healthy
+cust_70,starter,299,Other,25.0,25.5,25.0,5,80.5,Healthy
+cust_1932,pro,1999,Other,25.0,25.5,20.0,10,80.5,Healthy
+cust_1931,pro,1999,Finance,25.0,25.5,15.0,15,80.5,Healthy
+cust_492,growth,799,SaaS,25.0,25.5,10.0,20,80.5,Healthy
+cust_2701,pro,1999,SaaS,25.0,25.5,25.0,5,80.5,Healthy
+cust_2415,starter,299,Healthcare,25.0,25.5,15.0,15,80.5,Healthy
+cust_2216,starter,299,Ecommerce,25.0,10.5,25.0,20,80.5,Healthy
+cust_2856,pro,1999,Other,25.0,10.5,25.0,20,80.5,Healthy
+cust_491,growth,799,SaaS,16.666666666666664,24.0,25.0,15,80.7,Healthy
+cust_2780,starter,299,Other,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_229,starter,299,Ecommerce,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_1614,growth,799,Healthcare,18.75,27.0,15.0,20,80.8,Healthy
+cust_688,starter,299,Healthcare,20.833333333333336,30.0,10.0,20,80.8,Healthy
+cust_2218,pro,1999,Finance,20.833333333333336,30.0,10.0,20,80.8,Healthy
+cust_949,pro,1999,Healthcare,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_1243,growth,799,Healthcare,20.833333333333336,30.0,10.0,20,80.8,Healthy
+cust_1448,enterprise,4999,SaaS,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_2286,pro,1999,Finance,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_2658,growth,799,Healthcare,20.833333333333336,30.0,25.0,5,80.8,Healthy
+cust_642,pro,1999,Finance,22.916666666666664,18.0,25.0,15,80.9,Healthy
+cust_2945,starter,299,Healthcare,12.5,28.5,25.0,15,81.0,Healthy
+cust_917,pro,1999,Ecommerce,25.0,21.0,20.0,15,81.0,Healthy
+cust_2605,starter,299,Finance,25.0,21.0,25.0,10,81.0,Healthy
+cust_1196,starter,299,SaaS,25.0,21.0,25.0,10,81.0,Healthy
+cust_1431,pro,1999,Finance,25.0,21.0,20.0,15,81.0,Healthy
+cust_1475,growth,799,Other,25.0,21.0,15.0,20,81.0,Healthy
+cust_1544,enterprise,4999,Healthcare,25.0,21.0,25.0,10,81.0,Healthy
+cust_293,growth,799,Ecommerce,16.666666666666664,19.5,25.0,20,81.2,Healthy
+cust_638,pro,1999,Other,6.25,30.0,25.0,20,81.3,Healthy
+cust_1618,pro,1999,Ecommerce,6.25,30.0,25.0,20,81.3,Healthy
+cust_821,enterprise,4999,Ecommerce,6.25,30.0,25.0,20,81.3,Healthy
+cust_2373,growth,799,Healthcare,6.25,30.0,25.0,20,81.3,Healthy
+cust_2890,pro,1999,Healthcare,6.25,30.0,25.0,20,81.3,Healthy
+cust_966,starter,299,SaaS,22.916666666666664,28.5,25.0,5,81.4,Healthy
+cust_894,starter,299,Healthcare,25.0,16.5,25.0,15,81.5,Healthy
+cust_392,starter,299,Healthcare,25.0,16.5,25.0,15,81.5,Healthy
+cust_1623,growth,799,Finance,25.0,16.5,25.0,15,81.5,Healthy
+cust_1749,starter,299,Healthcare,25.0,16.5,20.0,20,81.5,Healthy
+cust_2227,enterprise,4999,Healthcare,25.0,16.5,25.0,15,81.5,Healthy
+cust_2469,growth,799,Healthcare,25.0,16.5,25.0,15,81.5,Healthy
+cust_41,pro,1999,Finance,16.666666666666664,30.0,20.0,15,81.7,Healthy
+cust_1281,enterprise,4999,SaaS,16.666666666666664,30.0,15.0,20,81.7,Healthy
+cust_1268,starter,299,Ecommerce,16.666666666666664,30.0,25.0,10,81.7,Healthy
+cust_2168,pro,1999,Other,16.666666666666664,30.0,20.0,15,81.7,Healthy
+cust_1494,growth,799,SaaS,16.666666666666664,30.0,20.0,15,81.7,Healthy
+cust_2874,growth,799,SaaS,16.666666666666664,30.0,25.0,10,81.7,Healthy
+cust_2491,starter,299,Ecommerce,16.666666666666664,30.0,25.0,10,81.7,Healthy
+cust_1470,starter,299,Healthcare,20.833333333333336,21.0,25.0,15,81.8,Healthy
+cust_1351,starter,299,Finance,18.75,18.0,25.0,20,81.8,Healthy
+cust_55,starter,299,Healthcare,25.0,12.0,25.0,20,82.0,Healthy
+cust_156,growth,799,Healthcare,25.0,27.0,20.0,10,82.0,Healthy
+cust_262,growth,799,SaaS,25.0,12.0,25.0,20,82.0,Healthy
+cust_383,growth,799,Ecommerce,25.0,27.0,10.0,20,82.0,Healthy
+cust_2572,enterprise,4999,Other,25.0,27.0,25.0,5,82.0,Healthy
+cust_1353,growth,799,Ecommerce,25.0,27.0,15.0,15,82.0,Healthy
+cust_2556,growth,799,Finance,25.0,27.0,25.0,5,82.0,Healthy
+cust_1132,growth,799,Healthcare,25.0,27.0,10.0,20,82.0,Healthy
+cust_1253,enterprise,4999,Ecommerce,25.0,12.0,25.0,20,82.0,Healthy
+cust_1802,growth,799,Healthcare,25.0,12.0,25.0,20,82.0,Healthy
+cust_924,growth,799,Other,16.666666666666664,25.5,25.0,15,82.2,Healthy
+cust_215,starter,299,Healthcare,12.5,30.0,20.0,20,82.5,Healthy
+cust_629,growth,799,Ecommerce,25.0,22.5,25.0,10,82.5,Healthy
+cust_1191,starter,299,Other,25.0,22.5,25.0,10,82.5,Healthy
+cust_1016,enterprise,4999,SaaS,25.0,22.5,15.0,20,82.5,Healthy
+cust_818,starter,299,Healthcare,22.916666666666664,30.0,25.0,5,82.9,Healthy
+cust_1221,growth,799,Finance,22.916666666666664,30.0,25.0,5,82.9,Healthy
+cust_2758,starter,299,Ecommerce,22.916666666666664,30.0,25.0,5,82.9,Healthy
+cust_1714,growth,799,Finance,22.916666666666664,30.0,25.0,5,82.9,Healthy
+cust_2676,growth,799,Healthcare,22.916666666666664,30.0,25.0,5,82.9,Healthy
+cust_1017,starter,299,Ecommerce,25.0,18.0,20.0,20,83.0,Healthy
+cust_1022,pro,1999,Healthcare,12.5,25.5,25.0,20,83.0,Healthy
+cust_755,growth,799,Ecommerce,25.0,18.0,25.0,15,83.0,Healthy
+cust_1890,growth,799,Other,25.0,18.0,25.0,15,83.0,Healthy
+cust_2157,enterprise,4999,SaaS,12.5,25.5,25.0,20,83.0,Healthy
+cust_1209,pro,1999,Finance,8.333333333333332,30.0,25.0,20,83.3,Healthy
+cust_1140,starter,299,Healthcare,8.333333333333332,30.0,25.0,20,83.3,Healthy
+cust_53,growth,799,Other,25.0,28.5,25.0,5,83.5,Healthy
+cust_762,pro,1999,Finance,25.0,28.5,25.0,5,83.5,Healthy
+cust_1056,growth,799,Healthcare,25.0,13.5,25.0,20,83.5,Healthy
+cust_1530,growth,799,Finance,25.0,13.5,25.0,20,83.5,Healthy
+cust_1359,starter,299,SaaS,25.0,28.5,15.0,15,83.5,Healthy
+cust_1839,enterprise,4999,Healthcare,25.0,28.5,10.0,20,83.5,Healthy
+cust_2941,starter,299,SaaS,25.0,13.5,25.0,20,83.5,Healthy
+cust_2781,starter,299,Ecommerce,18.75,30.0,25.0,10,83.8,Healthy
+cust_1690,pro,1999,Ecommerce,18.75,30.0,20.0,15,83.8,Healthy
+cust_1331,enterprise,4999,Healthcare,18.75,30.0,25.0,10,83.8,Healthy
+cust_891,enterprise,4999,Healthcare,18.75,30.0,25.0,10,83.8,Healthy
+cust_1801,pro,1999,SaaS,10.416666666666668,28.5,25.0,20,83.9,Healthy
+cust_540,pro,1999,Healthcare,25.0,24.0,25.0,10,84.0,Healthy
+cust_588,starter,299,SaaS,25.0,24.0,25.0,10,84.0,Healthy
+cust_827,growth,799,Finance,25.0,24.0,25.0,10,84.0,Healthy
+cust_1230,growth,799,Other,25.0,24.0,25.0,10,84.0,Healthy
+cust_1722,starter,299,Healthcare,25.0,24.0,25.0,10,84.0,Healthy
+cust_98,enterprise,4999,Ecommerce,25.0,24.0,15.0,20,84.0,Healthy
+cust_1732,starter,299,Healthcare,25.0,24.0,20.0,15,84.0,Healthy
+cust_1842,growth,799,Other,25.0,24.0,25.0,10,84.0,Healthy
+cust_847,growth,799,SaaS,18.75,25.5,25.0,15,84.3,Healthy
+cust_1129,growth,799,Finance,12.5,27.0,25.0,20,84.5,Healthy
+cust_2970,growth,799,Other,25.0,19.5,25.0,15,84.5,Healthy
+cust_1377,growth,799,Finance,25.0,19.5,20.0,20,84.5,Healthy
+cust_1455,pro,1999,Healthcare,25.0,19.5,25.0,15,84.5,Healthy
+cust_1542,starter,299,Finance,25.0,19.5,25.0,15,84.5,Healthy
+cust_2016,pro,1999,SaaS,25.0,19.5,25.0,15,84.5,Healthy
+cust_2862,pro,1999,Healthcare,25.0,19.5,25.0,15,84.5,Healthy
+cust_2539,pro,1999,Healthcare,25.0,19.5,25.0,15,84.5,Healthy
+cust_471,starter,299,Finance,14.583333333333334,30.0,20.0,20,84.6,Healthy
+cust_1944,starter,299,Ecommerce,14.583333333333334,30.0,20.0,20,84.6,Healthy
+cust_1343,starter,299,Finance,18.75,21.0,25.0,20,84.8,Healthy
+cust_592,enterprise,4999,Ecommerce,22.916666666666664,27.0,20.0,15,84.9,Healthy
+cust_2548,pro,1999,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_1816,growth,799,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_465,pro,1999,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_2620,starter,299,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_474,pro,1999,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_1563,starter,299,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_533,growth,799,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_534,growth,799,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_721,starter,299,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_24,growth,799,Healthcare,25.0,30.0,10.0,20,85.0,Healthy
+cust_560,growth,799,Finance,25.0,30.0,10.0,20,85.0,Healthy
+cust_724,growth,799,Ecommerce,25.0,30.0,15.0,15,85.0,Healthy
+cust_459,enterprise,4999,Healthcare,25.0,30.0,20.0,10,85.0,Healthy
+cust_2405,starter,299,Finance,25.0,30.0,20.0,10,85.0,Healthy
+cust_653,pro,1999,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_667,growth,799,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_516,starter,299,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_715,starter,299,Ecommerce,25.0,30.0,20.0,10,85.0,Healthy
+cust_782,pro,1999,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_784,growth,799,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_787,growth,799,Healthcare,25.0,30.0,15.0,15,85.0,Healthy
+cust_445,starter,299,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_831,growth,799,Finance,25.0,30.0,15.0,15,85.0,Healthy
+cust_1942,growth,799,SaaS,25.0,30.0,15.0,15,85.0,Healthy
+cust_151,growth,799,Finance,25.0,30.0,15.0,15,85.0,Healthy
+cust_848,pro,1999,Healthcare,25.0,30.0,10.0,20,85.0,Healthy
+cust_1311,starter,299,Healthcare,25.0,30.0,20.0,10,85.0,Healthy
+cust_882,starter,299,Healthcare,25.0,30.0,10.0,20,85.0,Healthy
+cust_926,pro,1999,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_309,pro,1999,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_2595,pro,1999,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_981,pro,1999,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_989,starter,299,Ecommerce,25.0,30.0,15.0,15,85.0,Healthy
+cust_2869,growth,799,Other,25.0,30.0,20.0,10,85.0,Healthy
+cust_1105,growth,799,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_1128,pro,1999,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_180,starter,299,Healthcare,25.0,30.0,20.0,10,85.0,Healthy
+cust_1137,pro,1999,Other,25.0,30.0,10.0,20,85.0,Healthy
+cust_1897,pro,1999,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_1578,growth,799,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_2582,enterprise,4999,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_54,growth,799,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_1299,starter,299,Other,25.0,30.0,20.0,10,85.0,Healthy
+cust_2911,growth,799,SaaS,25.0,30.0,10.0,20,85.0,Healthy
+cust_1394,pro,1999,Finance,25.0,30.0,15.0,15,85.0,Healthy
+cust_1646,starter,299,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_343,growth,799,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_2909,enterprise,4999,Healthcare,25.0,30.0,15.0,15,85.0,Healthy
+cust_1482,growth,799,SaaS,25.0,30.0,20.0,10,85.0,Healthy
+cust_1483,growth,799,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_1039,enterprise,4999,Other,25.0,30.0,20.0,10,85.0,Healthy
+cust_1590,growth,799,SaaS,25.0,30.0,20.0,10,85.0,Healthy
+cust_1160,starter,299,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_1687,pro,1999,Other,25.0,30.0,15.0,15,85.0,Healthy
+cust_1653,growth,799,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_2320,growth,799,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_1727,starter,299,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_130,starter,299,SaaS,25.0,30.0,25.0,5,85.0,Healthy
+cust_1761,starter,299,SaaS,25.0,30.0,15.0,15,85.0,Healthy
+cust_1576,growth,799,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_381,starter,299,Other,25.0,30.0,10.0,20,85.0,Healthy
+cust_2976,enterprise,4999,SaaS,25.0,30.0,20.0,10,85.0,Healthy
+cust_1812,pro,1999,Other,25.0,30.0,15.0,15,85.0,Healthy
+cust_1955,starter,299,Healthcare,25.0,30.0,15.0,15,85.0,Healthy
+cust_2860,pro,1999,Other,25.0,30.0,25.0,5,85.0,Healthy
+cust_210,enterprise,4999,Other,25.0,30.0,15.0,15,85.0,Healthy
+cust_2940,starter,299,Ecommerce,25.0,30.0,25.0,5,85.0,Healthy
+cust_220,pro,1999,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_2992,growth,799,SaaS,25.0,30.0,15.0,15,85.0,Healthy
+cust_2056,enterprise,4999,SaaS,25.0,30.0,20.0,10,85.0,Healthy
+cust_2098,pro,1999,Ecommerce,25.0,30.0,10.0,20,85.0,Healthy
+cust_2102,enterprise,4999,Other,25.0,30.0,20.0,10,85.0,Healthy
+cust_2109,starter,299,SaaS,25.0,30.0,15.0,15,85.0,Healthy
+cust_2337,starter,299,SaaS,25.0,30.0,10.0,20,85.0,Healthy
+cust_2126,starter,299,Ecommerce,25.0,30.0,10.0,20,85.0,Healthy
+cust_2850,growth,799,Ecommerce,25.0,30.0,10.0,20,85.0,Healthy
+cust_2475,starter,299,Ecommerce,25.0,30.0,15.0,15,85.0,Healthy
+cust_240,pro,1999,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_2177,enterprise,4999,Other,25.0,30.0,15.0,15,85.0,Healthy
+cust_2190,starter,299,SaaS,25.0,30.0,15.0,15,85.0,Healthy
+cust_1604,enterprise,4999,Healthcare,25.0,30.0,25.0,5,85.0,Healthy
+cust_635,enterprise,4999,Finance,25.0,15.0,25.0,20,85.0,Healthy
+cust_48,growth,799,Finance,25.0,30.0,25.0,5,85.0,Healthy
+cust_1469,growth,799,Other,16.666666666666664,28.5,25.0,15,85.2,Healthy
+cust_1378,pro,1999,Other,10.416666666666668,30.0,25.0,20,85.4,Healthy
+cust_2037,pro,1999,Finance,10.416666666666668,30.0,25.0,20,85.4,Healthy
+cust_7,starter,299,Other,25.0,25.5,20.0,15,85.5,Healthy
+cust_1011,pro,1999,Ecommerce,25.0,25.5,25.0,10,85.5,Healthy
+cust_695,starter,299,Finance,25.0,25.5,20.0,15,85.5,Healthy
+cust_191,starter,299,Finance,25.0,25.5,25.0,10,85.5,Healthy
+cust_1000,pro,1999,SaaS,25.0,25.5,20.0,15,85.5,Healthy
+cust_1798,growth,799,SaaS,25.0,25.5,20.0,15,85.5,Healthy
+cust_2802,starter,299,Healthcare,25.0,25.5,25.0,10,85.5,Healthy
+cust_201,pro,1999,Healthcare,20.833333333333336,30.0,25.0,10,85.8,Healthy
+cust_728,pro,1999,Ecommerce,20.833333333333336,30.0,25.0,10,85.8,Healthy
+cust_2113,growth,799,Healthcare,20.833333333333336,30.0,25.0,10,85.8,Healthy
+cust_2792,growth,799,Finance,20.833333333333336,30.0,25.0,10,85.8,Healthy
+cust_1665,pro,1999,Finance,25.0,21.0,25.0,15,86.0,Healthy
+cust_2647,pro,1999,Ecommerce,25.0,21.0,25.0,15,86.0,Healthy
+cust_1227,growth,799,Ecommerce,25.0,21.0,25.0,15,86.0,Healthy
+cust_2557,starter,299,Finance,25.0,21.0,20.0,20,86.0,Healthy
+cust_1989,growth,799,Other,12.5,28.5,25.0,20,86.0,Healthy
+cust_2456,starter,299,Finance,25.0,21.0,25.0,15,86.0,Healthy
+cust_2849,growth,799,Finance,25.0,21.0,25.0,15,86.0,Healthy
+cust_197,enterprise,4999,Ecommerce,20.833333333333336,25.5,25.0,15,86.3,Healthy
+cust_1075,enterprise,4999,Finance,25.0,16.5,25.0,20,86.5,Healthy
+cust_2782,pro,1999,Ecommerce,14.583333333333334,27.0,25.0,20,86.6,Healthy
+cust_1784,starter,299,Finance,14.583333333333334,27.0,25.0,20,86.6,Healthy
+cust_2486,growth,799,Other,14.583333333333334,27.0,25.0,20,86.6,Healthy
+cust_246,starter,299,Finance,16.666666666666664,30.0,25.0,15,86.7,Healthy
+cust_1187,starter,299,Ecommerce,16.666666666666664,30.0,25.0,15,86.7,Healthy
+cust_2192,growth,799,Other,16.666666666666664,30.0,25.0,15,86.7,Healthy
+cust_1526,starter,299,Healthcare,16.666666666666664,30.0,25.0,15,86.7,Healthy
+cust_1817,starter,299,Finance,16.666666666666664,30.0,25.0,15,86.7,Healthy
+cust_837,enterprise,4999,SaaS,25.0,27.0,20.0,15,87.0,Healthy
+cust_1193,enterprise,4999,Healthcare,25.0,27.0,25.0,10,87.0,Healthy
+cust_1549,starter,299,Ecommerce,25.0,27.0,20.0,15,87.0,Healthy
+cust_2960,starter,299,Ecommerce,25.0,27.0,25.0,10,87.0,Healthy
+cust_2497,starter,299,Healthcare,25.0,27.0,25.0,10,87.0,Healthy
+cust_898,pro,1999,Ecommerce,25.0,27.0,15.0,20,87.0,Healthy
+cust_162,growth,799,SaaS,22.916666666666664,19.5,25.0,20,87.4,Healthy
+cust_1725,pro,1999,Ecommerce,22.916666666666664,19.5,25.0,20,87.4,Healthy
+cust_486,growth,799,SaaS,25.0,22.5,25.0,15,87.5,Healthy
+cust_536,pro,1999,Finance,25.0,22.5,20.0,20,87.5,Healthy
+cust_385,growth,799,Other,12.5,30.0,25.0,20,87.5,Healthy
+cust_597,starter,299,Other,25.0,22.5,25.0,15,87.5,Healthy
+cust_942,pro,1999,Ecommerce,12.5,30.0,25.0,20,87.5,Healthy
+cust_2366,pro,1999,Ecommerce,25.0,22.5,25.0,15,87.5,Healthy
+cust_1201,enterprise,4999,Finance,25.0,22.5,25.0,15,87.5,Healthy
+cust_1316,growth,799,Other,25.0,22.5,25.0,15,87.5,Healthy
+cust_1174,growth,799,Finance,25.0,22.5,20.0,20,87.5,Healthy
+cust_2839,growth,799,Healthcare,25.0,22.5,25.0,15,87.5,Healthy
+cust_1459,starter,299,Other,20.833333333333336,27.0,25.0,15,87.8,Healthy
+cust_2800,enterprise,4999,Healthcare,20.833333333333336,27.0,25.0,15,87.8,Healthy
+cust_46,growth,799,Finance,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_852,pro,1999,SaaS,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_939,pro,1999,Healthcare,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_520,growth,799,Healthcare,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_104,growth,799,SaaS,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_2744,enterprise,4999,Ecommerce,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_1805,starter,299,Other,22.916666666666664,30.0,25.0,10,87.9,Healthy
+cust_2664,growth,799,Finance,22.916666666666664,30.0,20.0,15,87.9,Healthy
+cust_2550,growth,799,SaaS,25.0,18.0,25.0,20,88.0,Healthy
+cust_1668,starter,299,SaaS,25.0,18.0,25.0,20,88.0,Healthy
+cust_2059,growth,799,Other,25.0,18.0,25.0,20,88.0,Healthy
+cust_1747,starter,299,SaaS,25.0,18.0,25.0,20,88.0,Healthy
+cust_680,pro,1999,Other,25.0,18.0,25.0,20,88.0,Healthy
+cust_768,growth,799,Ecommerce,25.0,18.0,25.0,20,88.0,Healthy
+cust_1885,enterprise,4999,Other,22.916666666666664,25.5,25.0,15,88.4,Healthy
+cust_1795,starter,299,Healthcare,25.0,28.5,25.0,10,88.5,Healthy
+cust_1270,growth,799,Other,25.0,28.5,25.0,10,88.5,Healthy
+cust_222,growth,799,Finance,25.0,28.5,20.0,15,88.5,Healthy
+cust_2612,pro,1999,SaaS,25.0,28.5,25.0,10,88.5,Healthy
+cust_1540,growth,799,Ecommerce,25.0,28.5,25.0,10,88.5,Healthy
+cust_2293,pro,1999,Other,25.0,28.5,25.0,10,88.5,Healthy
+cust_808,enterprise,4999,SaaS,25.0,28.5,25.0,10,88.5,Healthy
+cust_2484,starter,299,Finance,16.666666666666664,27.0,25.0,20,88.7,Healthy
+cust_1410,growth,799,Ecommerce,18.75,30.0,25.0,15,88.8,Healthy
+cust_1933,growth,799,Healthcare,18.75,30.0,25.0,15,88.8,Healthy
+cust_368,growth,799,SaaS,18.75,30.0,25.0,15,88.8,Healthy
+cust_1486,starter,299,Finance,18.75,30.0,25.0,15,88.8,Healthy
+cust_2189,growth,799,SaaS,25.0,24.0,25.0,15,89.0,Healthy
+cust_1667,pro,1999,Other,25.0,24.0,25.0,15,89.0,Healthy
+cust_2704,growth,799,Other,25.0,24.0,25.0,15,89.0,Healthy
+cust_2470,growth,799,Ecommerce,25.0,24.0,25.0,15,89.0,Healthy
+cust_2933,starter,299,Healthcare,25.0,19.5,25.0,20,89.5,Healthy
+cust_901,enterprise,4999,Finance,25.0,19.5,25.0,20,89.5,Healthy
+cust_885,growth,799,Ecommerce,25.0,19.5,25.0,20,89.5,Healthy
+cust_1417,growth,799,Ecommerce,25.0,19.5,25.0,20,89.5,Healthy
+cust_698,growth,799,Other,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_2520,starter,299,Ecommerce,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_314,growth,799,Finance,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_1346,pro,1999,Other,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_2878,pro,1999,Healthcare,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_361,starter,299,Ecommerce,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_49,growth,799,SaaS,14.583333333333334,30.0,25.0,20,89.6,Healthy
+cust_28,pro,1999,Other,25.0,30.0,15.0,20,90.0,Healthy
+cust_267,enterprise,4999,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_819,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2967,growth,799,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_187,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_946,growth,799,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_948,pro,1999,Finance,25.0,30.0,25.0,10,90.0,Healthy
+cust_1577,starter,299,Finance,25.0,30.0,20.0,15,90.0,Healthy
+cust_1079,starter,299,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_1099,pro,1999,Other,25.0,30.0,15.0,20,90.0,Healthy
+cust_1117,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_1119,pro,1999,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_523,pro,1999,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_1240,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_1262,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_1929,growth,799,Other,25.0,30.0,15.0,20,90.0,Healthy
+cust_1466,pro,1999,Other,25.0,30.0,20.0,15,90.0,Healthy
+cust_1489,growth,799,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_1533,growth,799,Other,25.0,30.0,20.0,15,90.0,Healthy
+cust_335,pro,1999,Finance,25.0,30.0,25.0,10,90.0,Healthy
+cust_1344,growth,799,Healthcare,25.0,30.0,15.0,20,90.0,Healthy
+cust_2232,growth,799,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_2294,pro,1999,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2299,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2301,growth,799,Healthcare,25.0,30.0,15.0,20,90.0,Healthy
+cust_2450,growth,799,Finance,25.0,30.0,20.0,15,90.0,Healthy
+cust_348,pro,1999,Healthcare,25.0,30.0,15.0,20,90.0,Healthy
+cust_793,enterprise,4999,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_772,starter,299,Healthcare,25.0,30.0,20.0,15,90.0,Healthy
+cust_2495,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2498,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_770,starter,299,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_2876,starter,299,SaaS,25.0,30.0,15.0,20,90.0,Healthy
+cust_2754,pro,1999,Ecommerce,25.0,30.0,20.0,15,90.0,Healthy
+cust_2700,pro,1999,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_763,growth,799,Healthcare,25.0,30.0,15.0,20,90.0,Healthy
+cust_2712,pro,1999,Other,25.0,30.0,20.0,15,90.0,Healthy
+cust_2828,starter,299,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_2831,starter,299,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_689,starter,299,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_2949,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_572,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_554,starter,299,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_791,growth,799,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_2564,starter,299,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_2730,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_797,growth,799,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2732,starter,299,Other,25.0,30.0,20.0,15,90.0,Healthy
+cust_2574,starter,299,Finance,25.0,30.0,25.0,10,90.0,Healthy
+cust_473,growth,799,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_1652,growth,799,Ecommerce,25.0,30.0,15.0,20,90.0,Healthy
+cust_1924,starter,299,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_2304,pro,1999,Finance,25.0,30.0,25.0,10,90.0,Healthy
+cust_2846,pro,1999,Healthcare,25.0,30.0,25.0,10,90.0,Healthy
+cust_1884,growth,799,Other,25.0,30.0,15.0,20,90.0,Healthy
+cust_433,growth,799,Other,25.0,30.0,25.0,10,90.0,Healthy
+cust_387,starter,299,Ecommerce,25.0,30.0,25.0,10,90.0,Healthy
+cust_2407,pro,1999,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2210,pro,1999,Finance,25.0,30.0,25.0,10,90.0,Healthy
+cust_369,pro,1999,SaaS,25.0,30.0,20.0,15,90.0,Healthy
+cust_112,enterprise,4999,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_1306,starter,299,SaaS,25.0,30.0,25.0,10,90.0,Healthy
+cust_2428,pro,1999,Healthcare,16.666666666666664,28.5,25.0,20,90.2,Healthy
+cust_448,pro,1999,Ecommerce,25.0,25.5,25.0,15,90.5,Healthy
+cust_2673,growth,799,Ecommerce,25.0,25.5,20.0,20,90.5,Healthy
+cust_2474,growth,799,Other,25.0,25.5,20.0,20,90.5,Healthy
+cust_2766,growth,799,Finance,25.0,25.5,25.0,15,90.5,Healthy
+cust_1210,starter,299,Ecommerce,25.0,25.5,25.0,15,90.5,Healthy
+cust_779,starter,299,Finance,25.0,25.5,25.0,15,90.5,Healthy
+cust_2698,pro,1999,Other,20.833333333333336,30.0,25.0,15,90.8,Healthy
+cust_1046,pro,1999,Finance,20.833333333333336,30.0,25.0,15,90.8,Healthy
+cust_932,starter,299,Other,20.833333333333336,30.0,25.0,15,90.8,Healthy
+cust_1425,pro,1999,Ecommerce,25.0,21.0,25.0,20,91.0,Healthy
+cust_868,pro,1999,SaaS,25.0,21.0,25.0,20,91.0,Healthy
+cust_2222,starter,299,SaaS,20.833333333333336,25.5,25.0,20,91.3,Healthy
+cust_2725,starter,299,Healthcare,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_805,starter,299,Finance,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_117,enterprise,4999,Healthcare,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_2074,growth,799,SaaS,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_223,starter,299,SaaS,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_111,pro,1999,Other,16.666666666666664,30.0,25.0,20,91.7,Healthy
+cust_1559,pro,1999,SaaS,25.0,27.0,25.0,15,92.0,Healthy
+cust_777,growth,799,SaaS,25.0,27.0,25.0,15,92.0,Healthy
+cust_1222,starter,299,Other,25.0,27.0,25.0,15,92.0,Healthy
+cust_255,starter,299,Finance,25.0,22.5,25.0,20,92.5,Healthy
+cust_1291,pro,1999,Other,25.0,22.5,25.0,20,92.5,Healthy
+cust_2527,enterprise,4999,Healthcare,25.0,22.5,25.0,20,92.5,Healthy
+cust_2245,pro,1999,Healthcare,20.833333333333336,27.0,25.0,20,92.8,Healthy
+cust_1094,pro,1999,Healthcare,22.916666666666664,30.0,25.0,15,92.9,Healthy
+cust_1503,growth,799,Healthcare,22.916666666666664,25.5,25.0,20,93.4,Healthy
+cust_2964,starter,299,Ecommerce,25.0,28.5,25.0,15,93.5,Healthy
+cust_1202,pro,1999,Finance,25.0,28.5,25.0,15,93.5,Healthy
+cust_1682,starter,299,Other,25.0,28.5,20.0,20,93.5,Healthy
+cust_2264,pro,1999,SaaS,25.0,28.5,25.0,15,93.5,Healthy
+cust_1776,pro,1999,Other,18.75,30.0,25.0,20,93.8,Healthy
+cust_2739,pro,1999,Ecommerce,18.75,30.0,25.0,20,93.8,Healthy
+cust_1679,starter,299,Ecommerce,18.75,30.0,25.0,20,93.8,Healthy
+cust_512,growth,799,Healthcare,18.75,30.0,25.0,20,93.8,Healthy
+cust_934,pro,1999,Ecommerce,18.75,30.0,25.0,20,93.8,Healthy
+cust_2613,starter,299,Healthcare,25.0,24.0,25.0,20,94.0,Healthy
+cust_1153,enterprise,4999,Other,25.0,24.0,25.0,20,94.0,Healthy
+cust_2827,growth,799,Finance,25.0,24.0,25.0,20,94.0,Healthy
+cust_2461,pro,1999,Healthcare,25.0,24.0,25.0,20,94.0,Healthy
+cust_1437,growth,799,Other,25.0,24.0,25.0,20,94.0,Healthy
+cust_2614,growth,799,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_2627,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_842,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_925,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1054,growth,799,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_1065,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1085,pro,1999,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_1106,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_1114,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_1224,starter,299,Finance,25.0,30.0,20.0,20,95.0,Healthy
+cust_1238,starter,299,Healthcare,25.0,30.0,20.0,20,95.0,Healthy
+cust_1528,pro,1999,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_1543,starter,299,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_1752,growth,799,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1763,pro,1999,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_153,pro,1999,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1981,growth,799,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_1984,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_2033,growth,799,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_2106,pro,1999,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_21,growth,799,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_230,growth,799,Ecommerce,25.0,30.0,20.0,20,95.0,Healthy
+cust_2476,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_738,starter,299,Healthcare,25.0,30.0,20.0,20,95.0,Healthy
+cust_1362,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_2805,growth,799,Other,25.0,30.0,20.0,20,95.0,Healthy
+cust_2806,starter,299,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_710,growth,799,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_2922,starter,299,Other,25.0,30.0,20.0,20,95.0,Healthy
+cust_2996,pro,1999,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_586,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_2398,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_2341,starter,299,Healthcare,25.0,30.0,25.0,15,95.0,Healthy
+cust_2344,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_2587,starter,299,Finance,25.0,30.0,20.0,20,95.0,Healthy
+cust_2152,pro,1999,Healthcare,25.0,30.0,20.0,20,95.0,Healthy
+cust_1183,growth,799,SaaS,25.0,30.0,20.0,20,95.0,Healthy
+cust_1357,growth,799,Healthcare,25.0,30.0,20.0,20,95.0,Healthy
+cust_498,growth,799,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_1367,enterprise,4999,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_2403,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_468,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_1664,pro,1999,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_389,growth,799,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_2420,starter,299,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_2765,starter,299,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_1286,growth,799,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_2981,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_2193,starter,299,Finance,25.0,30.0,25.0,15,95.0,Healthy
+cust_328,starter,299,Finance,25.0,30.0,20.0,20,95.0,Healthy
+cust_1877,pro,1999,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_277,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1950,starter,299,Other,25.0,30.0,25.0,15,95.0,Healthy
+cust_1157,starter,299,SaaS,25.0,30.0,25.0,15,95.0,Healthy
+cust_753,growth,799,Ecommerce,25.0,30.0,25.0,15,95.0,Healthy
+cust_2794,enterprise,4999,SaaS,25.0,25.5,25.0,20,95.5,Healthy
+cust_1883,starter,299,SaaS,25.0,25.5,25.0,20,95.5,Healthy
+cust_2208,growth,799,Other,25.0,25.5,25.0,20,95.5,Healthy
+cust_2670,starter,299,SaaS,25.0,25.5,25.0,20,95.5,Healthy
+cust_1978,starter,299,Healthcare,25.0,25.5,25.0,20,95.5,Healthy
+cust_2432,starter,299,Healthcare,25.0,25.5,25.0,20,95.5,Healthy
+cust_794,starter,299,Healthcare,20.833333333333336,30.0,25.0,20,95.8,Healthy
+cust_1594,growth,799,Finance,20.833333333333336,30.0,25.0,20,95.8,Healthy
+cust_2313,starter,299,Finance,20.833333333333336,30.0,25.0,20,95.8,Healthy
+cust_528,enterprise,4999,Healthcare,25.0,27.0,25.0,20,97.0,Healthy
+cust_43,enterprise,4999,Finance,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_236,growth,799,SaaS,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_775,growth,799,Finance,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_1525,enterprise,4999,Ecommerce,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_2522,growth,799,SaaS,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_1959,growth,799,SaaS,22.916666666666664,30.0,25.0,20,97.9,Healthy
+cust_2096,enterprise,4999,Healthcare,25.0,28.5,25.0,20,98.5,Healthy
+cust_2814,starter,299,Other,25.0,28.5,25.0,20,98.5,Healthy
+cust_1935,pro,1999,Ecommerce,25.0,28.5,25.0,20,98.5,Healthy
+cust_2364,enterprise,4999,Other,25.0,28.5,25.0,20,98.5,Healthy
+cust_20,starter,299,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_1310,pro,1999,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_122,pro,1999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_124,enterprise,4999,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_159,starter,299,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_176,enterprise,4999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_342,pro,1999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_431,starter,299,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_604,starter,299,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_644,growth,799,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_665,pro,1999,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_85,growth,799,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_994,pro,1999,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_1047,enterprise,4999,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_1135,growth,799,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_1204,starter,299,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_1218,starter,299,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_1480,starter,299,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_1481,enterprise,4999,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_1512,starter,299,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_1734,pro,1999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_2030,growth,799,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_2123,enterprise,4999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_2452,pro,1999,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_2517,starter,299,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_2542,pro,1999,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_2655,pro,1999,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_2663,growth,799,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_1848,growth,799,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_1595,starter,299,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_900,pro,1999,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_2583,growth,799,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_458,growth,799,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_2214,pro,1999,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_2159,pro,1999,Finance,25.0,30.0,25.0,20,100.0,Healthy
+cust_1372,growth,799,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_2606,pro,1999,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_2628,pro,1999,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_1870,enterprise,4999,Ecommerce,25.0,30.0,25.0,20,100.0,Healthy
+cust_1002,pro,1999,SaaS,25.0,30.0,25.0,20,100.0,Healthy
+cust_2983,starter,299,Other,25.0,30.0,25.0,20,100.0,Healthy
+cust_375,growth,799,Healthcare,25.0,30.0,25.0,20,100.0,Healthy
+cust_743,growth,799,Finance,25.0,30.0,25.0,20,100.0,Healthy
